@@ -54,13 +54,6 @@ from Kaggle and performs a basic preprocessing pipeline to prepare it for later 
 
 ---
 
-##  Notes
-
-- This script completes the requirement:  
-  **“Mbledhja e të dhënave, definimi i tipeve të të dhënave, kualiteti i të dhënave.”**
-- The cleaned dataset is now ready for **Part 2** of the project.
-
----
 
 ## How to Run
 
