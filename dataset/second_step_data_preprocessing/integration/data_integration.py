@@ -49,7 +49,7 @@ print("\nChecking for Null Values after Improved Integration:")
 print(integrated_df.isnull().sum())
 
 # -----------------------------------------------------
-# FEATURE CREATION (Krijimi i Vetive) & TRANSFORMATION
+# FEATURE CREATION (Krijimi i Vetive)
 # -----------------------------------------------------
 # Create a new, meaningful feature: Grant Amount Per Capita (Per Person)
 # This fulfills the "Krijimi i vetive" requirement.
@@ -63,17 +63,14 @@ integrated_df['Grant Per Capita'] = (
 # Convert to millions for a cleaner display
 integrated_df['Total Scholarship Amount (Millions)'] = integrated_df['Total Scholarship Amount'] / 1000000
 
-# Data Transformation: Rounding Grant Per Capita for cleaner analysis and visualization
-integrated_df['Grant Per Capita'] = integrated_df['Grant Per Capita'].round(4) # Round to 4 decimal places
-
 # Drop the original large amount column to reduce dimensions (Reduktimi i dimensionit)
 integrated_df.drop(columns=['Total Scholarship Amount'], inplace=True)
 
 
-print("\nFeature Creation (Grant Per Capita) and Transformation (Rounding) completed successfully!")
+print("\nFeature Creation (Grant Per Capita) completed successfully!")
 print("New Features in Dataset:")
 print(integrated_df.columns.tolist())
 
-# Save the final integrated and featured dataset
-integrated_df.to_csv("integrated_featured_dataset.csv", index=False)
-print("\nIntegrated and Featured dataset saved as 'integrated_featured_dataset.csv'")
+# Save the integrated dataset (with long decimals for Grant Per Capita)
+integrated_df.to_csv("integrated_dataset.csv", index=False)
+print("\nIntegrated dataset saved as 'integrated_dataset.csv'")
