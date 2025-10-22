@@ -1,0 +1,16 @@
+def handle_missing_values(df: pd.DataFrame):
+    print("🧩 Numri i mungesave për kolonë:")
+    print(df.isnull().sum())
+
+    # 1️⃣ Heq kolonat që janë plotësisht bosh
+    df = df.dropna(axis=1, how='all')
+
+    # 2️⃣ Heq rreshtat vetëm nëse mungojnë kolonat kritike
+    df = df.dropna(subset=['Year', 'Amount of Scholarship'])
+
+    # 3️⃣ Plotëso të tjerat
+    df['State name'] = df['State name'].fillna('Unknown')
+    df['Category name'] = df['Category name'].fillna('Unknown')
+    df['Class'] = df['Class'].fillna(df['Class'].median())
+
+    return df
