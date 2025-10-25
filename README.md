@@ -1,4 +1,4 @@
-# Title of dataset: Year-wise Grant to School Students of Class (6–10)
+# Year-wise Grant to School Students of Class (6–10)
 
 **Dataset Source:** [Kaggle – Year-wise Grant to School Students of Class (6-10)](https://www.kaggle.com/datasets/xixama/year-wise-grant-to-school-students-of-class-6-10)
 
