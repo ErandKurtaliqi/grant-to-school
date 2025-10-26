@@ -1,0 +1,128 @@
+State name,Category name,Total_Scholarships,Total_Amount,Percentage
+Andaman And Nicobar Islands,Gen,12,120000,0.03
+Andaman And Nicobar Islands,Obc,2,20000,0
+Andaman And Nicobar Islands,St,1,10000,0
+Andhra Pradesh,Gen,761,7610000,1.75
+Andhra Pradesh,Obc,1804,18040000,4.16
+Andhra Pradesh,Sc,732,7320000,1.69
+Andhra Pradesh,St,151,1510000,0.35
+Arunachal Pradesh,Gen,2,20000,0
+Arunachal Pradesh,Obc,1,10000,0
+Arunachal Pradesh,St,5,50000,0.01
+Assam,Gen,71,710000,0.16
+Assam,Obc,65,650000,0.15
+Assam,Sc,19,190000,0.04
+Assam,St,18,180000,0.04
+Bihar,Gen,714,7140000,1.65
+Bihar,Obc,2336,23360000,5.38
+Bihar,Sc,346,3460000,0.8
+Bihar,St,29,290000,0.07
+Chandigarh,Gen,91,910000,0.21
+Chandigarh,Obc,13,130000,0.03
+Chandigarh,Sc,16,160000,0.04
+Chandigarh,St,2,20000,0
+Chhattisgarh,Gen,270,2700000,0.62
+Chhattisgarh,Obc,1855,18550000,4.28
+Chhattisgarh,Sc,443,4430000,1.02
+Chhattisgarh,St,1006,10060000,2.32
+Dadra And Nagar Haveli & Daman And Diu,Gen,6,60000,0.01
+Delhi,Gen,173,1730000,0.4
+Delhi,Obc,17,170000,0.04
+Delhi,Sc,13,130000,0.03
+Goa,Gen,7,70000,0.02
+Goa,Obc,5,50000,0.01
+Goa,St,3,30000,0.01
+Gujarat,Gen,311,3110000,0.72
+Gujarat,Obc,533,5330000,1.23
+Gujarat,Sc,69,690000,0.16
+Gujarat,St,303,3030000,0.7
+Haryana,Gen,159,1590000,0.37
+Haryana,Obc,98,980000,0.23
+Haryana,Sc,76,760000,0.18
+Himachal Pradesh,Gen,375,3750000,0.86
+Himachal Pradesh,Obc,65,650000,0.15
+Himachal Pradesh,Sc,160,1600000,0.37
+Himachal Pradesh,St,22,220000,0.05
+Jammu & Kashmir,Gen,629,6290000,1.45
+Jammu & Kashmir,Obc,62,620000,0.14
+Jammu & Kashmir,Sc,40,400000,0.09
+Jammu & Kashmir,St,54,540000,0.12
+Jharkhand,Gen,279,2790000,0.64
+Jharkhand,Obc,930,9300000,2.14
+Jharkhand,Sc,147,1470000,0.34
+Jharkhand,St,330,3300000,0.76
+Karnataka,Gen,648,6480000,1.49
+Karnataka,Obc,5477,54770000,12.63
+Karnataka,Sc,959,9590000,2.21
+Karnataka,St,386,3860000,0.89
+Kerala,Gen,180,1800000,0.41
+Kerala,Obc,270,2700000,0.62
+Kerala,Sc,27,270000,0.06
+Kerala,St,4,40000,0.01
+Ladakh,Gen,1,10000,0
+Ladakh,St,3,30000,0.01
+Lakshadweep,St,2,20000,0
+Madhya Pradesh,Gen,435,4350000,1
+Madhya Pradesh,Obc,997,9970000,2.3
+Madhya Pradesh,Sc,335,3350000,0.77
+Madhya Pradesh,St,167,1670000,0.38
+Maharashtra,Gen,738,7380000,1.7
+Maharashtra,Obc,622,6220000,1.43
+Maharashtra,Sc,206,2060000,0.47
+Maharashtra,St,120,1200000,0.28
+Manipur,Gen,6,60000,0.01
+Manipur,Obc,3,30000,0.01
+Manipur,St,9,90000,0.02
+Meghalaya,Gen,12,120000,0.03
+Meghalaya,Obc,10,100000,0.02
+Meghalaya,Sc,4,40000,0.01
+Meghalaya,St,19,190000,0.04
+Mizoram,Gen,1,10000,0
+Mizoram,Obc,2,20000,0
+Mizoram,St,10,100000,0.02
+Nagaland,Gen,1,10000,0
+Nagaland,Obc,1,10000,0
+Nagaland,St,4,40000,0.01
+Odisha,Gen,812,8120000,1.87
+Odisha,Obc,1483,14830000,3.42
+Odisha,Sc,429,4290000,0.99
+Odisha,St,392,3920000,0.9
+Puducherry,Gen,1,10000,0
+Puducherry,Obc,17,170000,0.04
+Puducherry,Sc,3,30000,0.01
+Punjab,Gen,159,1590000,0.37
+Punjab,Obc,81,810000,0.19
+Punjab,Sc,125,1250000,0.29
+Punjab,St,1,10000,0
+Rajasthan,Gen,1024,10240000,2.36
+Rajasthan,Obc,3096,30960000,7.14
+Rajasthan,Sc,1227,12270000,2.83
+Rajasthan,St,674,6740000,1.55
+Sikkim,Gen,11,110000,0.03
+Sikkim,Obc,14,140000,0.03
+Sikkim,Sc,2,20000,0
+Sikkim,St,11,110000,0.03
+Tamil Nadu,Gen,113,1130000,0.26
+Tamil Nadu,Obc,485,4850000,1.12
+Tamil Nadu,Sc,175,1750000,0.4
+Tamil Nadu,St,11,110000,0.03
+Telangana,Gen,440,4400000,1.01
+Telangana,Obc,1680,16800000,3.87
+Telangana,Sc,566,5660000,1.3
+Telangana,St,275,2750000,0.63
+Tripura,Gen,7,70000,0.02
+Tripura,Obc,7,70000,0.02
+Tripura,Sc,3,30000,0.01
+Tripura,St,1,10000,0
+Uttar Pradesh,Gen,408,4080000,0.94
+Uttar Pradesh,Obc,418,4180000,0.96
+Uttar Pradesh,Sc,147,1470000,0.34
+Uttar Pradesh,St,2,20000,0
+Uttarakhand,Gen,1064,10640000,2.45
+Uttarakhand,Obc,290,2900000,0.67
+Uttarakhand,Sc,330,3300000,0.76
+Uttarakhand,St,31,310000,0.07
+West Bengal,Gen,49,490000,0.11
+West Bengal,Obc,7,70000,0.02
+West Bengal,Sc,15,150000,0.03
+West Bengal,St,5,50000,0.01
