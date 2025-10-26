@@ -1,0 +1,57 @@
+# ============================================================
+# 03. Diskretizimi, Binarizimi dhe Agregimi i të Dhënave
+# ============================================================
+# Projekti: Përgatitja dhe Vizualizimi i të Dhënave
+# Autori: Grupi 16
+# Dataset: Year-wise grant to school students (India, 2023)
+# ============================================================
+
+import pandas as pd
+
+# ============================================================
+# Leximi i dataset-it të përgatitur nga hapi paraprak
+# ============================================================
+
+df = pd.read_csv("2_dataset_reduced_features.csv")
+
+print("Numri fillestar i kolonave:", len(df.columns))
+print("Kolonat ekzistuese:", list(df.columns))
+
+# ============================================================
+# Diskretizimi i të dhënave (Category name → One-Hot Encoding)
+# ============================================================
+
+# Krijon kolona binare për secilën kategori sociale (Gen, Obc, Sc, St)
+category_dummies = pd.get_dummies(df['Category name'], prefix='Cat')
+df = pd.concat([df, category_dummies], axis=1)
+
+print("Kolonat e reja për kategori sociale janë krijuar me sukses (One-Hot Encoding).")
+
+# ============================================================
+# Agregimi i të dhënave sipas rajonit dhe kategorisë sociale
+# ============================================================
+
+# Grupim për të parë shpërndarjen e bursave sipas rajonit dhe kategorisë sociale
+agg = df.groupby(['State name', 'Category name'], as_index=False).agg(
+    Total_Scholarships=('Amount of Scholarship', 'count'),
+    Total_Amount=('Amount of Scholarship', 'sum')
+)
+
+# ============================================================
+# Krijimi i kolonës “Percentage” (feature creation)
+# ============================================================
+
+# Përqindja e shumës së bursave për secilin rajon dhe kategori sociale
+total_amount_all = agg['Total_Amount'].sum()
+agg['Percentage'] = (agg['Total_Amount'] / total_amount_all * 100).round(2)
+
+print("\nTabela përfundimtare e agreguar sipas rajonit dhe kategorisë sociale:\n")
+print(agg.head(15))  # Shfaq 15 rreshtat e parë për shembull
+
+# ============================================================
+# Ruajtja e tabelës agreguar si CSV
+# ============================================================
+
+agg.to_csv("dataset_aggregated.csv", index=False)
+
+print("\nTabela agreguar është ruajtur si 'dataset_aggregated.csv'.")
