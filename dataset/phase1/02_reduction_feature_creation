@@ -1,0 +1,53 @@
+# ============================================================
+# 02. Reduktimi i dimensionit dhe krijimi i veçorive të reja
+# ============================================================
+# Projekti: Përgatitja dhe Vizualizimi i të Dhënave
+# Autori: Grupi 16
+# Dataset: Year-wise grant to school students (India, 2023)
+# ============================================================
+
+import pandas as pd
+
+# ============================================================
+# Leximi i dataset-it të përgatitur nga hapi i parë
+# ============================================================
+df = pd.read_csv("1_dataset_cleaned_ready.csv")
+
+print("Numri fillestar i kolonave:", len(df.columns))
+print("Kolonat ekzistuese:", list(df.columns))
+
+# ============================================================
+# Reduktimi i dimensionit (Dimensionality Reduction)
+# ============================================================
+
+# Largo kolonën 'UID' pasi është vetëm identifikues teknik
+# dhe nuk kontribuon në analizën statistikore
+if 'UID' in df.columns:
+    df = df.drop(columns=['UID'])
+    print(" Kolona 'UID' u largua nga dataset-i.")
+
+# ============================================================
+# Krijimi i veçorive të reja (Feature Creation)
+# ============================================================
+
+# Krijo një kolonë që tregon peshën (përqindjen) e bursave
+# sipas kategorisë sociale në nivel të përgjithshëm
+category_totals = df.groupby('Category name')['Amount of Scholarship'].sum()
+df['Scholarship_Category_Ratio'] = df['Category name'].map(
+    lambda x: category_totals[x] / category_totals.sum()
+)
+
+# Shembull:
+# Nëse kategoria 'SC' përbën 20% të shumës totale të bursave,
+# atëherë për çdo rresht me Category name = 'SC', kolona
+# Scholarship_Category_Ratio = 0.20
+
+print(" U krijua kolona 'Scholarship_Category_Ratio'.")
+
+# ============================================================
+# Ruajtja e dataset-it për hapat e mëvonshëm
+# ============================================================
+
+df.to_csv("2_dataset_reduced_features.csv", index=False)
+print("Dataset-i u ruajt si 'dataset_reduced_features.csv' me dimensione të reduktuara dhe veçori të reja.")
+print("Numri aktual i kolonave:", len(df.columns))
