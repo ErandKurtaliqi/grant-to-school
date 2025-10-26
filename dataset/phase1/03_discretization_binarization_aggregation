@@ -1,0 +1,69 @@
+# ============================================================
+# 03. Diskretizimi, Binarizimi dhe Agregimi i të Dhënave
+# ============================================================
+# Projekti: Përgatitja dhe Vizualizimi i të Dhënave
+# Autori: Grupi 16
+# Dataset: Year-wise grant to school students (India, 2023)
+# ============================================================
+
+import pandas as pd
+
+# ============================================================
+# Leximi i dataset-it të përgatitur nga hapi paraprak
+# ============================================================
+
+df = pd.read_csv("2_dataset_reduced_features.csv")
+
+print("Numri fillestar i kolonave:", len(df.columns))
+print("Kolonat ekzistuese:", list(df.columns))
+
+# ============================================================
+# Diskretizimi i të dhënave (Category name → One-Hot Encoding)
+# ============================================================
+
+# Krijon kolona binare për secilën kategori sociale (Gen, Obc, Sc, St)
+category_dummies = pd.get_dummies(df['Category name'], prefix='Cat')
+df = pd.concat([df, category_dummies], axis=1)
+
+print("Kolonat e reja për kategori sociale janë krijuar me sukses (One-Hot Encoding).")
+
+# ============================================================
+# Binarizimi i atributit “Gender”
+# ============================================================
+
+# Kthen gjininë në format numerik: 0 për Boys, 1 për Girls
+df['Gender'] = df['Gender'].map({'Boys': 0, 'Girls': 1})
+
+print("Kolona 'Gender' u konvertua në format binar (0=Boys, 1=Girls).")
+
+# ============================================================
+# Agregimi i të dhënave sipas kategorisë sociale dhe gjinisë
+# ============================================================
+
+# Grupim i kombinuar për analizë të shpërndarjes së bursave
+agg = df.groupby(['Category name', 'Gender'], as_index=False).agg(
+    Total_Scholarships=('Amount of Scholarship', 'count'),
+    Total_Amount=('Amount of Scholarship', 'sum')
+)
+
+# ============================================================
+# Krijimi i kolonës “Percentage” (feature creation)
+# ============================================================
+
+# Përqindja e shumës së bursave për secilën kategori sociale dhe gjini
+total_amount_all = agg['Total_Amount'].sum()
+agg['Percentage'] = (agg['Total_Amount'] / total_amount_all * 100).round(2)
+
+# Zëvendësojmë vlerat e gjinisë për ta bërë tabelën më të lexueshme
+agg['Gender'] = agg['Gender'].map({0: 'Boys', 1: 'Girls'})
+
+print("\nTabela përfundimtare e agreguar sipas kategorisë sociale dhe gjinisë:\n")
+print(agg)
+
+# ============================================================
+# Ruajtja e tabelës agreguar si CSV
+# ============================================================
+
+agg.to_csv("3_dataset_aggregated.csv", index=False)
+
+print("\nTabela agreguar është ruajtur si 'dataset_aggregated.csv'.")
