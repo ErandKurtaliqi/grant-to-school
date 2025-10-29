@@ -1,0 +1,50 @@
+def save_binarization_file_sets(df_integrated: pd.DataFrame, outputs_dir: Path) -> None:
+    num_keep = [c for c in ["year", "class", "amount_of_scholarship"] if c in df_integrated.columns]
+    text_keep = [c for c in ["state_name", "category_name"] if c in df_integrated.columns]
+    bool_keep = [c for c in ["gender", "aspirational_final"] if c in df_integrated.columns]
+
+    small = df_integrated[num_keep + text_keep + bool_keep].copy()
+
+    if "gender" in small.columns:
+        gmap = {
+            "boys": True, "boy": True, "male": True, "m": True,
+            "girls": False, "girl": False, "female": False, "f": False
+        }
+        small["gender_male"] = (
+            small["gender"]
+            .astype(str)
+            .str.strip()
+            .str.lower()
+            .map(gmap)
+            .astype("boolean")
+        )
+        
+    small = small.drop(columns=["gender"])
+    
+    if "aspirational_final" in small.columns:
+        amap = {
+            "aspirational": True,
+            "non-aspirational": False,
+            "aspirational district": True,
+            "non aspirational district": False
+        }
+        small["aspirational_final"] = (
+            small["aspirational_final"]
+            .astype(str)
+            .str.strip()
+            .str.lower()
+            .map(amap)
+            .astype("boolean")
+        )
+
+    for c in num_keep:
+        if small[c].nunique() > 1:
+            mm = MinMaxScaler()
+            small[[c]] = mm.fit_transform(small[[c]])
+        else:
+            small[c] = small[c].astype(float)
+
+    final_model_path = outputs_dir / "final_binarization_file.csv"
+    small.to_csv(final_model_path, index=False)
+    
+    print(" - Final-binarization:", final_model_path.resolve())
