@@ -58,41 +58,6 @@ combining records by year, class, and gender to identify overall trends and fund
 This repository is organized into multiple folders, each representing a **specific phase** of data preprocessing.  
 Every phase contains a `README.md` for documentation, a `.csv` dataset output, and a `.py` script used for that stage.
 
-dataset/
-└── phase1/
-├── 1_Preprocessing_for_Analysis/
-│ ├── README.md
-│ ├── dataset_preprocessed.csv
-│ └── script_preprocessing.py
-│
-├── 2_Data_Collection_Type_Definition/
-│ ├── README.md
-│ ├── dataset_typed_quality_checked.csv
-│ └── script_data_collection.py
-│
-├── 3_Integration_Aggregation_Cleaning/
-│ ├── Aggregation/
-│ │ ├── README.md
-│ │ ├── dataset_aggregated.csv
-│ │ └── script_aggregation.py
-│ │
-│ ├── Cleaning_MissingValues/
-│ │ ├── README.md
-│ │ ├── dataset_cleaned.csv
-│ │ └── script_cleaning_missing.py
-│ │
-│ └── Integration/
-│ ├── README.md
-│ ├── dataset_integrated.csv
-│ └── script_integration.py
-│
-├── 4_Binarization_Normalization/
-│ ├── README.md
-│ ├── final_binarization_file.csv
-│ └── script_binarization_normalization.py
-│
-└── README.md
-
 ---
 
 ## Phase Descriptions
