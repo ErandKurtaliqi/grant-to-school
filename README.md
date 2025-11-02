@@ -1,4 +1,4 @@
-# Year-wise Grant to School Students of Class (6–10)
+<img width="243" height="686" alt="image" src="https://github.com/user-attachments/assets/97cf1ee1-4e09-438b-bd04-0f4824211570" /># Year-wise Grant to School Students of Class (6–10)
 
 **Dataset Source:** [Kaggle – Year-wise Grant to School Students of Class (6–10)](https://www.kaggle.com/datasets/xixama/year-wise-grant-to-school-students-of-class-6-10)
 
@@ -57,6 +57,8 @@ combining records by year, class, and gender to identify overall trends and fund
 
 This repository is organized into multiple folders, each representing a **specific phase** of data preprocessing.  
 Every phase contains a `README.md` for documentation, a `.csv` dataset output, and a `.py` script used for that stage.
+
+<img width="243" height="686" alt="image" src="https://github.com/user-attachments/assets/b050a7c5-745b-4b77-a70e-46fad55a8ef1" />
 
 ---
 
