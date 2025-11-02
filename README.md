@@ -1,4 +1,4 @@
-<img width="243" height="686" alt="image" src="https://github.com/user-attachments/assets/97cf1ee1-4e09-438b-bd04-0f4824211570" /># Year-wise Grant to School Students of Class (6–10)
+# Year-wise Grant to School Students of Class (6–10)
 
 **Dataset Source:** [Kaggle – Year-wise Grant to School Students of Class (6–10)](https://www.kaggle.com/datasets/xixama/year-wise-grant-to-school-students-of-class-6-10)
 
