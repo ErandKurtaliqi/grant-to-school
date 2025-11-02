@@ -3,7 +3,7 @@
 ##  Objective
 Ensure the dataset has consistent and valid data types, verify value quality, and identify any missing or inconsistent entries.
 
-## ⚙Steps Performed
+## Steps Performed
 1. Loaded the preprocessed dataset (`dataset_preprocessed.csv`).
 2. Defined correct data types for each field:
    - `year` → integer
