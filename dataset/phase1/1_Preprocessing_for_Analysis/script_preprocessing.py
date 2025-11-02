@@ -17,4 +17,4 @@ print("\nPreview:\n", df.head())
 df.columns = df.columns.str.strip().str.replace(" ", "_").str.lower()
 
 df.to_csv(output_path, index=False)
-print(f"\n💾 Saved cleaned column-name dataset to {output_path}")
+print(f"\n Saved cleaned column-name dataset to {output_path}")
