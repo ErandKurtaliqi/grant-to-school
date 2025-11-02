@@ -1,4 +1,4 @@
-# 🧱 Part 1 — Preprocessing for Analysis
+# Part 1 — Preprocessing for Analysis
 
 ## Objective
 Prepare the raw dataset for the next steps by:
