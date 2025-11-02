@@ -44,12 +44,12 @@ def save_binarization_file_sets(df_integrated: pd.DataFrame, outputs_dir: Path) 
 
     final_model_path = outputs_dir / "final_binarization_file.csv"
     small.to_csv(final_model_path, index=False)
-    print(f"✅ Final binarization + normalization saved to: {final_model_path.resolve()}")
+    print(f" Final binarization + normalization saved to: {final_model_path.resolve()}")
 
 if __name__ == "__main__":
     base_dir = Path(__file__).resolve().parent
     input_path = base_dir.parent / "3_Integration_Aggregation_Cleaning_MissingValues" / "Aggregation" / "dataset_aggregated.csv"
     output_dir = base_dir
     df = pd.read_csv(input_path)
-    print("✅ Loaded aggregated dataset:", df.shape)
+    print("Loaded aggregated dataset:", df.shape)
     save_binarization_file_sets(df, output_dir)
