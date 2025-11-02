@@ -1,372 +1,1450 @@
-state_name,gender,category_name,aspirational_final,amount_of_scholarship
-Andaman and Nicobar Islands,Boys,Gen,Non-Aspirational,50000.0
-Andaman and Nicobar Islands,Boys,OBC,Non-Aspirational,10000.0
-Andaman and Nicobar Islands,Girls,Gen,Non-Aspirational,70000.0
-Andaman and Nicobar Islands,Girls,OBC,Non-Aspirational,10000.0
-Andaman and Nicobar Islands,Girls,ST,Non-Aspirational,10000.0
-Andhra Pradesh,Boys,Gen,Aspirational,450000.0
-Andhra Pradesh,Boys,Gen,Non-Aspirational,3250000.0
-Andhra Pradesh,Boys,OBC,Aspirational,1600000.0
-Andhra Pradesh,Boys,OBC,Non-Aspirational,7690000.0
-Andhra Pradesh,Boys,SC,Aspirational,420000.0
-Andhra Pradesh,Boys,SC,Non-Aspirational,3290000.0
-Andhra Pradesh,Boys,ST,Aspirational,140000.0
-Andhra Pradesh,Boys,ST,Non-Aspirational,600000.0
-Andhra Pradesh,Girls,Gen,Aspirational,630000.0
-Andhra Pradesh,Girls,Gen,Non-Aspirational,3280000.0
-Andhra Pradesh,Girls,OBC,Aspirational,1780000.0
-Andhra Pradesh,Girls,OBC,Non-Aspirational,6970000.0
-Andhra Pradesh,Girls,SC,Aspirational,510000.0
-Andhra Pradesh,Girls,SC,Non-Aspirational,3100000.0
-Andhra Pradesh,Girls,ST,Aspirational,150000.0
-Andhra Pradesh,Girls,ST,Non-Aspirational,620000.0
-Arunachal Pradesh,Boys,OBC,Non-Aspirational,10000.0
-Arunachal Pradesh,Boys,ST,Non-Aspirational,50000.0
-Arunachal Pradesh,Girls,Gen,Non-Aspirational,20000.0
-Assam,Boys,Gen,Aspirational,40000.0
-Assam,Boys,Gen,Non-Aspirational,370000.0
-Assam,Boys,OBC,Aspirational,20000.0
-Assam,Boys,OBC,Non-Aspirational,330000.0
-Assam,Boys,SC,Non-Aspirational,80000.0
-Assam,Boys,ST,Non-Aspirational,110000.0
-Assam,Girls,Gen,Aspirational,10000.0
-Assam,Girls,Gen,Non-Aspirational,290000.0
-Assam,Girls,OBC,Aspirational,20000.0
-Assam,Girls,OBC,Non-Aspirational,280000.0
-Assam,Girls,SC,Aspirational,10000.0
-Assam,Girls,SC,Non-Aspirational,100000.0
-Assam,Girls,ST,Aspirational,10000.0
-Assam,Girls,ST,Non-Aspirational,60000.0
-Bihar,Boys,Gen,Aspirational,1220000.0
-Bihar,Boys,Gen,Non-Aspirational,2450000.0
-Bihar,Boys,OBC,Aspirational,4850000.0
-Bihar,Boys,OBC,Non-Aspirational,6720000.0
-Bihar,Boys,SC,Aspirational,850000.0
-Bihar,Boys,SC,Non-Aspirational,1030000.0
-Bihar,Boys,ST,Aspirational,60000.0
-Bihar,Boys,ST,Non-Aspirational,90000.0
-Bihar,Girls,Gen,Aspirational,1370000.0
-Bihar,Girls,Gen,Non-Aspirational,2100000.0
-Bihar,Girls,OBC,Aspirational,4540000.0
-Bihar,Girls,OBC,Non-Aspirational,7250000.0
-Bihar,Girls,SC,Aspirational,630000.0
-Bihar,Girls,SC,Non-Aspirational,950000.0
-Bihar,Girls,ST,Aspirational,50000.0
-Bihar,Girls,ST,Non-Aspirational,90000.0
-Chandigarh,Boys,Gen,Non-Aspirational,560000.0
-Chandigarh,Boys,OBC,Non-Aspirational,80000.0
-Chandigarh,Boys,SC,Non-Aspirational,110000.0
-Chandigarh,Girls,Gen,Non-Aspirational,350000.0
-Chandigarh,Girls,OBC,Non-Aspirational,50000.0
-Chandigarh,Girls,SC,Non-Aspirational,50000.0
-Chandigarh,Girls,ST,Non-Aspirational,20000.0
-Chhattisgarh,Boys,Gen,Aspirational,290000.0
-Chhattisgarh,Boys,Gen,Non-Aspirational,1090000.0
-Chhattisgarh,Boys,OBC,Aspirational,2130000.0
-Chhattisgarh,Boys,OBC,Non-Aspirational,6100000.0
-Chhattisgarh,Boys,SC,Aspirational,280000.0
-Chhattisgarh,Boys,SC,Non-Aspirational,1420000.0
-Chhattisgarh,Boys,ST,Aspirational,2670000.0
-Chhattisgarh,Boys,ST,Non-Aspirational,1600000.0
-Chhattisgarh,Girls,Gen,Aspirational,350000.0
-Chhattisgarh,Girls,Gen,Non-Aspirational,970000.0
-Chhattisgarh,Girls,OBC,Aspirational,2380000.0
-Chhattisgarh,Girls,OBC,Non-Aspirational,7940000.0
-Chhattisgarh,Girls,SC,Aspirational,540000.0
-Chhattisgarh,Girls,SC,Non-Aspirational,2190000.0
-Chhattisgarh,Girls,ST,Aspirational,3040000.0
-Chhattisgarh,Girls,ST,Non-Aspirational,2750000.0
-Dadra and Nagar Haveli & Daman and Diu,Boys,Gen,Non-Aspirational,40000.0
-Dadra and Nagar Haveli & Daman and Diu,Girls,Gen,Non-Aspirational,20000.0
-Delhi,Boys,Gen,Non-Aspirational,990000.0
-Delhi,Boys,OBC,Non-Aspirational,120000.0
-Delhi,Boys,SC,Non-Aspirational,80000.0
-Delhi,Girls,Gen,Non-Aspirational,740000.0
-Delhi,Girls,OBC,Non-Aspirational,50000.0
-Delhi,Girls,SC,Non-Aspirational,50000.0
-Goa,Boys,Gen,Non-Aspirational,60000.0
-Goa,Boys,OBC,Non-Aspirational,20000.0
-Goa,Boys,ST,Non-Aspirational,20000.0
-Goa,Girls,Gen,Non-Aspirational,10000.0
-Goa,Girls,OBC,Non-Aspirational,30000.0
-Goa,Girls,ST,Non-Aspirational,10000.0
-Gujarat,Boys,Gen,Aspirational,20000.0
-Gujarat,Boys,Gen,Non-Aspirational,1480000.0
-Gujarat,Boys,OBC,Aspirational,80000.0
-Gujarat,Boys,OBC,Non-Aspirational,2840000.0
-Gujarat,Boys,SC,Non-Aspirational,390000.0
-Gujarat,Boys,ST,Aspirational,150000.0
-Gujarat,Boys,ST,Non-Aspirational,1120000.0
-Gujarat,Girls,Gen,Aspirational,40000.0
-Gujarat,Girls,Gen,Non-Aspirational,1570000.0
-Gujarat,Girls,OBC,Aspirational,60000.0
-Gujarat,Girls,OBC,Non-Aspirational,2350000.0
-Gujarat,Girls,SC,Non-Aspirational,300000.0
-Gujarat,Girls,ST,Aspirational,190000.0
-Gujarat,Girls,ST,Non-Aspirational,1570000.0
-Haryana,Boys,Gen,Non-Aspirational,750000.0
-Haryana,Boys,OBC,Non-Aspirational,480000.0
-Haryana,Boys,SC,Non-Aspirational,380000.0
-Haryana,Girls,Gen,Non-Aspirational,840000.0
-Haryana,Girls,OBC,Non-Aspirational,500000.0
-Haryana,Girls,SC,Non-Aspirational,380000.0
-Himachal Pradesh,Boys,Gen,Aspirational,90000.0
-Himachal Pradesh,Boys,Gen,Non-Aspirational,1660000.0
-Himachal Pradesh,Boys,OBC,Non-Aspirational,270000.0
-Himachal Pradesh,Boys,SC,Aspirational,20000.0
-Himachal Pradesh,Boys,SC,Non-Aspirational,600000.0
-Himachal Pradesh,Boys,ST,Aspirational,30000.0
-Himachal Pradesh,Boys,ST,Non-Aspirational,80000.0
-Himachal Pradesh,Girls,Gen,Aspirational,120000.0
-Himachal Pradesh,Girls,Gen,Non-Aspirational,1880000.0
-Himachal Pradesh,Girls,OBC,Non-Aspirational,380000.0
-Himachal Pradesh,Girls,SC,Aspirational,30000.0
-Himachal Pradesh,Girls,SC,Non-Aspirational,950000.0
-Himachal Pradesh,Girls,ST,Aspirational,30000.0
-Himachal Pradesh,Girls,ST,Non-Aspirational,80000.0
-Jammu & Kashmir,Boys,Gen,Aspirational,780000.0
-Jammu & Kashmir,Boys,Gen,Non-Aspirational,2530000.0
-Jammu & Kashmir,Boys,OBC,Aspirational,110000.0
-Jammu & Kashmir,Boys,OBC,Non-Aspirational,260000.0
-Jammu & Kashmir,Boys,SC,Aspirational,10000.0
-Jammu & Kashmir,Boys,SC,Non-Aspirational,210000.0
-Jammu & Kashmir,Boys,ST,Aspirational,70000.0
-Jammu & Kashmir,Boys,ST,Non-Aspirational,280000.0
-Jammu & Kashmir,Girls,Gen,Aspirational,640000.0
-Jammu & Kashmir,Girls,Gen,Non-Aspirational,2340000.0
-Jammu & Kashmir,Girls,OBC,Aspirational,60000.0
-Jammu & Kashmir,Girls,OBC,Non-Aspirational,190000.0
-Jammu & Kashmir,Girls,SC,Non-Aspirational,180000.0
-Jammu & Kashmir,Girls,ST,Aspirational,10000.0
-Jammu & Kashmir,Girls,ST,Non-Aspirational,180000.0
-Jharkhand,Boys,Gen,Aspirational,1160000.0
-Jharkhand,Boys,Gen,Non-Aspirational,340000.0
-Jharkhand,Boys,OBC,Aspirational,3690000.0
-Jharkhand,Boys,OBC,Non-Aspirational,1050000.0
-Jharkhand,Boys,SC,Aspirational,790000.0
-Jharkhand,Boys,SC,Non-Aspirational,80000.0
-Jharkhand,Boys,ST,Aspirational,1310000.0
-Jharkhand,Boys,ST,Non-Aspirational,190000.0
-Jharkhand,Girls,Gen,Aspirational,980000.0
-Jharkhand,Girls,Gen,Non-Aspirational,310000.0
-Jharkhand,Girls,OBC,Aspirational,3610000.0
-Jharkhand,Girls,OBC,Non-Aspirational,950000.0
-Jharkhand,Girls,SC,Aspirational,480000.0
-Jharkhand,Girls,SC,Non-Aspirational,120000.0
-Jharkhand,Girls,ST,Aspirational,1660000.0
-Jharkhand,Girls,ST,Non-Aspirational,140000.0
-Karnataka,Boys,Gen,Aspirational,30000.0
-Karnataka,Boys,Gen,Non-Aspirational,3690000.0
-Karnataka,Boys,OBC,Aspirational,550000.0
-Karnataka,Boys,OBC,Non-Aspirational,24300000.0
-Karnataka,Boys,SC,Aspirational,180000.0
-Karnataka,Boys,SC,Non-Aspirational,4920000.0
-Karnataka,Boys,ST,Aspirational,180000.0
-Karnataka,Boys,ST,Non-Aspirational,1740000.0
-Karnataka,Girls,Gen,Non-Aspirational,2760000.0
-Karnataka,Girls,OBC,Aspirational,780000.0
-Karnataka,Girls,OBC,Non-Aspirational,29140000.0
-Karnataka,Girls,SC,Aspirational,100000.0
-Karnataka,Girls,SC,Non-Aspirational,4390000.0
-Karnataka,Girls,ST,Aspirational,100000.0
-Karnataka,Girls,ST,Non-Aspirational,1840000.0
-Kerala,Boys,Gen,Aspirational,20000.0
-Kerala,Boys,Gen,Non-Aspirational,1180000.0
-Kerala,Boys,OBC,Aspirational,20000.0
-Kerala,Boys,OBC,Non-Aspirational,1640000.0
-Kerala,Boys,SC,Aspirational,10000.0
-Kerala,Boys,SC,Non-Aspirational,140000.0
-Kerala,Boys,ST,Aspirational,10000.0
-Kerala,Girls,Gen,Aspirational,10000.0
-Kerala,Girls,Gen,Non-Aspirational,590000.0
-Kerala,Girls,OBC,Non-Aspirational,1040000.0
-Kerala,Girls,SC,Non-Aspirational,120000.0
-Kerala,Girls,ST,Non-Aspirational,30000.0
-LAKSHADWEEP,Boys,ST,Non-Aspirational,10000.0
-LAKSHADWEEP,Girls,ST,Non-Aspirational,10000.0
-Ladakh,Boys,Gen,Non-Aspirational,10000.0
-Ladakh,Boys,ST,Non-Aspirational,10000.0
-Ladakh,Girls,ST,Non-Aspirational,20000.0
-Madhya Pradesh,Boys,Gen,Aspirational,230000.0
-Madhya Pradesh,Boys,Gen,Non-Aspirational,1940000.0
-Madhya Pradesh,Boys,OBC,Aspirational,430000.0
-Madhya Pradesh,Boys,OBC,Non-Aspirational,4710000.0
-Madhya Pradesh,Boys,SC,Aspirational,170000.0
-Madhya Pradesh,Boys,SC,Non-Aspirational,1690000.0
-Madhya Pradesh,Boys,ST,Aspirational,50000.0
-Madhya Pradesh,Boys,ST,Non-Aspirational,710000.0
-Madhya Pradesh,Girls,Gen,Aspirational,190000.0
-Madhya Pradesh,Girls,Gen,Non-Aspirational,1990000.0
-Madhya Pradesh,Girls,OBC,Aspirational,470000.0
-Madhya Pradesh,Girls,OBC,Non-Aspirational,4360000.0
-Madhya Pradesh,Girls,SC,Aspirational,80000.0
-Madhya Pradesh,Girls,SC,Non-Aspirational,1410000.0
-Madhya Pradesh,Girls,ST,Aspirational,50000.0
-Madhya Pradesh,Girls,ST,Non-Aspirational,860000.0
-Maharashtra,Boys,Gen,Aspirational,40000.0
-Maharashtra,Boys,Gen,Non-Aspirational,4440000.0
-Maharashtra,Boys,OBC,Aspirational,140000.0
-Maharashtra,Boys,OBC,Non-Aspirational,3470000.0
-Maharashtra,Boys,SC,Aspirational,60000.0
-Maharashtra,Boys,SC,Non-Aspirational,1040000.0
-Maharashtra,Boys,ST,Aspirational,90000.0
-Maharashtra,Boys,ST,Non-Aspirational,510000.0
-Maharashtra,Girls,Gen,Aspirational,90000.0
-Maharashtra,Girls,Gen,Non-Aspirational,2810000.0
-Maharashtra,Girls,OBC,Aspirational,210000.0
-Maharashtra,Girls,OBC,Non-Aspirational,2400000.0
-Maharashtra,Girls,SC,Aspirational,60000.0
-Maharashtra,Girls,SC,Non-Aspirational,900000.0
-Maharashtra,Girls,ST,Aspirational,70000.0
-Maharashtra,Girls,ST,Non-Aspirational,530000.0
-Manipur,Boys,Gen,Non-Aspirational,20000.0
-Manipur,Boys,OBC,Non-Aspirational,30000.0
-Manipur,Boys,ST,Non-Aspirational,40000.0
-Manipur,Girls,Gen,Non-Aspirational,40000.0
-Manipur,Girls,ST,Non-Aspirational,50000.0
-Meghalaya,Boys,Gen,Non-Aspirational,80000.0
-Meghalaya,Boys,OBC,Non-Aspirational,70000.0
-Meghalaya,Boys,SC,Non-Aspirational,10000.0
-Meghalaya,Boys,ST,Non-Aspirational,40000.0
-Meghalaya,Girls,Gen,Non-Aspirational,40000.0
-Meghalaya,Girls,OBC,Non-Aspirational,30000.0
-Meghalaya,Girls,SC,Non-Aspirational,30000.0
-Meghalaya,Girls,ST,Non-Aspirational,150000.0
-Mizoram,Boys,Gen,Non-Aspirational,10000.0
-Mizoram,Boys,ST,Non-Aspirational,30000.0
-Mizoram,Girls,OBC,Non-Aspirational,20000.0
-Mizoram,Girls,ST,Non-Aspirational,70000.0
-Nagaland,Boys,Gen,Aspirational,10000.0
-Nagaland,Boys,OBC,Non-Aspirational,10000.0
-Nagaland,Boys,ST,Non-Aspirational,30000.0
-Nagaland,Girls,ST,Non-Aspirational,10000.0
-Odisha,Boys,Gen,Aspirational,690000.0
-Odisha,Boys,Gen,Non-Aspirational,3330000.0
-Odisha,Boys,OBC,Aspirational,2380000.0
-Odisha,Boys,OBC,Non-Aspirational,5090000.0
-Odisha,Boys,SC,Aspirational,810000.0
-Odisha,Boys,SC,Non-Aspirational,1330000.0
-Odisha,Boys,ST,Aspirational,1310000.0
-Odisha,Boys,ST,Non-Aspirational,810000.0
-Odisha,Girls,Gen,Aspirational,700000.0
-Odisha,Girls,Gen,Non-Aspirational,3400000.0
-Odisha,Girls,OBC,Aspirational,1920000.0
-Odisha,Girls,OBC,Non-Aspirational,5440000.0
-Odisha,Girls,SC,Aspirational,730000.0
-Odisha,Girls,SC,Non-Aspirational,1420000.0
-Odisha,Girls,ST,Aspirational,1120000.0
-Odisha,Girls,ST,Non-Aspirational,680000.0
-Puducherry,Boys,Gen,Non-Aspirational,10000.0
-Puducherry,Boys,OBC,Non-Aspirational,60000.0
-Puducherry,Boys,SC,Non-Aspirational,10000.0
-Puducherry,Girls,OBC,Non-Aspirational,110000.0
-Puducherry,Girls,SC,Non-Aspirational,20000.0
-Punjab,Boys,Gen,Aspirational,40000.0
-Punjab,Boys,Gen,Non-Aspirational,720000.0
-Punjab,Boys,OBC,Aspirational,20000.0
-Punjab,Boys,OBC,Non-Aspirational,390000.0
-Punjab,Boys,SC,Aspirational,50000.0
-Punjab,Boys,SC,Non-Aspirational,500000.0
-Punjab,Boys,ST,Non-Aspirational,10000.0
-Punjab,Girls,Gen,Aspirational,30000.0
-Punjab,Girls,Gen,Non-Aspirational,800000.0
-Punjab,Girls,OBC,Aspirational,30000.0
-Punjab,Girls,OBC,Non-Aspirational,370000.0
-Punjab,Girls,SC,Aspirational,130000.0
-Punjab,Girls,SC,Non-Aspirational,570000.0
-Rajasthan,Boys,Gen,Aspirational,230000.0
-Rajasthan,Boys,Gen,Non-Aspirational,4430000.0
-Rajasthan,Boys,OBC,Aspirational,750000.0
-Rajasthan,Boys,OBC,Non-Aspirational,13060000.0
-Rajasthan,Boys,SC,Aspirational,380000.0
-Rajasthan,Boys,SC,Non-Aspirational,5340000.0
-Rajasthan,Boys,ST,Aspirational,240000.0
-Rajasthan,Boys,ST,Non-Aspirational,2760000.0
-Rajasthan,Girls,Gen,Aspirational,270000.0
-Rajasthan,Girls,Gen,Non-Aspirational,5310000.0
-Rajasthan,Girls,OBC,Aspirational,670000.0
-Rajasthan,Girls,OBC,Non-Aspirational,16480000.0
-Rajasthan,Girls,SC,Aspirational,400000.0
-Rajasthan,Girls,SC,Non-Aspirational,6150000.0
-Rajasthan,Girls,ST,Aspirational,290000.0
-Rajasthan,Girls,ST,Non-Aspirational,3450000.0
-Sikkim,Boys,Gen,Non-Aspirational,40000.0
-Sikkim,Boys,OBC,Non-Aspirational,60000.0
-Sikkim,Boys,ST,Non-Aspirational,40000.0
-Sikkim,Girls,Gen,Non-Aspirational,70000.0
-Sikkim,Girls,OBC,Non-Aspirational,80000.0
-Sikkim,Girls,SC,Non-Aspirational,20000.0
-Sikkim,Girls,ST,Non-Aspirational,70000.0
-Tamil Nadu,Boys,Gen,Aspirational,70000.0
-Tamil Nadu,Boys,Gen,Non-Aspirational,550000.0
-Tamil Nadu,Boys,OBC,Aspirational,90000.0
-Tamil Nadu,Boys,OBC,Non-Aspirational,2320000.0
-Tamil Nadu,Boys,SC,Aspirational,30000.0
-Tamil Nadu,Boys,SC,Non-Aspirational,410000.0
-Tamil Nadu,Boys,ST,Non-Aspirational,20000.0
-Tamil Nadu,Girls,Gen,Aspirational,70000.0
-Tamil Nadu,Girls,Gen,Non-Aspirational,440000.0
-Tamil Nadu,Girls,OBC,Aspirational,80000.0
-Tamil Nadu,Girls,OBC,Non-Aspirational,2360000.0
-Tamil Nadu,Girls,SC,Aspirational,60000.0
-Tamil Nadu,Girls,SC,Non-Aspirational,1250000.0
-Tamil Nadu,Girls,ST,Non-Aspirational,90000.0
-Telangana,Boys,Gen,Aspirational,40000.0
-Telangana,Boys,Gen,Non-Aspirational,2140000.0
-Telangana,Boys,OBC,Aspirational,120000.0
-Telangana,Boys,OBC,Non-Aspirational,7290000.0
-Telangana,Boys,SC,Aspirational,130000.0
-Telangana,Boys,SC,Non-Aspirational,2620000.0
-Telangana,Boys,ST,Aspirational,110000.0
-Telangana,Boys,ST,Non-Aspirational,1360000.0
-Telangana,Girls,Gen,Aspirational,50000.0
-Telangana,Girls,Gen,Non-Aspirational,2170000.0
-Telangana,Girls,OBC,Aspirational,140000.0
-Telangana,Girls,OBC,Non-Aspirational,9250000.0
-Telangana,Girls,SC,Aspirational,70000.0
-Telangana,Girls,SC,Non-Aspirational,2840000.0
-Telangana,Girls,ST,Aspirational,150000.0
-Telangana,Girls,ST,Non-Aspirational,1130000.0
-Tripura,Boys,Gen,Non-Aspirational,40000.0
-Tripura,Boys,OBC,Non-Aspirational,40000.0
-Tripura,Boys,SC,Non-Aspirational,30000.0
-Tripura,Girls,Gen,Non-Aspirational,30000.0
-Tripura,Girls,OBC,Non-Aspirational,30000.0
-Tripura,Girls,ST,Non-Aspirational,10000.0
-Uttar Pradesh,Boys,Gen,Aspirational,90000.0
-Uttar Pradesh,Boys,Gen,Non-Aspirational,2210000.0
-Uttar Pradesh,Boys,OBC,Aspirational,110000.0
-Uttar Pradesh,Boys,OBC,Non-Aspirational,2190000.0
-Uttar Pradesh,Boys,SC,Aspirational,30000.0
-Uttar Pradesh,Boys,SC,Non-Aspirational,660000.0
-Uttar Pradesh,Boys,ST,Non-Aspirational,10000.0
-Uttar Pradesh,Girls,Gen,Aspirational,40000.0
-Uttar Pradesh,Girls,Gen,Non-Aspirational,1740000.0
-Uttar Pradesh,Girls,OBC,Aspirational,60000.0
-Uttar Pradesh,Girls,OBC,Non-Aspirational,1820000.0
-Uttar Pradesh,Girls,SC,Non-Aspirational,780000.0
-Uttar Pradesh,Girls,ST,Non-Aspirational,10000.0
-Uttarakhand,Boys,Gen,Aspirational,720000.0
-Uttarakhand,Boys,Gen,Non-Aspirational,4670000.0
-Uttarakhand,Boys,OBC,Aspirational,480000.0
-Uttarakhand,Boys,OBC,Non-Aspirational,870000.0
-Uttarakhand,Boys,SC,Aspirational,240000.0
-Uttarakhand,Boys,SC,Non-Aspirational,1600000.0
-Uttarakhand,Boys,ST,Aspirational,60000.0
-Uttarakhand,Boys,ST,Non-Aspirational,100000.0
-Uttarakhand,Girls,Gen,Aspirational,590000.0
-Uttarakhand,Girls,Gen,Non-Aspirational,4660000.0
-Uttarakhand,Girls,OBC,Aspirational,690000.0
-Uttarakhand,Girls,OBC,Non-Aspirational,860000.0
-Uttarakhand,Girls,SC,Aspirational,360000.0
-Uttarakhand,Girls,SC,Non-Aspirational,1100000.0
-Uttarakhand,Girls,ST,Aspirational,30000.0
-Uttarakhand,Girls,ST,Non-Aspirational,120000.0
-West Bengal,Boys,Gen,Non-Aspirational,310000.0
-West Bengal,Boys,OBC,Non-Aspirational,50000.0
-West Bengal,Boys,SC,Non-Aspirational,100000.0
-West Bengal,Boys,ST,Non-Aspirational,30000.0
-West Bengal,Girls,Gen,Non-Aspirational,180000.0
-West Bengal,Girls,OBC,Non-Aspirational,20000.0
-West Bengal,Girls,SC,Non-Aspirational,50000.0
-West Bengal,Girls,ST,Non-Aspirational,20000.0
+state_name,gender,category_name,aspirational_final,class,amount_of_scholarship
+Andaman and Nicobar Islands,Boys,Gen,Non-Aspirational,6,10000.0
+Andaman and Nicobar Islands,Boys,Gen,Non-Aspirational,7,10000.0
+Andaman and Nicobar Islands,Boys,Gen,Non-Aspirational,8,10000.0
+Andaman and Nicobar Islands,Boys,Gen,Non-Aspirational,9,10000.0
+Andaman and Nicobar Islands,Boys,Gen,Non-Aspirational,10,10000.0
+Andaman and Nicobar Islands,Boys,OBC,Non-Aspirational,8,10000.0
+Andaman and Nicobar Islands,Girls,Gen,Non-Aspirational,7,10000.0
+Andaman and Nicobar Islands,Girls,Gen,Non-Aspirational,8,10000.0
+Andaman and Nicobar Islands,Girls,Gen,Non-Aspirational,9,10000.0
+Andaman and Nicobar Islands,Girls,Gen,Non-Aspirational,10,40000.0
+Andaman and Nicobar Islands,Girls,OBC,Non-Aspirational,10,10000.0
+Andaman and Nicobar Islands,Girls,ST,Non-Aspirational,9,10000.0
+Andhra Pradesh,Boys,Gen,Aspirational,6,10000.0
+Andhra Pradesh,Boys,Gen,Aspirational,7,100000.0
+Andhra Pradesh,Boys,Gen,Aspirational,8,120000.0
+Andhra Pradesh,Boys,Gen,Aspirational,9,120000.0
+Andhra Pradesh,Boys,Gen,Aspirational,10,100000.0
+Andhra Pradesh,Boys,Gen,Non-Aspirational,6,290000.0
+Andhra Pradesh,Boys,Gen,Non-Aspirational,7,470000.0
+Andhra Pradesh,Boys,Gen,Non-Aspirational,8,890000.0
+Andhra Pradesh,Boys,Gen,Non-Aspirational,9,1140000.0
+Andhra Pradesh,Boys,Gen,Non-Aspirational,10,460000.0
+Andhra Pradesh,Boys,OBC,Aspirational,6,120000.0
+Andhra Pradesh,Boys,OBC,Aspirational,7,210000.0
+Andhra Pradesh,Boys,OBC,Aspirational,8,430000.0
+Andhra Pradesh,Boys,OBC,Aspirational,9,590000.0
+Andhra Pradesh,Boys,OBC,Aspirational,10,250000.0
+Andhra Pradesh,Boys,OBC,Non-Aspirational,6,450000.0
+Andhra Pradesh,Boys,OBC,Non-Aspirational,7,1140000.0
+Andhra Pradesh,Boys,OBC,Non-Aspirational,8,2080000.0
+Andhra Pradesh,Boys,OBC,Non-Aspirational,9,2570000.0
+Andhra Pradesh,Boys,OBC,Non-Aspirational,10,1450000.0
+Andhra Pradesh,Boys,SC,Aspirational,6,20000.0
+Andhra Pradesh,Boys,SC,Aspirational,7,20000.0
+Andhra Pradesh,Boys,SC,Aspirational,8,110000.0
+Andhra Pradesh,Boys,SC,Aspirational,9,190000.0
+Andhra Pradesh,Boys,SC,Aspirational,10,80000.0
+Andhra Pradesh,Boys,SC,Non-Aspirational,6,260000.0
+Andhra Pradesh,Boys,SC,Non-Aspirational,7,380000.0
+Andhra Pradesh,Boys,SC,Non-Aspirational,8,830000.0
+Andhra Pradesh,Boys,SC,Non-Aspirational,9,1160000.0
+Andhra Pradesh,Boys,SC,Non-Aspirational,10,660000.0
+Andhra Pradesh,Boys,ST,Aspirational,7,20000.0
+Andhra Pradesh,Boys,ST,Aspirational,8,50000.0
+Andhra Pradesh,Boys,ST,Aspirational,9,50000.0
+Andhra Pradesh,Boys,ST,Aspirational,10,20000.0
+Andhra Pradesh,Boys,ST,Non-Aspirational,6,50000.0
+Andhra Pradesh,Boys,ST,Non-Aspirational,7,60000.0
+Andhra Pradesh,Boys,ST,Non-Aspirational,8,100000.0
+Andhra Pradesh,Boys,ST,Non-Aspirational,9,240000.0
+Andhra Pradesh,Boys,ST,Non-Aspirational,10,150000.0
+Andhra Pradesh,Girls,Gen,Aspirational,6,30000.0
+Andhra Pradesh,Girls,Gen,Aspirational,7,90000.0
+Andhra Pradesh,Girls,Gen,Aspirational,8,200000.0
+Andhra Pradesh,Girls,Gen,Aspirational,9,210000.0
+Andhra Pradesh,Girls,Gen,Aspirational,10,100000.0
+Andhra Pradesh,Girls,Gen,Non-Aspirational,6,260000.0
+Andhra Pradesh,Girls,Gen,Non-Aspirational,7,530000.0
+Andhra Pradesh,Girls,Gen,Non-Aspirational,8,670000.0
+Andhra Pradesh,Girls,Gen,Non-Aspirational,9,1290000.0
+Andhra Pradesh,Girls,Gen,Non-Aspirational,10,530000.0
+Andhra Pradesh,Girls,OBC,Aspirational,6,170000.0
+Andhra Pradesh,Girls,OBC,Aspirational,7,270000.0
+Andhra Pradesh,Girls,OBC,Aspirational,8,450000.0
+Andhra Pradesh,Girls,OBC,Aspirational,9,690000.0
+Andhra Pradesh,Girls,OBC,Aspirational,10,200000.0
+Andhra Pradesh,Girls,OBC,Non-Aspirational,6,520000.0
+Andhra Pradesh,Girls,OBC,Non-Aspirational,7,990000.0
+Andhra Pradesh,Girls,OBC,Non-Aspirational,8,1510000.0
+Andhra Pradesh,Girls,OBC,Non-Aspirational,9,2780000.0
+Andhra Pradesh,Girls,OBC,Non-Aspirational,10,1170000.0
+Andhra Pradesh,Girls,SC,Aspirational,6,30000.0
+Andhra Pradesh,Girls,SC,Aspirational,7,40000.0
+Andhra Pradesh,Girls,SC,Aspirational,8,100000.0
+Andhra Pradesh,Girls,SC,Aspirational,9,210000.0
+Andhra Pradesh,Girls,SC,Aspirational,10,130000.0
+Andhra Pradesh,Girls,SC,Non-Aspirational,6,160000.0
+Andhra Pradesh,Girls,SC,Non-Aspirational,7,370000.0
+Andhra Pradesh,Girls,SC,Non-Aspirational,8,780000.0
+Andhra Pradesh,Girls,SC,Non-Aspirational,9,1280000.0
+Andhra Pradesh,Girls,SC,Non-Aspirational,10,510000.0
+Andhra Pradesh,Girls,ST,Aspirational,7,10000.0
+Andhra Pradesh,Girls,ST,Aspirational,8,60000.0
+Andhra Pradesh,Girls,ST,Aspirational,9,60000.0
+Andhra Pradesh,Girls,ST,Aspirational,10,20000.0
+Andhra Pradesh,Girls,ST,Non-Aspirational,6,80000.0
+Andhra Pradesh,Girls,ST,Non-Aspirational,7,60000.0
+Andhra Pradesh,Girls,ST,Non-Aspirational,8,150000.0
+Andhra Pradesh,Girls,ST,Non-Aspirational,9,210000.0
+Andhra Pradesh,Girls,ST,Non-Aspirational,10,120000.0
+Arunachal Pradesh,Boys,OBC,Non-Aspirational,10,10000.0
+Arunachal Pradesh,Boys,ST,Non-Aspirational,8,20000.0
+Arunachal Pradesh,Boys,ST,Non-Aspirational,9,20000.0
+Arunachal Pradesh,Boys,ST,Non-Aspirational,10,10000.0
+Arunachal Pradesh,Girls,Gen,Non-Aspirational,6,10000.0
+Arunachal Pradesh,Girls,Gen,Non-Aspirational,9,10000.0
+Assam,Boys,Gen,Aspirational,10,40000.0
+Assam,Boys,Gen,Non-Aspirational,6,30000.0
+Assam,Boys,Gen,Non-Aspirational,7,20000.0
+Assam,Boys,Gen,Non-Aspirational,8,50000.0
+Assam,Boys,Gen,Non-Aspirational,9,180000.0
+Assam,Boys,Gen,Non-Aspirational,10,90000.0
+Assam,Boys,OBC,Aspirational,9,20000.0
+Assam,Boys,OBC,Non-Aspirational,6,40000.0
+Assam,Boys,OBC,Non-Aspirational,7,50000.0
+Assam,Boys,OBC,Non-Aspirational,8,80000.0
+Assam,Boys,OBC,Non-Aspirational,9,60000.0
+Assam,Boys,OBC,Non-Aspirational,10,100000.0
+Assam,Boys,SC,Non-Aspirational,8,20000.0
+Assam,Boys,SC,Non-Aspirational,10,60000.0
+Assam,Boys,ST,Non-Aspirational,7,20000.0
+Assam,Boys,ST,Non-Aspirational,8,20000.0
+Assam,Boys,ST,Non-Aspirational,10,70000.0
+Assam,Girls,Gen,Aspirational,8,10000.0
+Assam,Girls,Gen,Non-Aspirational,6,20000.0
+Assam,Girls,Gen,Non-Aspirational,7,60000.0
+Assam,Girls,Gen,Non-Aspirational,8,70000.0
+Assam,Girls,Gen,Non-Aspirational,9,100000.0
+Assam,Girls,Gen,Non-Aspirational,10,40000.0
+Assam,Girls,OBC,Aspirational,9,10000.0
+Assam,Girls,OBC,Aspirational,10,10000.0
+Assam,Girls,OBC,Non-Aspirational,6,10000.0
+Assam,Girls,OBC,Non-Aspirational,8,50000.0
+Assam,Girls,OBC,Non-Aspirational,9,120000.0
+Assam,Girls,OBC,Non-Aspirational,10,100000.0
+Assam,Girls,SC,Aspirational,9,10000.0
+Assam,Girls,SC,Non-Aspirational,8,30000.0
+Assam,Girls,SC,Non-Aspirational,9,40000.0
+Assam,Girls,SC,Non-Aspirational,10,30000.0
+Assam,Girls,ST,Aspirational,10,10000.0
+Assam,Girls,ST,Non-Aspirational,8,20000.0
+Assam,Girls,ST,Non-Aspirational,9,20000.0
+Assam,Girls,ST,Non-Aspirational,10,20000.0
+Bihar,Boys,Gen,Aspirational,6,120000.0
+Bihar,Boys,Gen,Aspirational,7,180000.0
+Bihar,Boys,Gen,Aspirational,8,370000.0
+Bihar,Boys,Gen,Aspirational,9,310000.0
+Bihar,Boys,Gen,Aspirational,10,240000.0
+Bihar,Boys,Gen,Non-Aspirational,6,160000.0
+Bihar,Boys,Gen,Non-Aspirational,7,360000.0
+Bihar,Boys,Gen,Non-Aspirational,8,750000.0
+Bihar,Boys,Gen,Non-Aspirational,9,620000.0
+Bihar,Boys,Gen,Non-Aspirational,10,560000.0
+Bihar,Boys,OBC,Aspirational,6,420000.0
+Bihar,Boys,OBC,Aspirational,7,1030000.0
+Bihar,Boys,OBC,Aspirational,8,1800000.0
+Bihar,Boys,OBC,Aspirational,9,960000.0
+Bihar,Boys,OBC,Aspirational,10,640000.0
+Bihar,Boys,OBC,Non-Aspirational,6,430000.0
+Bihar,Boys,OBC,Non-Aspirational,7,1210000.0
+Bihar,Boys,OBC,Non-Aspirational,8,2580000.0
+Bihar,Boys,OBC,Non-Aspirational,9,1440000.0
+Bihar,Boys,OBC,Non-Aspirational,10,1060000.0
+Bihar,Boys,SC,Aspirational,6,120000.0
+Bihar,Boys,SC,Aspirational,7,170000.0
+Bihar,Boys,SC,Aspirational,8,340000.0
+Bihar,Boys,SC,Aspirational,9,170000.0
+Bihar,Boys,SC,Aspirational,10,50000.0
+Bihar,Boys,SC,Non-Aspirational,6,120000.0
+Bihar,Boys,SC,Non-Aspirational,7,190000.0
+Bihar,Boys,SC,Non-Aspirational,8,510000.0
+Bihar,Boys,SC,Non-Aspirational,9,90000.0
+Bihar,Boys,SC,Non-Aspirational,10,120000.0
+Bihar,Boys,ST,Aspirational,7,10000.0
+Bihar,Boys,ST,Aspirational,8,20000.0
+Bihar,Boys,ST,Aspirational,9,30000.0
+Bihar,Boys,ST,Non-Aspirational,6,20000.0
+Bihar,Boys,ST,Non-Aspirational,8,40000.0
+Bihar,Boys,ST,Non-Aspirational,9,10000.0
+Bihar,Boys,ST,Non-Aspirational,10,20000.0
+Bihar,Girls,Gen,Aspirational,6,70000.0
+Bihar,Girls,Gen,Aspirational,7,360000.0
+Bihar,Girls,Gen,Aspirational,8,460000.0
+Bihar,Girls,Gen,Aspirational,9,330000.0
+Bihar,Girls,Gen,Aspirational,10,150000.0
+Bihar,Girls,Gen,Non-Aspirational,6,120000.0
+Bihar,Girls,Gen,Non-Aspirational,7,290000.0
+Bihar,Girls,Gen,Non-Aspirational,8,820000.0
+Bihar,Girls,Gen,Non-Aspirational,9,560000.0
+Bihar,Girls,Gen,Non-Aspirational,10,310000.0
+Bihar,Girls,OBC,Aspirational,6,340000.0
+Bihar,Girls,OBC,Aspirational,7,990000.0
+Bihar,Girls,OBC,Aspirational,8,1960000.0
+Bihar,Girls,OBC,Aspirational,9,820000.0
+Bihar,Girls,OBC,Aspirational,10,430000.0
+Bihar,Girls,OBC,Non-Aspirational,6,460000.0
+Bihar,Girls,OBC,Non-Aspirational,7,1120000.0
+Bihar,Girls,OBC,Non-Aspirational,8,3300000.0
+Bihar,Girls,OBC,Non-Aspirational,9,1440000.0
+Bihar,Girls,OBC,Non-Aspirational,10,930000.0
+Bihar,Girls,SC,Aspirational,6,80000.0
+Bihar,Girls,SC,Aspirational,7,70000.0
+Bihar,Girls,SC,Aspirational,8,290000.0
+Bihar,Girls,SC,Aspirational,9,120000.0
+Bihar,Girls,SC,Aspirational,10,70000.0
+Bihar,Girls,SC,Non-Aspirational,6,70000.0
+Bihar,Girls,SC,Non-Aspirational,7,150000.0
+Bihar,Girls,SC,Non-Aspirational,8,440000.0
+Bihar,Girls,SC,Non-Aspirational,9,120000.0
+Bihar,Girls,SC,Non-Aspirational,10,170000.0
+Bihar,Girls,ST,Aspirational,7,10000.0
+Bihar,Girls,ST,Aspirational,8,40000.0
+Bihar,Girls,ST,Non-Aspirational,7,20000.0
+Bihar,Girls,ST,Non-Aspirational,8,20000.0
+Bihar,Girls,ST,Non-Aspirational,9,30000.0
+Bihar,Girls,ST,Non-Aspirational,10,20000.0
+Chandigarh,Boys,Gen,Non-Aspirational,6,60000.0
+Chandigarh,Boys,Gen,Non-Aspirational,7,100000.0
+Chandigarh,Boys,Gen,Non-Aspirational,8,130000.0
+Chandigarh,Boys,Gen,Non-Aspirational,9,180000.0
+Chandigarh,Boys,Gen,Non-Aspirational,10,90000.0
+Chandigarh,Boys,OBC,Non-Aspirational,8,20000.0
+Chandigarh,Boys,OBC,Non-Aspirational,9,20000.0
+Chandigarh,Boys,OBC,Non-Aspirational,10,40000.0
+Chandigarh,Boys,SC,Non-Aspirational,8,30000.0
+Chandigarh,Boys,SC,Non-Aspirational,9,40000.0
+Chandigarh,Boys,SC,Non-Aspirational,10,40000.0
+Chandigarh,Girls,Gen,Non-Aspirational,7,100000.0
+Chandigarh,Girls,Gen,Non-Aspirational,8,80000.0
+Chandigarh,Girls,Gen,Non-Aspirational,9,90000.0
+Chandigarh,Girls,Gen,Non-Aspirational,10,80000.0
+Chandigarh,Girls,OBC,Non-Aspirational,6,10000.0
+Chandigarh,Girls,OBC,Non-Aspirational,8,10000.0
+Chandigarh,Girls,OBC,Non-Aspirational,10,30000.0
+Chandigarh,Girls,SC,Non-Aspirational,6,10000.0
+Chandigarh,Girls,SC,Non-Aspirational,8,10000.0
+Chandigarh,Girls,SC,Non-Aspirational,9,20000.0
+Chandigarh,Girls,SC,Non-Aspirational,10,10000.0
+Chandigarh,Girls,ST,Non-Aspirational,7,10000.0
+Chandigarh,Girls,ST,Non-Aspirational,10,10000.0
+Chhattisgarh,Boys,Gen,Aspirational,6,10000.0
+Chhattisgarh,Boys,Gen,Aspirational,7,40000.0
+Chhattisgarh,Boys,Gen,Aspirational,8,110000.0
+Chhattisgarh,Boys,Gen,Aspirational,9,70000.0
+Chhattisgarh,Boys,Gen,Aspirational,10,60000.0
+Chhattisgarh,Boys,Gen,Non-Aspirational,6,120000.0
+Chhattisgarh,Boys,Gen,Non-Aspirational,7,180000.0
+Chhattisgarh,Boys,Gen,Non-Aspirational,8,230000.0
+Chhattisgarh,Boys,Gen,Non-Aspirational,9,230000.0
+Chhattisgarh,Boys,Gen,Non-Aspirational,10,330000.0
+Chhattisgarh,Boys,OBC,Aspirational,6,130000.0
+Chhattisgarh,Boys,OBC,Aspirational,7,360000.0
+Chhattisgarh,Boys,OBC,Aspirational,8,580000.0
+Chhattisgarh,Boys,OBC,Aspirational,9,450000.0
+Chhattisgarh,Boys,OBC,Aspirational,10,610000.0
+Chhattisgarh,Boys,OBC,Non-Aspirational,6,330000.0
+Chhattisgarh,Boys,OBC,Non-Aspirational,7,1190000.0
+Chhattisgarh,Boys,OBC,Non-Aspirational,8,1770000.0
+Chhattisgarh,Boys,OBC,Non-Aspirational,9,1050000.0
+Chhattisgarh,Boys,OBC,Non-Aspirational,10,1760000.0
+Chhattisgarh,Boys,SC,Aspirational,6,30000.0
+Chhattisgarh,Boys,SC,Aspirational,7,50000.0
+Chhattisgarh,Boys,SC,Aspirational,8,50000.0
+Chhattisgarh,Boys,SC,Aspirational,9,80000.0
+Chhattisgarh,Boys,SC,Aspirational,10,70000.0
+Chhattisgarh,Boys,SC,Non-Aspirational,6,70000.0
+Chhattisgarh,Boys,SC,Non-Aspirational,7,250000.0
+Chhattisgarh,Boys,SC,Non-Aspirational,8,440000.0
+Chhattisgarh,Boys,SC,Non-Aspirational,9,300000.0
+Chhattisgarh,Boys,SC,Non-Aspirational,10,360000.0
+Chhattisgarh,Boys,ST,Aspirational,6,370000.0
+Chhattisgarh,Boys,ST,Aspirational,7,470000.0
+Chhattisgarh,Boys,ST,Aspirational,8,860000.0
+Chhattisgarh,Boys,ST,Aspirational,9,470000.0
+Chhattisgarh,Boys,ST,Aspirational,10,500000.0
+Chhattisgarh,Boys,ST,Non-Aspirational,6,140000.0
+Chhattisgarh,Boys,ST,Non-Aspirational,7,290000.0
+Chhattisgarh,Boys,ST,Non-Aspirational,8,610000.0
+Chhattisgarh,Boys,ST,Non-Aspirational,9,250000.0
+Chhattisgarh,Boys,ST,Non-Aspirational,10,310000.0
+Chhattisgarh,Girls,Gen,Aspirational,6,20000.0
+Chhattisgarh,Girls,Gen,Aspirational,7,80000.0
+Chhattisgarh,Girls,Gen,Aspirational,8,60000.0
+Chhattisgarh,Girls,Gen,Aspirational,9,110000.0
+Chhattisgarh,Girls,Gen,Aspirational,10,80000.0
+Chhattisgarh,Girls,Gen,Non-Aspirational,6,50000.0
+Chhattisgarh,Girls,Gen,Non-Aspirational,7,160000.0
+Chhattisgarh,Girls,Gen,Non-Aspirational,8,210000.0
+Chhattisgarh,Girls,Gen,Non-Aspirational,9,230000.0
+Chhattisgarh,Girls,Gen,Non-Aspirational,10,320000.0
+Chhattisgarh,Girls,OBC,Aspirational,6,170000.0
+Chhattisgarh,Girls,OBC,Aspirational,7,350000.0
+Chhattisgarh,Girls,OBC,Aspirational,8,780000.0
+Chhattisgarh,Girls,OBC,Aspirational,9,500000.0
+Chhattisgarh,Girls,OBC,Aspirational,10,580000.0
+Chhattisgarh,Girls,OBC,Non-Aspirational,6,570000.0
+Chhattisgarh,Girls,OBC,Non-Aspirational,7,1230000.0
+Chhattisgarh,Girls,OBC,Non-Aspirational,8,2380000.0
+Chhattisgarh,Girls,OBC,Non-Aspirational,9,1610000.0
+Chhattisgarh,Girls,OBC,Non-Aspirational,10,2150000.0
+Chhattisgarh,Girls,SC,Aspirational,6,40000.0
+Chhattisgarh,Girls,SC,Aspirational,7,150000.0
+Chhattisgarh,Girls,SC,Aspirational,8,150000.0
+Chhattisgarh,Girls,SC,Aspirational,9,70000.0
+Chhattisgarh,Girls,SC,Aspirational,10,130000.0
+Chhattisgarh,Girls,SC,Non-Aspirational,6,200000.0
+Chhattisgarh,Girls,SC,Non-Aspirational,7,410000.0
+Chhattisgarh,Girls,SC,Non-Aspirational,8,750000.0
+Chhattisgarh,Girls,SC,Non-Aspirational,9,310000.0
+Chhattisgarh,Girls,SC,Non-Aspirational,10,520000.0
+Chhattisgarh,Girls,ST,Aspirational,6,350000.0
+Chhattisgarh,Girls,ST,Aspirational,7,610000.0
+Chhattisgarh,Girls,ST,Aspirational,8,980000.0
+Chhattisgarh,Girls,ST,Aspirational,9,420000.0
+Chhattisgarh,Girls,ST,Aspirational,10,680000.0
+Chhattisgarh,Girls,ST,Non-Aspirational,6,240000.0
+Chhattisgarh,Girls,ST,Non-Aspirational,7,590000.0
+Chhattisgarh,Girls,ST,Non-Aspirational,8,1000000.0
+Chhattisgarh,Girls,ST,Non-Aspirational,9,350000.0
+Chhattisgarh,Girls,ST,Non-Aspirational,10,570000.0
+Dadra and Nagar Haveli & Daman and Diu,Boys,Gen,Non-Aspirational,8,10000.0
+Dadra and Nagar Haveli & Daman and Diu,Boys,Gen,Non-Aspirational,9,20000.0
+Dadra and Nagar Haveli & Daman and Diu,Boys,Gen,Non-Aspirational,10,10000.0
+Dadra and Nagar Haveli & Daman and Diu,Girls,Gen,Non-Aspirational,9,10000.0
+Dadra and Nagar Haveli & Daman and Diu,Girls,Gen,Non-Aspirational,10,10000.0
+Delhi,Boys,Gen,Non-Aspirational,6,80000.0
+Delhi,Boys,Gen,Non-Aspirational,7,80000.0
+Delhi,Boys,Gen,Non-Aspirational,8,140000.0
+Delhi,Boys,Gen,Non-Aspirational,9,390000.0
+Delhi,Boys,Gen,Non-Aspirational,10,300000.0
+Delhi,Boys,OBC,Non-Aspirational,6,10000.0
+Delhi,Boys,OBC,Non-Aspirational,8,30000.0
+Delhi,Boys,OBC,Non-Aspirational,9,30000.0
+Delhi,Boys,OBC,Non-Aspirational,10,50000.0
+Delhi,Boys,SC,Non-Aspirational,8,30000.0
+Delhi,Boys,SC,Non-Aspirational,9,10000.0
+Delhi,Boys,SC,Non-Aspirational,10,40000.0
+Delhi,Girls,Gen,Non-Aspirational,6,50000.0
+Delhi,Girls,Gen,Non-Aspirational,7,80000.0
+Delhi,Girls,Gen,Non-Aspirational,8,130000.0
+Delhi,Girls,Gen,Non-Aspirational,9,210000.0
+Delhi,Girls,Gen,Non-Aspirational,10,270000.0
+Delhi,Girls,OBC,Non-Aspirational,8,30000.0
+Delhi,Girls,OBC,Non-Aspirational,9,10000.0
+Delhi,Girls,OBC,Non-Aspirational,10,10000.0
+Delhi,Girls,SC,Non-Aspirational,6,20000.0
+Delhi,Girls,SC,Non-Aspirational,8,10000.0
+Delhi,Girls,SC,Non-Aspirational,9,10000.0
+Delhi,Girls,SC,Non-Aspirational,10,10000.0
+Goa,Boys,Gen,Non-Aspirational,7,10000.0
+Goa,Boys,Gen,Non-Aspirational,8,30000.0
+Goa,Boys,Gen,Non-Aspirational,9,10000.0
+Goa,Boys,Gen,Non-Aspirational,10,10000.0
+Goa,Boys,OBC,Non-Aspirational,6,10000.0
+Goa,Boys,OBC,Non-Aspirational,9,10000.0
+Goa,Boys,ST,Non-Aspirational,7,10000.0
+Goa,Boys,ST,Non-Aspirational,8,10000.0
+Goa,Girls,Gen,Non-Aspirational,8,10000.0
+Goa,Girls,OBC,Non-Aspirational,6,10000.0
+Goa,Girls,OBC,Non-Aspirational,9,20000.0
+Goa,Girls,ST,Non-Aspirational,9,10000.0
+Gujarat,Boys,Gen,Aspirational,8,20000.0
+Gujarat,Boys,Gen,Non-Aspirational,6,310000.0
+Gujarat,Boys,Gen,Non-Aspirational,7,350000.0
+Gujarat,Boys,Gen,Non-Aspirational,8,460000.0
+Gujarat,Boys,Gen,Non-Aspirational,9,220000.0
+Gujarat,Boys,Gen,Non-Aspirational,10,140000.0
+Gujarat,Boys,OBC,Aspirational,7,30000.0
+Gujarat,Boys,OBC,Aspirational,8,50000.0
+Gujarat,Boys,OBC,Non-Aspirational,6,480000.0
+Gujarat,Boys,OBC,Non-Aspirational,7,820000.0
+Gujarat,Boys,OBC,Non-Aspirational,8,1160000.0
+Gujarat,Boys,OBC,Non-Aspirational,9,270000.0
+Gujarat,Boys,OBC,Non-Aspirational,10,110000.0
+Gujarat,Boys,SC,Non-Aspirational,6,30000.0
+Gujarat,Boys,SC,Non-Aspirational,7,150000.0
+Gujarat,Boys,SC,Non-Aspirational,8,150000.0
+Gujarat,Boys,SC,Non-Aspirational,9,60000.0
+Gujarat,Boys,ST,Aspirational,7,70000.0
+Gujarat,Boys,ST,Aspirational,8,80000.0
+Gujarat,Boys,ST,Non-Aspirational,6,250000.0
+Gujarat,Boys,ST,Non-Aspirational,7,330000.0
+Gujarat,Boys,ST,Non-Aspirational,8,380000.0
+Gujarat,Boys,ST,Non-Aspirational,9,100000.0
+Gujarat,Boys,ST,Non-Aspirational,10,60000.0
+Gujarat,Girls,Gen,Aspirational,6,30000.0
+Gujarat,Girls,Gen,Aspirational,7,10000.0
+Gujarat,Girls,Gen,Non-Aspirational,6,200000.0
+Gujarat,Girls,Gen,Non-Aspirational,7,490000.0
+Gujarat,Girls,Gen,Non-Aspirational,8,400000.0
+Gujarat,Girls,Gen,Non-Aspirational,9,190000.0
+Gujarat,Girls,Gen,Non-Aspirational,10,290000.0
+Gujarat,Girls,OBC,Aspirational,6,10000.0
+Gujarat,Girls,OBC,Aspirational,7,10000.0
+Gujarat,Girls,OBC,Aspirational,8,40000.0
+Gujarat,Girls,OBC,Non-Aspirational,6,310000.0
+Gujarat,Girls,OBC,Non-Aspirational,7,810000.0
+Gujarat,Girls,OBC,Non-Aspirational,8,930000.0
+Gujarat,Girls,OBC,Non-Aspirational,9,160000.0
+Gujarat,Girls,OBC,Non-Aspirational,10,140000.0
+Gujarat,Girls,SC,Non-Aspirational,6,50000.0
+Gujarat,Girls,SC,Non-Aspirational,7,80000.0
+Gujarat,Girls,SC,Non-Aspirational,8,120000.0
+Gujarat,Girls,SC,Non-Aspirational,9,40000.0
+Gujarat,Girls,SC,Non-Aspirational,10,10000.0
+Gujarat,Girls,ST,Aspirational,6,60000.0
+Gujarat,Girls,ST,Aspirational,7,80000.0
+Gujarat,Girls,ST,Aspirational,8,50000.0
+Gujarat,Girls,ST,Non-Aspirational,6,120000.0
+Gujarat,Girls,ST,Non-Aspirational,7,610000.0
+Gujarat,Girls,ST,Non-Aspirational,8,580000.0
+Gujarat,Girls,ST,Non-Aspirational,9,140000.0
+Gujarat,Girls,ST,Non-Aspirational,10,120000.0
+Haryana,Boys,Gen,Non-Aspirational,6,80000.0
+Haryana,Boys,Gen,Non-Aspirational,7,60000.0
+Haryana,Boys,Gen,Non-Aspirational,8,130000.0
+Haryana,Boys,Gen,Non-Aspirational,9,210000.0
+Haryana,Boys,Gen,Non-Aspirational,10,270000.0
+Haryana,Boys,OBC,Non-Aspirational,6,10000.0
+Haryana,Boys,OBC,Non-Aspirational,7,40000.0
+Haryana,Boys,OBC,Non-Aspirational,8,90000.0
+Haryana,Boys,OBC,Non-Aspirational,9,170000.0
+Haryana,Boys,OBC,Non-Aspirational,10,170000.0
+Haryana,Boys,SC,Non-Aspirational,6,40000.0
+Haryana,Boys,SC,Non-Aspirational,7,40000.0
+Haryana,Boys,SC,Non-Aspirational,8,50000.0
+Haryana,Boys,SC,Non-Aspirational,9,170000.0
+Haryana,Boys,SC,Non-Aspirational,10,80000.0
+Haryana,Girls,Gen,Non-Aspirational,6,70000.0
+Haryana,Girls,Gen,Non-Aspirational,7,140000.0
+Haryana,Girls,Gen,Non-Aspirational,8,140000.0
+Haryana,Girls,Gen,Non-Aspirational,9,180000.0
+Haryana,Girls,Gen,Non-Aspirational,10,310000.0
+Haryana,Girls,OBC,Non-Aspirational,6,10000.0
+Haryana,Girls,OBC,Non-Aspirational,7,20000.0
+Haryana,Girls,OBC,Non-Aspirational,8,130000.0
+Haryana,Girls,OBC,Non-Aspirational,9,160000.0
+Haryana,Girls,OBC,Non-Aspirational,10,180000.0
+Haryana,Girls,SC,Non-Aspirational,7,60000.0
+Haryana,Girls,SC,Non-Aspirational,8,40000.0
+Haryana,Girls,SC,Non-Aspirational,9,140000.0
+Haryana,Girls,SC,Non-Aspirational,10,140000.0
+Himachal Pradesh,Boys,Gen,Aspirational,6,10000.0
+Himachal Pradesh,Boys,Gen,Aspirational,7,30000.0
+Himachal Pradesh,Boys,Gen,Aspirational,9,30000.0
+Himachal Pradesh,Boys,Gen,Aspirational,10,20000.0
+Himachal Pradesh,Boys,Gen,Non-Aspirational,6,130000.0
+Himachal Pradesh,Boys,Gen,Non-Aspirational,7,220000.0
+Himachal Pradesh,Boys,Gen,Non-Aspirational,8,360000.0
+Himachal Pradesh,Boys,Gen,Non-Aspirational,9,500000.0
+Himachal Pradesh,Boys,Gen,Non-Aspirational,10,450000.0
+Himachal Pradesh,Boys,OBC,Non-Aspirational,6,10000.0
+Himachal Pradesh,Boys,OBC,Non-Aspirational,7,30000.0
+Himachal Pradesh,Boys,OBC,Non-Aspirational,8,50000.0
+Himachal Pradesh,Boys,OBC,Non-Aspirational,9,90000.0
+Himachal Pradesh,Boys,OBC,Non-Aspirational,10,90000.0
+Himachal Pradesh,Boys,SC,Aspirational,10,20000.0
+Himachal Pradesh,Boys,SC,Non-Aspirational,6,60000.0
+Himachal Pradesh,Boys,SC,Non-Aspirational,7,90000.0
+Himachal Pradesh,Boys,SC,Non-Aspirational,8,170000.0
+Himachal Pradesh,Boys,SC,Non-Aspirational,9,160000.0
+Himachal Pradesh,Boys,SC,Non-Aspirational,10,120000.0
+Himachal Pradesh,Boys,ST,Aspirational,7,10000.0
+Himachal Pradesh,Boys,ST,Aspirational,9,20000.0
+Himachal Pradesh,Boys,ST,Non-Aspirational,8,20000.0
+Himachal Pradesh,Boys,ST,Non-Aspirational,9,40000.0
+Himachal Pradesh,Boys,ST,Non-Aspirational,10,20000.0
+Himachal Pradesh,Girls,Gen,Aspirational,7,10000.0
+Himachal Pradesh,Girls,Gen,Aspirational,8,20000.0
+Himachal Pradesh,Girls,Gen,Aspirational,9,60000.0
+Himachal Pradesh,Girls,Gen,Aspirational,10,30000.0
+Himachal Pradesh,Girls,Gen,Non-Aspirational,6,190000.0
+Himachal Pradesh,Girls,Gen,Non-Aspirational,7,220000.0
+Himachal Pradesh,Girls,Gen,Non-Aspirational,8,460000.0
+Himachal Pradesh,Girls,Gen,Non-Aspirational,9,620000.0
+Himachal Pradesh,Girls,Gen,Non-Aspirational,10,390000.0
+Himachal Pradesh,Girls,OBC,Non-Aspirational,6,20000.0
+Himachal Pradesh,Girls,OBC,Non-Aspirational,7,30000.0
+Himachal Pradesh,Girls,OBC,Non-Aspirational,8,130000.0
+Himachal Pradesh,Girls,OBC,Non-Aspirational,9,90000.0
+Himachal Pradesh,Girls,OBC,Non-Aspirational,10,110000.0
+Himachal Pradesh,Girls,SC,Aspirational,8,10000.0
+Himachal Pradesh,Girls,SC,Aspirational,10,20000.0
+Himachal Pradesh,Girls,SC,Non-Aspirational,6,60000.0
+Himachal Pradesh,Girls,SC,Non-Aspirational,7,120000.0
+Himachal Pradesh,Girls,SC,Non-Aspirational,8,310000.0
+Himachal Pradesh,Girls,SC,Non-Aspirational,9,250000.0
+Himachal Pradesh,Girls,SC,Non-Aspirational,10,210000.0
+Himachal Pradesh,Girls,ST,Aspirational,8,10000.0
+Himachal Pradesh,Girls,ST,Aspirational,9,10000.0
+Himachal Pradesh,Girls,ST,Aspirational,10,10000.0
+Himachal Pradesh,Girls,ST,Non-Aspirational,7,10000.0
+Himachal Pradesh,Girls,ST,Non-Aspirational,8,20000.0
+Himachal Pradesh,Girls,ST,Non-Aspirational,9,10000.0
+Himachal Pradesh,Girls,ST,Non-Aspirational,10,40000.0
+Jammu & Kashmir,Boys,Gen,Aspirational,6,130000.0
+Jammu & Kashmir,Boys,Gen,Aspirational,7,180000.0
+Jammu & Kashmir,Boys,Gen,Aspirational,8,230000.0
+Jammu & Kashmir,Boys,Gen,Aspirational,9,170000.0
+Jammu & Kashmir,Boys,Gen,Aspirational,10,70000.0
+Jammu & Kashmir,Boys,Gen,Non-Aspirational,6,400000.0
+Jammu & Kashmir,Boys,Gen,Non-Aspirational,7,480000.0
+Jammu & Kashmir,Boys,Gen,Non-Aspirational,8,590000.0
+Jammu & Kashmir,Boys,Gen,Non-Aspirational,9,580000.0
+Jammu & Kashmir,Boys,Gen,Non-Aspirational,10,480000.0
+Jammu & Kashmir,Boys,OBC,Aspirational,6,10000.0
+Jammu & Kashmir,Boys,OBC,Aspirational,7,20000.0
+Jammu & Kashmir,Boys,OBC,Aspirational,8,40000.0
+Jammu & Kashmir,Boys,OBC,Aspirational,9,20000.0
+Jammu & Kashmir,Boys,OBC,Aspirational,10,20000.0
+Jammu & Kashmir,Boys,OBC,Non-Aspirational,6,20000.0
+Jammu & Kashmir,Boys,OBC,Non-Aspirational,7,70000.0
+Jammu & Kashmir,Boys,OBC,Non-Aspirational,8,100000.0
+Jammu & Kashmir,Boys,OBC,Non-Aspirational,9,20000.0
+Jammu & Kashmir,Boys,OBC,Non-Aspirational,10,50000.0
+Jammu & Kashmir,Boys,SC,Aspirational,9,10000.0
+Jammu & Kashmir,Boys,SC,Non-Aspirational,6,10000.0
+Jammu & Kashmir,Boys,SC,Non-Aspirational,7,50000.0
+Jammu & Kashmir,Boys,SC,Non-Aspirational,8,90000.0
+Jammu & Kashmir,Boys,SC,Non-Aspirational,10,60000.0
+Jammu & Kashmir,Boys,ST,Aspirational,6,20000.0
+Jammu & Kashmir,Boys,ST,Aspirational,7,10000.0
+Jammu & Kashmir,Boys,ST,Aspirational,8,30000.0
+Jammu & Kashmir,Boys,ST,Aspirational,9,10000.0
+Jammu & Kashmir,Boys,ST,Non-Aspirational,6,70000.0
+Jammu & Kashmir,Boys,ST,Non-Aspirational,7,60000.0
+Jammu & Kashmir,Boys,ST,Non-Aspirational,8,40000.0
+Jammu & Kashmir,Boys,ST,Non-Aspirational,9,50000.0
+Jammu & Kashmir,Boys,ST,Non-Aspirational,10,60000.0
+Jammu & Kashmir,Girls,Gen,Aspirational,6,180000.0
+Jammu & Kashmir,Girls,Gen,Aspirational,7,80000.0
+Jammu & Kashmir,Girls,Gen,Aspirational,8,170000.0
+Jammu & Kashmir,Girls,Gen,Aspirational,9,160000.0
+Jammu & Kashmir,Girls,Gen,Aspirational,10,50000.0
+Jammu & Kashmir,Girls,Gen,Non-Aspirational,6,310000.0
+Jammu & Kashmir,Girls,Gen,Non-Aspirational,7,440000.0
+Jammu & Kashmir,Girls,Gen,Non-Aspirational,8,590000.0
+Jammu & Kashmir,Girls,Gen,Non-Aspirational,9,530000.0
+Jammu & Kashmir,Girls,Gen,Non-Aspirational,10,470000.0
+Jammu & Kashmir,Girls,OBC,Aspirational,6,30000.0
+Jammu & Kashmir,Girls,OBC,Aspirational,9,20000.0
+Jammu & Kashmir,Girls,OBC,Aspirational,10,10000.0
+Jammu & Kashmir,Girls,OBC,Non-Aspirational,6,10000.0
+Jammu & Kashmir,Girls,OBC,Non-Aspirational,7,40000.0
+Jammu & Kashmir,Girls,OBC,Non-Aspirational,8,90000.0
+Jammu & Kashmir,Girls,OBC,Non-Aspirational,9,30000.0
+Jammu & Kashmir,Girls,OBC,Non-Aspirational,10,20000.0
+Jammu & Kashmir,Girls,SC,Non-Aspirational,6,30000.0
+Jammu & Kashmir,Girls,SC,Non-Aspirational,7,20000.0
+Jammu & Kashmir,Girls,SC,Non-Aspirational,8,70000.0
+Jammu & Kashmir,Girls,SC,Non-Aspirational,9,20000.0
+Jammu & Kashmir,Girls,SC,Non-Aspirational,10,40000.0
+Jammu & Kashmir,Girls,ST,Aspirational,9,10000.0
+Jammu & Kashmir,Girls,ST,Non-Aspirational,6,20000.0
+Jammu & Kashmir,Girls,ST,Non-Aspirational,7,50000.0
+Jammu & Kashmir,Girls,ST,Non-Aspirational,8,60000.0
+Jammu & Kashmir,Girls,ST,Non-Aspirational,9,30000.0
+Jammu & Kashmir,Girls,ST,Non-Aspirational,10,20000.0
+Jharkhand,Boys,Gen,Aspirational,6,160000.0
+Jharkhand,Boys,Gen,Aspirational,7,210000.0
+Jharkhand,Boys,Gen,Aspirational,8,180000.0
+Jharkhand,Boys,Gen,Aspirational,9,320000.0
+Jharkhand,Boys,Gen,Aspirational,10,290000.0
+Jharkhand,Boys,Gen,Non-Aspirational,6,10000.0
+Jharkhand,Boys,Gen,Non-Aspirational,7,20000.0
+Jharkhand,Boys,Gen,Non-Aspirational,8,90000.0
+Jharkhand,Boys,Gen,Non-Aspirational,9,50000.0
+Jharkhand,Boys,Gen,Non-Aspirational,10,170000.0
+Jharkhand,Boys,OBC,Aspirational,6,300000.0
+Jharkhand,Boys,OBC,Aspirational,7,570000.0
+Jharkhand,Boys,OBC,Aspirational,8,1120000.0
+Jharkhand,Boys,OBC,Aspirational,9,660000.0
+Jharkhand,Boys,OBC,Aspirational,10,1040000.0
+Jharkhand,Boys,OBC,Non-Aspirational,6,70000.0
+Jharkhand,Boys,OBC,Non-Aspirational,7,170000.0
+Jharkhand,Boys,OBC,Non-Aspirational,8,360000.0
+Jharkhand,Boys,OBC,Non-Aspirational,9,200000.0
+Jharkhand,Boys,OBC,Non-Aspirational,10,250000.0
+Jharkhand,Boys,SC,Aspirational,6,100000.0
+Jharkhand,Boys,SC,Aspirational,7,160000.0
+Jharkhand,Boys,SC,Aspirational,8,300000.0
+Jharkhand,Boys,SC,Aspirational,9,80000.0
+Jharkhand,Boys,SC,Aspirational,10,150000.0
+Jharkhand,Boys,SC,Non-Aspirational,7,20000.0
+Jharkhand,Boys,SC,Non-Aspirational,8,30000.0
+Jharkhand,Boys,SC,Non-Aspirational,9,10000.0
+Jharkhand,Boys,SC,Non-Aspirational,10,20000.0
+Jharkhand,Boys,ST,Aspirational,6,100000.0
+Jharkhand,Boys,ST,Aspirational,7,230000.0
+Jharkhand,Boys,ST,Aspirational,8,590000.0
+Jharkhand,Boys,ST,Aspirational,9,150000.0
+Jharkhand,Boys,ST,Aspirational,10,240000.0
+Jharkhand,Boys,ST,Non-Aspirational,6,10000.0
+Jharkhand,Boys,ST,Non-Aspirational,7,60000.0
+Jharkhand,Boys,ST,Non-Aspirational,8,80000.0
+Jharkhand,Boys,ST,Non-Aspirational,9,10000.0
+Jharkhand,Boys,ST,Non-Aspirational,10,30000.0
+Jharkhand,Girls,Gen,Aspirational,6,90000.0
+Jharkhand,Girls,Gen,Aspirational,7,140000.0
+Jharkhand,Girls,Gen,Aspirational,8,280000.0
+Jharkhand,Girls,Gen,Aspirational,9,190000.0
+Jharkhand,Girls,Gen,Aspirational,10,280000.0
+Jharkhand,Girls,Gen,Non-Aspirational,6,30000.0
+Jharkhand,Girls,Gen,Non-Aspirational,7,60000.0
+Jharkhand,Girls,Gen,Non-Aspirational,8,50000.0
+Jharkhand,Girls,Gen,Non-Aspirational,9,50000.0
+Jharkhand,Girls,Gen,Non-Aspirational,10,120000.0
+Jharkhand,Girls,OBC,Aspirational,6,380000.0
+Jharkhand,Girls,OBC,Aspirational,7,430000.0
+Jharkhand,Girls,OBC,Aspirational,8,1240000.0
+Jharkhand,Girls,OBC,Aspirational,9,630000.0
+Jharkhand,Girls,OBC,Aspirational,10,930000.0
+Jharkhand,Girls,OBC,Non-Aspirational,6,170000.0
+Jharkhand,Girls,OBC,Non-Aspirational,7,130000.0
+Jharkhand,Girls,OBC,Non-Aspirational,8,320000.0
+Jharkhand,Girls,OBC,Non-Aspirational,9,80000.0
+Jharkhand,Girls,OBC,Non-Aspirational,10,250000.0
+Jharkhand,Girls,SC,Aspirational,6,50000.0
+Jharkhand,Girls,SC,Aspirational,7,140000.0
+Jharkhand,Girls,SC,Aspirational,8,200000.0
+Jharkhand,Girls,SC,Aspirational,9,40000.0
+Jharkhand,Girls,SC,Aspirational,10,50000.0
+Jharkhand,Girls,SC,Non-Aspirational,6,10000.0
+Jharkhand,Girls,SC,Non-Aspirational,7,10000.0
+Jharkhand,Girls,SC,Non-Aspirational,8,70000.0
+Jharkhand,Girls,SC,Non-Aspirational,10,30000.0
+Jharkhand,Girls,ST,Aspirational,6,140000.0
+Jharkhand,Girls,ST,Aspirational,7,350000.0
+Jharkhand,Girls,ST,Aspirational,8,610000.0
+Jharkhand,Girls,ST,Aspirational,9,200000.0
+Jharkhand,Girls,ST,Aspirational,10,360000.0
+Jharkhand,Girls,ST,Non-Aspirational,6,20000.0
+Jharkhand,Girls,ST,Non-Aspirational,7,20000.0
+Jharkhand,Girls,ST,Non-Aspirational,8,50000.0
+Jharkhand,Girls,ST,Non-Aspirational,10,50000.0
+Karnataka,Boys,Gen,Aspirational,9,30000.0
+Karnataka,Boys,Gen,Non-Aspirational,6,460000.0
+Karnataka,Boys,Gen,Non-Aspirational,7,710000.0
+Karnataka,Boys,Gen,Non-Aspirational,8,830000.0
+Karnataka,Boys,Gen,Non-Aspirational,9,920000.0
+Karnataka,Boys,Gen,Non-Aspirational,10,770000.0
+Karnataka,Boys,OBC,Aspirational,6,40000.0
+Karnataka,Boys,OBC,Aspirational,7,170000.0
+Karnataka,Boys,OBC,Aspirational,8,120000.0
+Karnataka,Boys,OBC,Aspirational,9,100000.0
+Karnataka,Boys,OBC,Aspirational,10,120000.0
+Karnataka,Boys,OBC,Non-Aspirational,6,4620000.0
+Karnataka,Boys,OBC,Non-Aspirational,7,6530000.0
+Karnataka,Boys,OBC,Non-Aspirational,8,4350000.0
+Karnataka,Boys,OBC,Non-Aspirational,9,5560000.0
+Karnataka,Boys,OBC,Non-Aspirational,10,3240000.0
+Karnataka,Boys,SC,Aspirational,6,60000.0
+Karnataka,Boys,SC,Aspirational,7,40000.0
+Karnataka,Boys,SC,Aspirational,8,60000.0
+Karnataka,Boys,SC,Aspirational,9,20000.0
+Karnataka,Boys,SC,Non-Aspirational,6,910000.0
+Karnataka,Boys,SC,Non-Aspirational,7,1320000.0
+Karnataka,Boys,SC,Non-Aspirational,8,920000.0
+Karnataka,Boys,SC,Non-Aspirational,9,990000.0
+Karnataka,Boys,SC,Non-Aspirational,10,780000.0
+Karnataka,Boys,ST,Aspirational,6,30000.0
+Karnataka,Boys,ST,Aspirational,7,40000.0
+Karnataka,Boys,ST,Aspirational,8,40000.0
+Karnataka,Boys,ST,Aspirational,9,40000.0
+Karnataka,Boys,ST,Aspirational,10,30000.0
+Karnataka,Boys,ST,Non-Aspirational,6,350000.0
+Karnataka,Boys,ST,Non-Aspirational,7,430000.0
+Karnataka,Boys,ST,Non-Aspirational,8,410000.0
+Karnataka,Boys,ST,Non-Aspirational,9,320000.0
+Karnataka,Boys,ST,Non-Aspirational,10,230000.0
+Karnataka,Girls,Gen,Non-Aspirational,6,370000.0
+Karnataka,Girls,Gen,Non-Aspirational,7,560000.0
+Karnataka,Girls,Gen,Non-Aspirational,8,570000.0
+Karnataka,Girls,Gen,Non-Aspirational,9,770000.0
+Karnataka,Girls,Gen,Non-Aspirational,10,490000.0
+Karnataka,Girls,OBC,Aspirational,6,160000.0
+Karnataka,Girls,OBC,Aspirational,7,210000.0
+Karnataka,Girls,OBC,Aspirational,8,100000.0
+Karnataka,Girls,OBC,Aspirational,9,240000.0
+Karnataka,Girls,OBC,Aspirational,10,70000.0
+Karnataka,Girls,OBC,Non-Aspirational,6,5520000.0
+Karnataka,Girls,OBC,Non-Aspirational,7,8870000.0
+Karnataka,Girls,OBC,Non-Aspirational,8,5090000.0
+Karnataka,Girls,OBC,Non-Aspirational,9,6590000.0
+Karnataka,Girls,OBC,Non-Aspirational,10,3070000.0
+Karnataka,Girls,SC,Aspirational,6,20000.0
+Karnataka,Girls,SC,Aspirational,7,10000.0
+Karnataka,Girls,SC,Aspirational,8,20000.0
+Karnataka,Girls,SC,Aspirational,9,30000.0
+Karnataka,Girls,SC,Aspirational,10,20000.0
+Karnataka,Girls,SC,Non-Aspirational,6,740000.0
+Karnataka,Girls,SC,Non-Aspirational,7,1500000.0
+Karnataka,Girls,SC,Non-Aspirational,8,670000.0
+Karnataka,Girls,SC,Non-Aspirational,9,880000.0
+Karnataka,Girls,SC,Non-Aspirational,10,600000.0
+Karnataka,Girls,ST,Aspirational,6,30000.0
+Karnataka,Girls,ST,Aspirational,7,30000.0
+Karnataka,Girls,ST,Aspirational,9,20000.0
+Karnataka,Girls,ST,Aspirational,10,20000.0
+Karnataka,Girls,ST,Non-Aspirational,6,400000.0
+Karnataka,Girls,ST,Non-Aspirational,7,590000.0
+Karnataka,Girls,ST,Non-Aspirational,8,380000.0
+Karnataka,Girls,ST,Non-Aspirational,9,310000.0
+Karnataka,Girls,ST,Non-Aspirational,10,160000.0
+Kerala,Boys,Gen,Aspirational,8,10000.0
+Kerala,Boys,Gen,Aspirational,9,10000.0
+Kerala,Boys,Gen,Non-Aspirational,6,190000.0
+Kerala,Boys,Gen,Non-Aspirational,7,270000.0
+Kerala,Boys,Gen,Non-Aspirational,8,220000.0
+Kerala,Boys,Gen,Non-Aspirational,9,340000.0
+Kerala,Boys,Gen,Non-Aspirational,10,160000.0
+Kerala,Boys,OBC,Aspirational,7,10000.0
+Kerala,Boys,OBC,Aspirational,8,10000.0
+Kerala,Boys,OBC,Non-Aspirational,6,200000.0
+Kerala,Boys,OBC,Non-Aspirational,7,520000.0
+Kerala,Boys,OBC,Non-Aspirational,8,260000.0
+Kerala,Boys,OBC,Non-Aspirational,9,390000.0
+Kerala,Boys,OBC,Non-Aspirational,10,270000.0
+Kerala,Boys,SC,Aspirational,7,10000.0
+Kerala,Boys,SC,Non-Aspirational,6,10000.0
+Kerala,Boys,SC,Non-Aspirational,7,50000.0
+Kerala,Boys,SC,Non-Aspirational,8,20000.0
+Kerala,Boys,SC,Non-Aspirational,9,60000.0
+Kerala,Boys,ST,Aspirational,9,10000.0
+Kerala,Girls,Gen,Aspirational,8,10000.0
+Kerala,Girls,Gen,Non-Aspirational,6,100000.0
+Kerala,Girls,Gen,Non-Aspirational,7,180000.0
+Kerala,Girls,Gen,Non-Aspirational,8,100000.0
+Kerala,Girls,Gen,Non-Aspirational,9,130000.0
+Kerala,Girls,Gen,Non-Aspirational,10,80000.0
+Kerala,Girls,OBC,Non-Aspirational,6,140000.0
+Kerala,Girls,OBC,Non-Aspirational,7,370000.0
+Kerala,Girls,OBC,Non-Aspirational,8,130000.0
+Kerala,Girls,OBC,Non-Aspirational,9,240000.0
+Kerala,Girls,OBC,Non-Aspirational,10,160000.0
+Kerala,Girls,SC,Non-Aspirational,7,30000.0
+Kerala,Girls,SC,Non-Aspirational,8,20000.0
+Kerala,Girls,SC,Non-Aspirational,9,30000.0
+Kerala,Girls,SC,Non-Aspirational,10,40000.0
+Kerala,Girls,ST,Non-Aspirational,7,10000.0
+Kerala,Girls,ST,Non-Aspirational,8,10000.0
+Kerala,Girls,ST,Non-Aspirational,10,10000.0
+LAKSHADWEEP,Boys,ST,Non-Aspirational,7,10000.0
+LAKSHADWEEP,Girls,ST,Non-Aspirational,10,10000.0
+Ladakh,Boys,Gen,Non-Aspirational,9,10000.0
+Ladakh,Boys,ST,Non-Aspirational,8,10000.0
+Ladakh,Girls,ST,Non-Aspirational,9,20000.0
+Madhya Pradesh,Boys,Gen,Aspirational,7,30000.0
+Madhya Pradesh,Boys,Gen,Aspirational,8,30000.0
+Madhya Pradesh,Boys,Gen,Aspirational,9,50000.0
+Madhya Pradesh,Boys,Gen,Aspirational,10,120000.0
+Madhya Pradesh,Boys,Gen,Non-Aspirational,6,80000.0
+Madhya Pradesh,Boys,Gen,Non-Aspirational,7,250000.0
+Madhya Pradesh,Boys,Gen,Non-Aspirational,8,360000.0
+Madhya Pradesh,Boys,Gen,Non-Aspirational,9,600000.0
+Madhya Pradesh,Boys,Gen,Non-Aspirational,10,650000.0
+Madhya Pradesh,Boys,OBC,Aspirational,6,20000.0
+Madhya Pradesh,Boys,OBC,Aspirational,7,40000.0
+Madhya Pradesh,Boys,OBC,Aspirational,8,130000.0
+Madhya Pradesh,Boys,OBC,Aspirational,9,80000.0
+Madhya Pradesh,Boys,OBC,Aspirational,10,160000.0
+Madhya Pradesh,Boys,OBC,Non-Aspirational,6,170000.0
+Madhya Pradesh,Boys,OBC,Non-Aspirational,7,430000.0
+Madhya Pradesh,Boys,OBC,Non-Aspirational,8,1410000.0
+Madhya Pradesh,Boys,OBC,Non-Aspirational,9,1110000.0
+Madhya Pradesh,Boys,OBC,Non-Aspirational,10,1590000.0
+Madhya Pradesh,Boys,SC,Aspirational,6,10000.0
+Madhya Pradesh,Boys,SC,Aspirational,7,10000.0
+Madhya Pradesh,Boys,SC,Aspirational,8,50000.0
+Madhya Pradesh,Boys,SC,Aspirational,9,60000.0
+Madhya Pradesh,Boys,SC,Aspirational,10,40000.0
+Madhya Pradesh,Boys,SC,Non-Aspirational,6,120000.0
+Madhya Pradesh,Boys,SC,Non-Aspirational,7,260000.0
+Madhya Pradesh,Boys,SC,Non-Aspirational,8,450000.0
+Madhya Pradesh,Boys,SC,Non-Aspirational,9,370000.0
+Madhya Pradesh,Boys,SC,Non-Aspirational,10,490000.0
+Madhya Pradesh,Boys,ST,Aspirational,8,10000.0
+Madhya Pradesh,Boys,ST,Aspirational,9,10000.0
+Madhya Pradesh,Boys,ST,Aspirational,10,30000.0
+Madhya Pradesh,Boys,ST,Non-Aspirational,6,50000.0
+Madhya Pradesh,Boys,ST,Non-Aspirational,7,110000.0
+Madhya Pradesh,Boys,ST,Non-Aspirational,8,260000.0
+Madhya Pradesh,Boys,ST,Non-Aspirational,9,90000.0
+Madhya Pradesh,Boys,ST,Non-Aspirational,10,200000.0
+Madhya Pradesh,Girls,Gen,Aspirational,6,20000.0
+Madhya Pradesh,Girls,Gen,Aspirational,7,30000.0
+Madhya Pradesh,Girls,Gen,Aspirational,8,60000.0
+Madhya Pradesh,Girls,Gen,Aspirational,9,20000.0
+Madhya Pradesh,Girls,Gen,Aspirational,10,60000.0
+Madhya Pradesh,Girls,Gen,Non-Aspirational,6,130000.0
+Madhya Pradesh,Girls,Gen,Non-Aspirational,7,230000.0
+Madhya Pradesh,Girls,Gen,Non-Aspirational,8,440000.0
+Madhya Pradesh,Girls,Gen,Non-Aspirational,9,560000.0
+Madhya Pradesh,Girls,Gen,Non-Aspirational,10,630000.0
+Madhya Pradesh,Girls,OBC,Aspirational,7,30000.0
+Madhya Pradesh,Girls,OBC,Aspirational,8,160000.0
+Madhya Pradesh,Girls,OBC,Aspirational,9,120000.0
+Madhya Pradesh,Girls,OBC,Aspirational,10,160000.0
+Madhya Pradesh,Girls,OBC,Non-Aspirational,6,260000.0
+Madhya Pradesh,Girls,OBC,Non-Aspirational,7,500000.0
+Madhya Pradesh,Girls,OBC,Non-Aspirational,8,1060000.0
+Madhya Pradesh,Girls,OBC,Non-Aspirational,9,850000.0
+Madhya Pradesh,Girls,OBC,Non-Aspirational,10,1690000.0
+Madhya Pradesh,Girls,SC,Aspirational,6,10000.0
+Madhya Pradesh,Girls,SC,Aspirational,8,50000.0
+Madhya Pradesh,Girls,SC,Aspirational,9,10000.0
+Madhya Pradesh,Girls,SC,Aspirational,10,10000.0
+Madhya Pradesh,Girls,SC,Non-Aspirational,6,70000.0
+Madhya Pradesh,Girls,SC,Non-Aspirational,7,230000.0
+Madhya Pradesh,Girls,SC,Non-Aspirational,8,390000.0
+Madhya Pradesh,Girls,SC,Non-Aspirational,9,280000.0
+Madhya Pradesh,Girls,SC,Non-Aspirational,10,440000.0
+Madhya Pradesh,Girls,ST,Aspirational,7,10000.0
+Madhya Pradesh,Girls,ST,Aspirational,8,20000.0
+Madhya Pradesh,Girls,ST,Aspirational,9,10000.0
+Madhya Pradesh,Girls,ST,Aspirational,10,10000.0
+Madhya Pradesh,Girls,ST,Non-Aspirational,6,50000.0
+Madhya Pradesh,Girls,ST,Non-Aspirational,7,130000.0
+Madhya Pradesh,Girls,ST,Non-Aspirational,8,340000.0
+Madhya Pradesh,Girls,ST,Non-Aspirational,9,170000.0
+Madhya Pradesh,Girls,ST,Non-Aspirational,10,170000.0
+Maharashtra,Boys,Gen,Aspirational,8,10000.0
+Maharashtra,Boys,Gen,Aspirational,9,30000.0
+Maharashtra,Boys,Gen,Non-Aspirational,6,440000.0
+Maharashtra,Boys,Gen,Non-Aspirational,7,770000.0
+Maharashtra,Boys,Gen,Non-Aspirational,8,1040000.0
+Maharashtra,Boys,Gen,Non-Aspirational,9,1290000.0
+Maharashtra,Boys,Gen,Non-Aspirational,10,900000.0
+Maharashtra,Boys,OBC,Aspirational,6,40000.0
+Maharashtra,Boys,OBC,Aspirational,7,10000.0
+Maharashtra,Boys,OBC,Aspirational,8,40000.0
+Maharashtra,Boys,OBC,Aspirational,9,30000.0
+Maharashtra,Boys,OBC,Aspirational,10,20000.0
+Maharashtra,Boys,OBC,Non-Aspirational,6,430000.0
+Maharashtra,Boys,OBC,Non-Aspirational,7,700000.0
+Maharashtra,Boys,OBC,Non-Aspirational,8,760000.0
+Maharashtra,Boys,OBC,Non-Aspirational,9,830000.0
+Maharashtra,Boys,OBC,Non-Aspirational,10,750000.0
+Maharashtra,Boys,SC,Aspirational,8,40000.0
+Maharashtra,Boys,SC,Aspirational,9,10000.0
+Maharashtra,Boys,SC,Aspirational,10,10000.0
+Maharashtra,Boys,SC,Non-Aspirational,6,120000.0
+Maharashtra,Boys,SC,Non-Aspirational,7,190000.0
+Maharashtra,Boys,SC,Non-Aspirational,8,160000.0
+Maharashtra,Boys,SC,Non-Aspirational,9,270000.0
+Maharashtra,Boys,SC,Non-Aspirational,10,300000.0
+Maharashtra,Boys,ST,Aspirational,6,10000.0
+Maharashtra,Boys,ST,Aspirational,8,10000.0
+Maharashtra,Boys,ST,Aspirational,9,40000.0
+Maharashtra,Boys,ST,Aspirational,10,30000.0
+Maharashtra,Boys,ST,Non-Aspirational,6,90000.0
+Maharashtra,Boys,ST,Non-Aspirational,7,90000.0
+Maharashtra,Boys,ST,Non-Aspirational,8,140000.0
+Maharashtra,Boys,ST,Non-Aspirational,9,110000.0
+Maharashtra,Boys,ST,Non-Aspirational,10,80000.0
+Maharashtra,Girls,Gen,Aspirational,6,10000.0
+Maharashtra,Girls,Gen,Aspirational,7,10000.0
+Maharashtra,Girls,Gen,Aspirational,8,40000.0
+Maharashtra,Girls,Gen,Aspirational,9,20000.0
+Maharashtra,Girls,Gen,Aspirational,10,10000.0
+Maharashtra,Girls,Gen,Non-Aspirational,6,340000.0
+Maharashtra,Girls,Gen,Non-Aspirational,7,570000.0
+Maharashtra,Girls,Gen,Non-Aspirational,8,670000.0
+Maharashtra,Girls,Gen,Non-Aspirational,9,770000.0
+Maharashtra,Girls,Gen,Non-Aspirational,10,460000.0
+Maharashtra,Girls,OBC,Aspirational,6,20000.0
+Maharashtra,Girls,OBC,Aspirational,7,60000.0
+Maharashtra,Girls,OBC,Aspirational,8,70000.0
+Maharashtra,Girls,OBC,Aspirational,9,30000.0
+Maharashtra,Girls,OBC,Aspirational,10,30000.0
+Maharashtra,Girls,OBC,Non-Aspirational,6,370000.0
+Maharashtra,Girls,OBC,Non-Aspirational,7,430000.0
+Maharashtra,Girls,OBC,Non-Aspirational,8,510000.0
+Maharashtra,Girls,OBC,Non-Aspirational,9,630000.0
+Maharashtra,Girls,OBC,Non-Aspirational,10,460000.0
+Maharashtra,Girls,SC,Aspirational,6,10000.0
+Maharashtra,Girls,SC,Aspirational,8,10000.0
+Maharashtra,Girls,SC,Aspirational,9,30000.0
+Maharashtra,Girls,SC,Aspirational,10,10000.0
+Maharashtra,Girls,SC,Non-Aspirational,6,90000.0
+Maharashtra,Girls,SC,Non-Aspirational,7,230000.0
+Maharashtra,Girls,SC,Non-Aspirational,8,160000.0
+Maharashtra,Girls,SC,Non-Aspirational,9,260000.0
+Maharashtra,Girls,SC,Non-Aspirational,10,160000.0
+Maharashtra,Girls,ST,Aspirational,6,10000.0
+Maharashtra,Girls,ST,Aspirational,8,10000.0
+Maharashtra,Girls,ST,Aspirational,9,30000.0
+Maharashtra,Girls,ST,Aspirational,10,20000.0
+Maharashtra,Girls,ST,Non-Aspirational,6,40000.0
+Maharashtra,Girls,ST,Non-Aspirational,7,80000.0
+Maharashtra,Girls,ST,Non-Aspirational,8,140000.0
+Maharashtra,Girls,ST,Non-Aspirational,9,140000.0
+Maharashtra,Girls,ST,Non-Aspirational,10,130000.0
+Manipur,Boys,Gen,Non-Aspirational,9,10000.0
+Manipur,Boys,Gen,Non-Aspirational,10,10000.0
+Manipur,Boys,OBC,Non-Aspirational,8,10000.0
+Manipur,Boys,OBC,Non-Aspirational,10,20000.0
+Manipur,Boys,ST,Non-Aspirational,8,20000.0
+Manipur,Boys,ST,Non-Aspirational,10,20000.0
+Manipur,Girls,Gen,Non-Aspirational,8,20000.0
+Manipur,Girls,Gen,Non-Aspirational,9,10000.0
+Manipur,Girls,Gen,Non-Aspirational,10,10000.0
+Manipur,Girls,ST,Non-Aspirational,9,20000.0
+Manipur,Girls,ST,Non-Aspirational,10,30000.0
+Meghalaya,Boys,Gen,Non-Aspirational,8,20000.0
+Meghalaya,Boys,Gen,Non-Aspirational,9,30000.0
+Meghalaya,Boys,Gen,Non-Aspirational,10,30000.0
+Meghalaya,Boys,OBC,Non-Aspirational,8,20000.0
+Meghalaya,Boys,OBC,Non-Aspirational,9,30000.0
+Meghalaya,Boys,OBC,Non-Aspirational,10,20000.0
+Meghalaya,Boys,SC,Non-Aspirational,10,10000.0
+Meghalaya,Boys,ST,Non-Aspirational,8,20000.0
+Meghalaya,Boys,ST,Non-Aspirational,9,10000.0
+Meghalaya,Boys,ST,Non-Aspirational,10,10000.0
+Meghalaya,Girls,Gen,Non-Aspirational,8,10000.0
+Meghalaya,Girls,Gen,Non-Aspirational,9,20000.0
+Meghalaya,Girls,Gen,Non-Aspirational,10,10000.0
+Meghalaya,Girls,OBC,Non-Aspirational,6,10000.0
+Meghalaya,Girls,OBC,Non-Aspirational,8,20000.0
+Meghalaya,Girls,SC,Non-Aspirational,8,10000.0
+Meghalaya,Girls,SC,Non-Aspirational,9,20000.0
+Meghalaya,Girls,ST,Non-Aspirational,8,30000.0
+Meghalaya,Girls,ST,Non-Aspirational,9,60000.0
+Meghalaya,Girls,ST,Non-Aspirational,10,60000.0
+Mizoram,Boys,Gen,Non-Aspirational,8,10000.0
+Mizoram,Boys,ST,Non-Aspirational,9,10000.0
+Mizoram,Boys,ST,Non-Aspirational,10,20000.0
+Mizoram,Girls,OBC,Non-Aspirational,6,10000.0
+Mizoram,Girls,OBC,Non-Aspirational,10,10000.0
+Mizoram,Girls,ST,Non-Aspirational,8,50000.0
+Mizoram,Girls,ST,Non-Aspirational,9,10000.0
+Mizoram,Girls,ST,Non-Aspirational,10,10000.0
+Nagaland,Boys,Gen,Aspirational,8,10000.0
+Nagaland,Boys,OBC,Non-Aspirational,10,10000.0
+Nagaland,Boys,ST,Non-Aspirational,8,10000.0
+Nagaland,Boys,ST,Non-Aspirational,9,10000.0
+Nagaland,Boys,ST,Non-Aspirational,10,10000.0
+Nagaland,Girls,ST,Non-Aspirational,10,10000.0
+Odisha,Boys,Gen,Aspirational,6,50000.0
+Odisha,Boys,Gen,Aspirational,7,110000.0
+Odisha,Boys,Gen,Aspirational,8,80000.0
+Odisha,Boys,Gen,Aspirational,9,320000.0
+Odisha,Boys,Gen,Aspirational,10,130000.0
+Odisha,Boys,Gen,Non-Aspirational,6,250000.0
+Odisha,Boys,Gen,Non-Aspirational,7,470000.0
+Odisha,Boys,Gen,Non-Aspirational,8,790000.0
+Odisha,Boys,Gen,Non-Aspirational,9,1240000.0
+Odisha,Boys,Gen,Non-Aspirational,10,580000.0
+Odisha,Boys,OBC,Aspirational,6,180000.0
+Odisha,Boys,OBC,Aspirational,7,520000.0
+Odisha,Boys,OBC,Aspirational,8,440000.0
+Odisha,Boys,OBC,Aspirational,9,780000.0
+Odisha,Boys,OBC,Aspirational,10,460000.0
+Odisha,Boys,OBC,Non-Aspirational,6,420000.0
+Odisha,Boys,OBC,Non-Aspirational,7,1050000.0
+Odisha,Boys,OBC,Non-Aspirational,8,890000.0
+Odisha,Boys,OBC,Non-Aspirational,9,1910000.0
+Odisha,Boys,OBC,Non-Aspirational,10,820000.0
+Odisha,Boys,SC,Aspirational,6,100000.0
+Odisha,Boys,SC,Aspirational,7,60000.0
+Odisha,Boys,SC,Aspirational,8,180000.0
+Odisha,Boys,SC,Aspirational,9,300000.0
+Odisha,Boys,SC,Aspirational,10,170000.0
+Odisha,Boys,SC,Non-Aspirational,6,80000.0
+Odisha,Boys,SC,Non-Aspirational,7,340000.0
+Odisha,Boys,SC,Non-Aspirational,8,410000.0
+Odisha,Boys,SC,Non-Aspirational,9,290000.0
+Odisha,Boys,SC,Non-Aspirational,10,210000.0
+Odisha,Boys,ST,Aspirational,6,60000.0
+Odisha,Boys,ST,Aspirational,7,340000.0
+Odisha,Boys,ST,Aspirational,8,290000.0
+Odisha,Boys,ST,Aspirational,9,460000.0
+Odisha,Boys,ST,Aspirational,10,160000.0
+Odisha,Boys,ST,Non-Aspirational,6,70000.0
+Odisha,Boys,ST,Non-Aspirational,7,100000.0
+Odisha,Boys,ST,Non-Aspirational,8,160000.0
+Odisha,Boys,ST,Non-Aspirational,9,350000.0
+Odisha,Boys,ST,Non-Aspirational,10,130000.0
+Odisha,Girls,Gen,Aspirational,6,50000.0
+Odisha,Girls,Gen,Aspirational,7,120000.0
+Odisha,Girls,Gen,Aspirational,8,260000.0
+Odisha,Girls,Gen,Aspirational,9,200000.0
+Odisha,Girls,Gen,Aspirational,10,70000.0
+Odisha,Girls,Gen,Non-Aspirational,6,150000.0
+Odisha,Girls,Gen,Non-Aspirational,7,590000.0
+Odisha,Girls,Gen,Non-Aspirational,8,890000.0
+Odisha,Girls,Gen,Non-Aspirational,9,1200000.0
+Odisha,Girls,Gen,Non-Aspirational,10,570000.0
+Odisha,Girls,OBC,Aspirational,6,200000.0
+Odisha,Girls,OBC,Aspirational,7,460000.0
+Odisha,Girls,OBC,Aspirational,8,520000.0
+Odisha,Girls,OBC,Aspirational,9,490000.0
+Odisha,Girls,OBC,Aspirational,10,250000.0
+Odisha,Girls,OBC,Non-Aspirational,6,340000.0
+Odisha,Girls,OBC,Non-Aspirational,7,1020000.0
+Odisha,Girls,OBC,Non-Aspirational,8,1310000.0
+Odisha,Girls,OBC,Non-Aspirational,9,1960000.0
+Odisha,Girls,OBC,Non-Aspirational,10,810000.0
+Odisha,Girls,SC,Aspirational,6,60000.0
+Odisha,Girls,SC,Aspirational,7,130000.0
+Odisha,Girls,SC,Aspirational,8,220000.0
+Odisha,Girls,SC,Aspirational,9,250000.0
+Odisha,Girls,SC,Aspirational,10,70000.0
+Odisha,Girls,SC,Non-Aspirational,6,130000.0
+Odisha,Girls,SC,Non-Aspirational,7,350000.0
+Odisha,Girls,SC,Non-Aspirational,8,280000.0
+Odisha,Girls,SC,Non-Aspirational,9,470000.0
+Odisha,Girls,SC,Non-Aspirational,10,190000.0
+Odisha,Girls,ST,Aspirational,6,70000.0
+Odisha,Girls,ST,Aspirational,7,200000.0
+Odisha,Girls,ST,Aspirational,8,330000.0
+Odisha,Girls,ST,Aspirational,9,410000.0
+Odisha,Girls,ST,Aspirational,10,110000.0
+Odisha,Girls,ST,Non-Aspirational,6,50000.0
+Odisha,Girls,ST,Non-Aspirational,7,130000.0
+Odisha,Girls,ST,Non-Aspirational,8,100000.0
+Odisha,Girls,ST,Non-Aspirational,9,280000.0
+Odisha,Girls,ST,Non-Aspirational,10,120000.0
+Puducherry,Boys,Gen,Non-Aspirational,9,10000.0
+Puducherry,Boys,OBC,Non-Aspirational,6,10000.0
+Puducherry,Boys,OBC,Non-Aspirational,7,10000.0
+Puducherry,Boys,OBC,Non-Aspirational,8,10000.0
+Puducherry,Boys,OBC,Non-Aspirational,9,30000.0
+Puducherry,Boys,SC,Non-Aspirational,8,10000.0
+Puducherry,Girls,OBC,Non-Aspirational,7,40000.0
+Puducherry,Girls,OBC,Non-Aspirational,8,40000.0
+Puducherry,Girls,OBC,Non-Aspirational,9,20000.0
+Puducherry,Girls,OBC,Non-Aspirational,10,10000.0
+Puducherry,Girls,SC,Non-Aspirational,6,10000.0
+Puducherry,Girls,SC,Non-Aspirational,9,10000.0
+Punjab,Boys,Gen,Aspirational,6,10000.0
+Punjab,Boys,Gen,Aspirational,8,10000.0
+Punjab,Boys,Gen,Aspirational,9,10000.0
+Punjab,Boys,Gen,Aspirational,10,10000.0
+Punjab,Boys,Gen,Non-Aspirational,6,60000.0
+Punjab,Boys,Gen,Non-Aspirational,7,90000.0
+Punjab,Boys,Gen,Non-Aspirational,8,140000.0
+Punjab,Boys,Gen,Non-Aspirational,9,210000.0
+Punjab,Boys,Gen,Non-Aspirational,10,220000.0
+Punjab,Boys,OBC,Aspirational,8,20000.0
+Punjab,Boys,OBC,Non-Aspirational,6,30000.0
+Punjab,Boys,OBC,Non-Aspirational,7,120000.0
+Punjab,Boys,OBC,Non-Aspirational,8,60000.0
+Punjab,Boys,OBC,Non-Aspirational,9,90000.0
+Punjab,Boys,OBC,Non-Aspirational,10,90000.0
+Punjab,Boys,SC,Aspirational,6,20000.0
+Punjab,Boys,SC,Aspirational,8,10000.0
+Punjab,Boys,SC,Aspirational,9,20000.0
+Punjab,Boys,SC,Non-Aspirational,6,50000.0
+Punjab,Boys,SC,Non-Aspirational,7,80000.0
+Punjab,Boys,SC,Non-Aspirational,8,90000.0
+Punjab,Boys,SC,Non-Aspirational,9,190000.0
+Punjab,Boys,SC,Non-Aspirational,10,90000.0
+Punjab,Boys,ST,Non-Aspirational,9,10000.0
+Punjab,Girls,Gen,Aspirational,6,10000.0
+Punjab,Girls,Gen,Aspirational,8,10000.0
+Punjab,Girls,Gen,Aspirational,9,10000.0
+Punjab,Girls,Gen,Non-Aspirational,6,60000.0
+Punjab,Girls,Gen,Non-Aspirational,7,110000.0
+Punjab,Girls,Gen,Non-Aspirational,8,170000.0
+Punjab,Girls,Gen,Non-Aspirational,9,210000.0
+Punjab,Girls,Gen,Non-Aspirational,10,250000.0
+Punjab,Girls,OBC,Aspirational,9,20000.0
+Punjab,Girls,OBC,Aspirational,10,10000.0
+Punjab,Girls,OBC,Non-Aspirational,6,70000.0
+Punjab,Girls,OBC,Non-Aspirational,7,40000.0
+Punjab,Girls,OBC,Non-Aspirational,8,70000.0
+Punjab,Girls,OBC,Non-Aspirational,9,90000.0
+Punjab,Girls,OBC,Non-Aspirational,10,100000.0
+Punjab,Girls,SC,Aspirational,6,20000.0
+Punjab,Girls,SC,Aspirational,7,20000.0
+Punjab,Girls,SC,Aspirational,8,50000.0
+Punjab,Girls,SC,Aspirational,9,30000.0
+Punjab,Girls,SC,Aspirational,10,10000.0
+Punjab,Girls,SC,Non-Aspirational,6,50000.0
+Punjab,Girls,SC,Non-Aspirational,7,130000.0
+Punjab,Girls,SC,Non-Aspirational,8,140000.0
+Punjab,Girls,SC,Non-Aspirational,9,110000.0
+Punjab,Girls,SC,Non-Aspirational,10,140000.0
+Rajasthan,Boys,Gen,Aspirational,6,30000.0
+Rajasthan,Boys,Gen,Aspirational,7,30000.0
+Rajasthan,Boys,Gen,Aspirational,8,60000.0
+Rajasthan,Boys,Gen,Aspirational,9,60000.0
+Rajasthan,Boys,Gen,Aspirational,10,50000.0
+Rajasthan,Boys,Gen,Non-Aspirational,6,310000.0
+Rajasthan,Boys,Gen,Non-Aspirational,7,620000.0
+Rajasthan,Boys,Gen,Non-Aspirational,8,1060000.0
+Rajasthan,Boys,Gen,Non-Aspirational,9,1050000.0
+Rajasthan,Boys,Gen,Non-Aspirational,10,1390000.0
+Rajasthan,Boys,OBC,Aspirational,6,60000.0
+Rajasthan,Boys,OBC,Aspirational,7,90000.0
+Rajasthan,Boys,OBC,Aspirational,8,210000.0
+Rajasthan,Boys,OBC,Aspirational,9,120000.0
+Rajasthan,Boys,OBC,Aspirational,10,270000.0
+Rajasthan,Boys,OBC,Non-Aspirational,6,1190000.0
+Rajasthan,Boys,OBC,Non-Aspirational,7,2300000.0
+Rajasthan,Boys,OBC,Non-Aspirational,8,4030000.0
+Rajasthan,Boys,OBC,Non-Aspirational,9,2450000.0
+Rajasthan,Boys,OBC,Non-Aspirational,10,3090000.0
+Rajasthan,Boys,SC,Aspirational,6,40000.0
+Rajasthan,Boys,SC,Aspirational,7,50000.0
+Rajasthan,Boys,SC,Aspirational,8,90000.0
+Rajasthan,Boys,SC,Aspirational,9,100000.0
+Rajasthan,Boys,SC,Aspirational,10,100000.0
+Rajasthan,Boys,SC,Non-Aspirational,6,400000.0
+Rajasthan,Boys,SC,Non-Aspirational,7,960000.0
+Rajasthan,Boys,SC,Non-Aspirational,8,1570000.0
+Rajasthan,Boys,SC,Non-Aspirational,9,1210000.0
+Rajasthan,Boys,SC,Non-Aspirational,10,1200000.0
+Rajasthan,Boys,ST,Aspirational,6,10000.0
+Rajasthan,Boys,ST,Aspirational,7,20000.0
+Rajasthan,Boys,ST,Aspirational,8,130000.0
+Rajasthan,Boys,ST,Aspirational,9,30000.0
+Rajasthan,Boys,ST,Aspirational,10,50000.0
+Rajasthan,Boys,ST,Non-Aspirational,6,160000.0
+Rajasthan,Boys,ST,Non-Aspirational,7,500000.0
+Rajasthan,Boys,ST,Non-Aspirational,8,990000.0
+Rajasthan,Boys,ST,Non-Aspirational,9,510000.0
+Rajasthan,Boys,ST,Non-Aspirational,10,600000.0
+Rajasthan,Girls,Gen,Aspirational,6,20000.0
+Rajasthan,Girls,Gen,Aspirational,7,60000.0
+Rajasthan,Girls,Gen,Aspirational,8,30000.0
+Rajasthan,Girls,Gen,Aspirational,9,90000.0
+Rajasthan,Girls,Gen,Aspirational,10,70000.0
+Rajasthan,Girls,Gen,Non-Aspirational,6,420000.0
+Rajasthan,Girls,Gen,Non-Aspirational,7,630000.0
+Rajasthan,Girls,Gen,Non-Aspirational,8,1310000.0
+Rajasthan,Girls,Gen,Non-Aspirational,9,1390000.0
+Rajasthan,Girls,Gen,Non-Aspirational,10,1560000.0
+Rajasthan,Girls,OBC,Aspirational,6,40000.0
+Rajasthan,Girls,OBC,Aspirational,7,90000.0
+Rajasthan,Girls,OBC,Aspirational,8,200000.0
+Rajasthan,Girls,OBC,Aspirational,9,130000.0
+Rajasthan,Girls,OBC,Aspirational,10,210000.0
+Rajasthan,Girls,OBC,Non-Aspirational,6,1030000.0
+Rajasthan,Girls,OBC,Non-Aspirational,7,2470000.0
+Rajasthan,Girls,OBC,Non-Aspirational,8,4810000.0
+Rajasthan,Girls,OBC,Non-Aspirational,9,3510000.0
+Rajasthan,Girls,OBC,Non-Aspirational,10,4660000.0
+Rajasthan,Girls,SC,Aspirational,6,10000.0
+Rajasthan,Girls,SC,Aspirational,7,90000.0
+Rajasthan,Girls,SC,Aspirational,8,100000.0
+Rajasthan,Girls,SC,Aspirational,9,60000.0
+Rajasthan,Girls,SC,Aspirational,10,140000.0
+Rajasthan,Girls,SC,Non-Aspirational,6,380000.0
+Rajasthan,Girls,SC,Non-Aspirational,7,1010000.0
+Rajasthan,Girls,SC,Non-Aspirational,8,1940000.0
+Rajasthan,Girls,SC,Non-Aspirational,9,1380000.0
+Rajasthan,Girls,SC,Non-Aspirational,10,1440000.0
+Rajasthan,Girls,ST,Aspirational,6,40000.0
+Rajasthan,Girls,ST,Aspirational,7,50000.0
+Rajasthan,Girls,ST,Aspirational,8,70000.0
+Rajasthan,Girls,ST,Aspirational,9,50000.0
+Rajasthan,Girls,ST,Aspirational,10,80000.0
+Rajasthan,Girls,ST,Non-Aspirational,6,160000.0
+Rajasthan,Girls,ST,Non-Aspirational,7,590000.0
+Rajasthan,Girls,ST,Non-Aspirational,8,1280000.0
+Rajasthan,Girls,ST,Non-Aspirational,9,590000.0
+Rajasthan,Girls,ST,Non-Aspirational,10,830000.0
+Sikkim,Boys,Gen,Non-Aspirational,7,10000.0
+Sikkim,Boys,Gen,Non-Aspirational,9,10000.0
+Sikkim,Boys,Gen,Non-Aspirational,10,20000.0
+Sikkim,Boys,OBC,Non-Aspirational,7,10000.0
+Sikkim,Boys,OBC,Non-Aspirational,9,20000.0
+Sikkim,Boys,OBC,Non-Aspirational,10,30000.0
+Sikkim,Boys,ST,Non-Aspirational,8,10000.0
+Sikkim,Boys,ST,Non-Aspirational,9,10000.0
+Sikkim,Boys,ST,Non-Aspirational,10,20000.0
+Sikkim,Girls,Gen,Non-Aspirational,9,10000.0
+Sikkim,Girls,Gen,Non-Aspirational,10,60000.0
+Sikkim,Girls,OBC,Non-Aspirational,8,20000.0
+Sikkim,Girls,OBC,Non-Aspirational,9,20000.0
+Sikkim,Girls,OBC,Non-Aspirational,10,40000.0
+Sikkim,Girls,SC,Non-Aspirational,7,10000.0
+Sikkim,Girls,SC,Non-Aspirational,10,10000.0
+Sikkim,Girls,ST,Non-Aspirational,8,20000.0
+Sikkim,Girls,ST,Non-Aspirational,9,10000.0
+Sikkim,Girls,ST,Non-Aspirational,10,40000.0
+Tamil Nadu,Boys,Gen,Aspirational,6,10000.0
+Tamil Nadu,Boys,Gen,Aspirational,8,20000.0
+Tamil Nadu,Boys,Gen,Aspirational,9,20000.0
+Tamil Nadu,Boys,Gen,Aspirational,10,20000.0
+Tamil Nadu,Boys,Gen,Non-Aspirational,6,10000.0
+Tamil Nadu,Boys,Gen,Non-Aspirational,7,110000.0
+Tamil Nadu,Boys,Gen,Non-Aspirational,8,130000.0
+Tamil Nadu,Boys,Gen,Non-Aspirational,9,160000.0
+Tamil Nadu,Boys,Gen,Non-Aspirational,10,140000.0
+Tamil Nadu,Boys,OBC,Aspirational,6,10000.0
+Tamil Nadu,Boys,OBC,Aspirational,7,20000.0
+Tamil Nadu,Boys,OBC,Aspirational,8,10000.0
+Tamil Nadu,Boys,OBC,Aspirational,9,40000.0
+Tamil Nadu,Boys,OBC,Aspirational,10,10000.0
+Tamil Nadu,Boys,OBC,Non-Aspirational,6,280000.0
+Tamil Nadu,Boys,OBC,Non-Aspirational,7,470000.0
+Tamil Nadu,Boys,OBC,Non-Aspirational,8,580000.0
+Tamil Nadu,Boys,OBC,Non-Aspirational,9,570000.0
+Tamil Nadu,Boys,OBC,Non-Aspirational,10,420000.0
+Tamil Nadu,Boys,SC,Aspirational,6,10000.0
+Tamil Nadu,Boys,SC,Aspirational,7,10000.0
+Tamil Nadu,Boys,SC,Aspirational,9,10000.0
+Tamil Nadu,Boys,SC,Non-Aspirational,6,70000.0
+Tamil Nadu,Boys,SC,Non-Aspirational,7,100000.0
+Tamil Nadu,Boys,SC,Non-Aspirational,8,100000.0
+Tamil Nadu,Boys,SC,Non-Aspirational,9,90000.0
+Tamil Nadu,Boys,SC,Non-Aspirational,10,50000.0
+Tamil Nadu,Boys,ST,Non-Aspirational,8,20000.0
+Tamil Nadu,Girls,Gen,Aspirational,7,10000.0
+Tamil Nadu,Girls,Gen,Aspirational,8,10000.0
+Tamil Nadu,Girls,Gen,Aspirational,9,20000.0
+Tamil Nadu,Girls,Gen,Aspirational,10,30000.0
+Tamil Nadu,Girls,Gen,Non-Aspirational,6,70000.0
+Tamil Nadu,Girls,Gen,Non-Aspirational,7,50000.0
+Tamil Nadu,Girls,Gen,Non-Aspirational,8,120000.0
+Tamil Nadu,Girls,Gen,Non-Aspirational,9,140000.0
+Tamil Nadu,Girls,Gen,Non-Aspirational,10,60000.0
+Tamil Nadu,Girls,OBC,Aspirational,8,60000.0
+Tamil Nadu,Girls,OBC,Aspirational,10,20000.0
+Tamil Nadu,Girls,OBC,Non-Aspirational,6,360000.0
+Tamil Nadu,Girls,OBC,Non-Aspirational,7,670000.0
+Tamil Nadu,Girls,OBC,Non-Aspirational,8,700000.0
+Tamil Nadu,Girls,OBC,Non-Aspirational,9,310000.0
+Tamil Nadu,Girls,OBC,Non-Aspirational,10,320000.0
+Tamil Nadu,Girls,SC,Aspirational,6,10000.0
+Tamil Nadu,Girls,SC,Aspirational,7,30000.0
+Tamil Nadu,Girls,SC,Aspirational,8,10000.0
+Tamil Nadu,Girls,SC,Aspirational,9,10000.0
+Tamil Nadu,Girls,SC,Non-Aspirational,6,330000.0
+Tamil Nadu,Girls,SC,Non-Aspirational,7,440000.0
+Tamil Nadu,Girls,SC,Non-Aspirational,8,290000.0
+Tamil Nadu,Girls,SC,Non-Aspirational,9,140000.0
+Tamil Nadu,Girls,SC,Non-Aspirational,10,50000.0
+Tamil Nadu,Girls,ST,Non-Aspirational,6,30000.0
+Tamil Nadu,Girls,ST,Non-Aspirational,7,30000.0
+Tamil Nadu,Girls,ST,Non-Aspirational,8,30000.0
+Telangana,Boys,Gen,Aspirational,6,20000.0
+Telangana,Boys,Gen,Aspirational,9,10000.0
+Telangana,Boys,Gen,Aspirational,10,10000.0
+Telangana,Boys,Gen,Non-Aspirational,6,170000.0
+Telangana,Boys,Gen,Non-Aspirational,7,360000.0
+Telangana,Boys,Gen,Non-Aspirational,8,560000.0
+Telangana,Boys,Gen,Non-Aspirational,9,670000.0
+Telangana,Boys,Gen,Non-Aspirational,10,380000.0
+Telangana,Boys,OBC,Aspirational,6,10000.0
+Telangana,Boys,OBC,Aspirational,7,30000.0
+Telangana,Boys,OBC,Aspirational,8,40000.0
+Telangana,Boys,OBC,Aspirational,9,20000.0
+Telangana,Boys,OBC,Aspirational,10,20000.0
+Telangana,Boys,OBC,Non-Aspirational,6,540000.0
+Telangana,Boys,OBC,Non-Aspirational,7,980000.0
+Telangana,Boys,OBC,Non-Aspirational,8,1800000.0
+Telangana,Boys,OBC,Non-Aspirational,9,2690000.0
+Telangana,Boys,OBC,Non-Aspirational,10,1280000.0
+Telangana,Boys,SC,Aspirational,7,10000.0
+Telangana,Boys,SC,Aspirational,8,10000.0
+Telangana,Boys,SC,Aspirational,9,60000.0
+Telangana,Boys,SC,Aspirational,10,50000.0
+Telangana,Boys,SC,Non-Aspirational,6,190000.0
+Telangana,Boys,SC,Non-Aspirational,7,520000.0
+Telangana,Boys,SC,Non-Aspirational,8,560000.0
+Telangana,Boys,SC,Non-Aspirational,9,880000.0
+Telangana,Boys,SC,Non-Aspirational,10,470000.0
+Telangana,Boys,ST,Aspirational,6,10000.0
+Telangana,Boys,ST,Aspirational,7,30000.0
+Telangana,Boys,ST,Aspirational,8,20000.0
+Telangana,Boys,ST,Aspirational,9,30000.0
+Telangana,Boys,ST,Aspirational,10,20000.0
+Telangana,Boys,ST,Non-Aspirational,6,80000.0
+Telangana,Boys,ST,Non-Aspirational,7,160000.0
+Telangana,Boys,ST,Non-Aspirational,8,350000.0
+Telangana,Boys,ST,Non-Aspirational,9,540000.0
+Telangana,Boys,ST,Non-Aspirational,10,230000.0
+Telangana,Girls,Gen,Aspirational,8,20000.0
+Telangana,Girls,Gen,Aspirational,9,30000.0
+Telangana,Girls,Gen,Non-Aspirational,6,130000.0
+Telangana,Girls,Gen,Non-Aspirational,7,340000.0
+Telangana,Girls,Gen,Non-Aspirational,8,560000.0
+Telangana,Girls,Gen,Non-Aspirational,9,820000.0
+Telangana,Girls,Gen,Non-Aspirational,10,320000.0
+Telangana,Girls,OBC,Aspirational,7,10000.0
+Telangana,Girls,OBC,Aspirational,8,30000.0
+Telangana,Girls,OBC,Aspirational,9,40000.0
+Telangana,Girls,OBC,Aspirational,10,60000.0
+Telangana,Girls,OBC,Non-Aspirational,6,570000.0
+Telangana,Girls,OBC,Non-Aspirational,7,1090000.0
+Telangana,Girls,OBC,Non-Aspirational,8,2110000.0
+Telangana,Girls,OBC,Non-Aspirational,9,3700000.0
+Telangana,Girls,OBC,Non-Aspirational,10,1780000.0
+Telangana,Girls,SC,Aspirational,7,10000.0
+Telangana,Girls,SC,Aspirational,8,20000.0
+Telangana,Girls,SC,Aspirational,9,30000.0
+Telangana,Girls,SC,Aspirational,10,10000.0
+Telangana,Girls,SC,Non-Aspirational,6,200000.0
+Telangana,Girls,SC,Non-Aspirational,7,510000.0
+Telangana,Girls,SC,Non-Aspirational,8,650000.0
+Telangana,Girls,SC,Non-Aspirational,9,910000.0
+Telangana,Girls,SC,Non-Aspirational,10,570000.0
+Telangana,Girls,ST,Aspirational,6,20000.0
+Telangana,Girls,ST,Aspirational,8,40000.0
+Telangana,Girls,ST,Aspirational,9,60000.0
+Telangana,Girls,ST,Aspirational,10,30000.0
+Telangana,Girls,ST,Non-Aspirational,6,60000.0
+Telangana,Girls,ST,Non-Aspirational,7,240000.0
+Telangana,Girls,ST,Non-Aspirational,8,230000.0
+Telangana,Girls,ST,Non-Aspirational,9,410000.0
+Telangana,Girls,ST,Non-Aspirational,10,190000.0
+Tripura,Boys,Gen,Non-Aspirational,8,20000.0
+Tripura,Boys,Gen,Non-Aspirational,10,20000.0
+Tripura,Boys,OBC,Non-Aspirational,9,40000.0
+Tripura,Boys,SC,Non-Aspirational,7,10000.0
+Tripura,Boys,SC,Non-Aspirational,8,10000.0
+Tripura,Boys,SC,Non-Aspirational,9,10000.0
+Tripura,Girls,Gen,Non-Aspirational,8,30000.0
+Tripura,Girls,OBC,Non-Aspirational,7,20000.0
+Tripura,Girls,OBC,Non-Aspirational,8,10000.0
+Tripura,Girls,ST,Non-Aspirational,9,10000.0
+Uttar Pradesh,Boys,Gen,Aspirational,6,10000.0
+Uttar Pradesh,Boys,Gen,Aspirational,8,10000.0
+Uttar Pradesh,Boys,Gen,Aspirational,9,40000.0
+Uttar Pradesh,Boys,Gen,Aspirational,10,30000.0
+Uttar Pradesh,Boys,Gen,Non-Aspirational,6,60000.0
+Uttar Pradesh,Boys,Gen,Non-Aspirational,7,220000.0
+Uttar Pradesh,Boys,Gen,Non-Aspirational,8,390000.0
+Uttar Pradesh,Boys,Gen,Non-Aspirational,9,610000.0
+Uttar Pradesh,Boys,Gen,Non-Aspirational,10,930000.0
+Uttar Pradesh,Boys,OBC,Aspirational,6,10000.0
+Uttar Pradesh,Boys,OBC,Aspirational,7,30000.0
+Uttar Pradesh,Boys,OBC,Aspirational,8,10000.0
+Uttar Pradesh,Boys,OBC,Aspirational,9,20000.0
+Uttar Pradesh,Boys,OBC,Aspirational,10,40000.0
+Uttar Pradesh,Boys,OBC,Non-Aspirational,6,100000.0
+Uttar Pradesh,Boys,OBC,Non-Aspirational,7,320000.0
+Uttar Pradesh,Boys,OBC,Non-Aspirational,8,320000.0
+Uttar Pradesh,Boys,OBC,Non-Aspirational,9,650000.0
+Uttar Pradesh,Boys,OBC,Non-Aspirational,10,800000.0
+Uttar Pradesh,Boys,SC,Aspirational,6,20000.0
+Uttar Pradesh,Boys,SC,Aspirational,8,10000.0
+Uttar Pradesh,Boys,SC,Non-Aspirational,6,60000.0
+Uttar Pradesh,Boys,SC,Non-Aspirational,7,120000.0
+Uttar Pradesh,Boys,SC,Non-Aspirational,8,90000.0
+Uttar Pradesh,Boys,SC,Non-Aspirational,9,170000.0
+Uttar Pradesh,Boys,SC,Non-Aspirational,10,220000.0
+Uttar Pradesh,Boys,ST,Non-Aspirational,10,10000.0
+Uttar Pradesh,Girls,Gen,Aspirational,8,10000.0
+Uttar Pradesh,Girls,Gen,Aspirational,9,10000.0
+Uttar Pradesh,Girls,Gen,Aspirational,10,20000.0
+Uttar Pradesh,Girls,Gen,Non-Aspirational,6,140000.0
+Uttar Pradesh,Girls,Gen,Non-Aspirational,7,220000.0
+Uttar Pradesh,Girls,Gen,Non-Aspirational,8,360000.0
+Uttar Pradesh,Girls,Gen,Non-Aspirational,9,440000.0
+Uttar Pradesh,Girls,Gen,Non-Aspirational,10,580000.0
+Uttar Pradesh,Girls,OBC,Aspirational,6,10000.0
+Uttar Pradesh,Girls,OBC,Aspirational,9,30000.0
+Uttar Pradesh,Girls,OBC,Aspirational,10,20000.0
+Uttar Pradesh,Girls,OBC,Non-Aspirational,6,80000.0
+Uttar Pradesh,Girls,OBC,Non-Aspirational,7,170000.0
+Uttar Pradesh,Girls,OBC,Non-Aspirational,8,300000.0
+Uttar Pradesh,Girls,OBC,Non-Aspirational,9,580000.0
+Uttar Pradesh,Girls,OBC,Non-Aspirational,10,690000.0
+Uttar Pradesh,Girls,SC,Non-Aspirational,6,50000.0
+Uttar Pradesh,Girls,SC,Non-Aspirational,7,90000.0
+Uttar Pradesh,Girls,SC,Non-Aspirational,8,100000.0
+Uttar Pradesh,Girls,SC,Non-Aspirational,9,240000.0
+Uttar Pradesh,Girls,SC,Non-Aspirational,10,300000.0
+Uttar Pradesh,Girls,ST,Non-Aspirational,9,10000.0
+Uttarakhand,Boys,Gen,Aspirational,6,20000.0
+Uttarakhand,Boys,Gen,Aspirational,7,90000.0
+Uttarakhand,Boys,Gen,Aspirational,8,150000.0
+Uttarakhand,Boys,Gen,Aspirational,9,170000.0
+Uttarakhand,Boys,Gen,Aspirational,10,290000.0
+Uttarakhand,Boys,Gen,Non-Aspirational,6,420000.0
+Uttarakhand,Boys,Gen,Non-Aspirational,7,810000.0
+Uttarakhand,Boys,Gen,Non-Aspirational,8,1190000.0
+Uttarakhand,Boys,Gen,Non-Aspirational,9,1030000.0
+Uttarakhand,Boys,Gen,Non-Aspirational,10,1220000.0
+Uttarakhand,Boys,OBC,Aspirational,6,50000.0
+Uttarakhand,Boys,OBC,Aspirational,7,140000.0
+Uttarakhand,Boys,OBC,Aspirational,8,140000.0
+Uttarakhand,Boys,OBC,Aspirational,9,90000.0
+Uttarakhand,Boys,OBC,Aspirational,10,60000.0
+Uttarakhand,Boys,OBC,Non-Aspirational,6,60000.0
+Uttarakhand,Boys,OBC,Non-Aspirational,7,160000.0
+Uttarakhand,Boys,OBC,Non-Aspirational,8,270000.0
+Uttarakhand,Boys,OBC,Non-Aspirational,9,200000.0
+Uttarakhand,Boys,OBC,Non-Aspirational,10,180000.0
+Uttarakhand,Boys,SC,Aspirational,6,40000.0
+Uttarakhand,Boys,SC,Aspirational,7,30000.0
+Uttarakhand,Boys,SC,Aspirational,8,50000.0
+Uttarakhand,Boys,SC,Aspirational,9,50000.0
+Uttarakhand,Boys,SC,Aspirational,10,70000.0
+Uttarakhand,Boys,SC,Non-Aspirational,6,200000.0
+Uttarakhand,Boys,SC,Non-Aspirational,7,270000.0
+Uttarakhand,Boys,SC,Non-Aspirational,8,470000.0
+Uttarakhand,Boys,SC,Non-Aspirational,9,310000.0
+Uttarakhand,Boys,SC,Non-Aspirational,10,350000.0
+Uttarakhand,Boys,ST,Aspirational,6,10000.0
+Uttarakhand,Boys,ST,Aspirational,8,20000.0
+Uttarakhand,Boys,ST,Aspirational,9,10000.0
+Uttarakhand,Boys,ST,Aspirational,10,20000.0
+Uttarakhand,Boys,ST,Non-Aspirational,7,10000.0
+Uttarakhand,Boys,ST,Non-Aspirational,8,50000.0
+Uttarakhand,Boys,ST,Non-Aspirational,9,10000.0
+Uttarakhand,Boys,ST,Non-Aspirational,10,30000.0
+Uttarakhand,Girls,Gen,Aspirational,6,50000.0
+Uttarakhand,Girls,Gen,Aspirational,7,160000.0
+Uttarakhand,Girls,Gen,Aspirational,8,90000.0
+Uttarakhand,Girls,Gen,Aspirational,9,150000.0
+Uttarakhand,Girls,Gen,Aspirational,10,140000.0
+Uttarakhand,Girls,Gen,Non-Aspirational,6,440000.0
+Uttarakhand,Girls,Gen,Non-Aspirational,7,800000.0
+Uttarakhand,Girls,Gen,Non-Aspirational,8,1000000.0
+Uttarakhand,Girls,Gen,Non-Aspirational,9,1160000.0
+Uttarakhand,Girls,Gen,Non-Aspirational,10,1260000.0
+Uttarakhand,Girls,OBC,Aspirational,6,110000.0
+Uttarakhand,Girls,OBC,Aspirational,7,110000.0
+Uttarakhand,Girls,OBC,Aspirational,8,190000.0
+Uttarakhand,Girls,OBC,Aspirational,9,150000.0
+Uttarakhand,Girls,OBC,Aspirational,10,130000.0
+Uttarakhand,Girls,OBC,Non-Aspirational,6,40000.0
+Uttarakhand,Girls,OBC,Non-Aspirational,7,100000.0
+Uttarakhand,Girls,OBC,Non-Aspirational,8,230000.0
+Uttarakhand,Girls,OBC,Non-Aspirational,9,190000.0
+Uttarakhand,Girls,OBC,Non-Aspirational,10,300000.0
+Uttarakhand,Girls,SC,Aspirational,6,40000.0
+Uttarakhand,Girls,SC,Aspirational,7,60000.0
+Uttarakhand,Girls,SC,Aspirational,8,170000.0
+Uttarakhand,Girls,SC,Aspirational,9,40000.0
+Uttarakhand,Girls,SC,Aspirational,10,50000.0
+Uttarakhand,Girls,SC,Non-Aspirational,6,160000.0
+Uttarakhand,Girls,SC,Non-Aspirational,7,200000.0
+Uttarakhand,Girls,SC,Non-Aspirational,8,320000.0
+Uttarakhand,Girls,SC,Non-Aspirational,9,220000.0
+Uttarakhand,Girls,SC,Non-Aspirational,10,200000.0
+Uttarakhand,Girls,ST,Aspirational,8,10000.0
+Uttarakhand,Girls,ST,Aspirational,9,20000.0
+Uttarakhand,Girls,ST,Non-Aspirational,6,10000.0
+Uttarakhand,Girls,ST,Non-Aspirational,7,10000.0
+Uttarakhand,Girls,ST,Non-Aspirational,9,50000.0
+Uttarakhand,Girls,ST,Non-Aspirational,10,50000.0
+West Bengal,Boys,Gen,Non-Aspirational,6,30000.0
+West Bengal,Boys,Gen,Non-Aspirational,7,30000.0
+West Bengal,Boys,Gen,Non-Aspirational,8,70000.0
+West Bengal,Boys,Gen,Non-Aspirational,9,90000.0
+West Bengal,Boys,Gen,Non-Aspirational,10,90000.0
+West Bengal,Boys,OBC,Non-Aspirational,7,20000.0
+West Bengal,Boys,OBC,Non-Aspirational,9,20000.0
+West Bengal,Boys,OBC,Non-Aspirational,10,10000.0
+West Bengal,Boys,SC,Non-Aspirational,8,10000.0
+West Bengal,Boys,SC,Non-Aspirational,9,30000.0
+West Bengal,Boys,SC,Non-Aspirational,10,60000.0
+West Bengal,Boys,ST,Non-Aspirational,9,30000.0
+West Bengal,Girls,Gen,Non-Aspirational,8,10000.0
+West Bengal,Girls,Gen,Non-Aspirational,9,100000.0
+West Bengal,Girls,Gen,Non-Aspirational,10,70000.0
+West Bengal,Girls,OBC,Non-Aspirational,9,20000.0
+West Bengal,Girls,SC,Non-Aspirational,6,10000.0
+West Bengal,Girls,SC,Non-Aspirational,8,30000.0
+West Bengal,Girls,SC,Non-Aspirational,10,10000.0
+West Bengal,Girls,ST,Non-Aspirational,8,10000.0
+West Bengal,Girls,ST,Non-Aspirational,9,10000.0

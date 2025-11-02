@@ -1,0 +1,1450 @@
+state_name,category_name,aspirational_final,class,amount_of_scholarship,gender_male
+Andaman and Nicobar Islands,Gen,False,0.0,10000.0,True
+Andaman and Nicobar Islands,Gen,False,0.25,10000.0,True
+Andaman and Nicobar Islands,Gen,False,0.5,10000.0,True
+Andaman and Nicobar Islands,Gen,False,0.75,10000.0,True
+Andaman and Nicobar Islands,Gen,False,1.0,10000.0,True
+Andaman and Nicobar Islands,OBC,False,0.5,10000.0,True
+Andaman and Nicobar Islands,Gen,False,0.25,10000.0,False
+Andaman and Nicobar Islands,Gen,False,0.5,10000.0,False
+Andaman and Nicobar Islands,Gen,False,0.75,10000.0,False
+Andaman and Nicobar Islands,Gen,False,1.0,40000.0,False
+Andaman and Nicobar Islands,OBC,False,1.0,10000.0,False
+Andaman and Nicobar Islands,ST,False,0.75,10000.0,False
+Andhra Pradesh,Gen,True,0.0,10000.0,True
+Andhra Pradesh,Gen,True,0.25,100000.0,True
+Andhra Pradesh,Gen,True,0.5,120000.0,True
+Andhra Pradesh,Gen,True,0.75,120000.0,True
+Andhra Pradesh,Gen,True,1.0,100000.0,True
+Andhra Pradesh,Gen,False,0.0,290000.0,True
+Andhra Pradesh,Gen,False,0.25,470000.0,True
+Andhra Pradesh,Gen,False,0.5,890000.0,True
+Andhra Pradesh,Gen,False,0.75,1140000.0,True
+Andhra Pradesh,Gen,False,1.0,460000.0,True
+Andhra Pradesh,OBC,True,0.0,120000.0,True
+Andhra Pradesh,OBC,True,0.25,210000.0,True
+Andhra Pradesh,OBC,True,0.5,430000.0,True
+Andhra Pradesh,OBC,True,0.75,590000.0,True
+Andhra Pradesh,OBC,True,1.0,250000.0,True
+Andhra Pradesh,OBC,False,0.0,450000.0,True
+Andhra Pradesh,OBC,False,0.25,1140000.0,True
+Andhra Pradesh,OBC,False,0.5,2080000.0,True
+Andhra Pradesh,OBC,False,0.75,2570000.0,True
+Andhra Pradesh,OBC,False,1.0,1450000.0,True
+Andhra Pradesh,SC,True,0.0,20000.0,True
+Andhra Pradesh,SC,True,0.25,20000.0,True
+Andhra Pradesh,SC,True,0.5,110000.0,True
+Andhra Pradesh,SC,True,0.75,190000.0,True
+Andhra Pradesh,SC,True,1.0,80000.0,True
+Andhra Pradesh,SC,False,0.0,260000.0,True
+Andhra Pradesh,SC,False,0.25,380000.0,True
+Andhra Pradesh,SC,False,0.5,830000.0,True
+Andhra Pradesh,SC,False,0.75,1160000.0,True
+Andhra Pradesh,SC,False,1.0,660000.0,True
+Andhra Pradesh,ST,True,0.25,20000.0,True
+Andhra Pradesh,ST,True,0.5,50000.0,True
+Andhra Pradesh,ST,True,0.75,50000.0,True
+Andhra Pradesh,ST,True,1.0,20000.0,True
+Andhra Pradesh,ST,False,0.0,50000.0,True
+Andhra Pradesh,ST,False,0.25,60000.0,True
+Andhra Pradesh,ST,False,0.5,100000.0,True
+Andhra Pradesh,ST,False,0.75,240000.0,True
+Andhra Pradesh,ST,False,1.0,150000.0,True
+Andhra Pradesh,Gen,True,0.0,30000.0,False
+Andhra Pradesh,Gen,True,0.25,90000.0,False
+Andhra Pradesh,Gen,True,0.5,200000.0,False
+Andhra Pradesh,Gen,True,0.75,210000.0,False
+Andhra Pradesh,Gen,True,1.0,100000.0,False
+Andhra Pradesh,Gen,False,0.0,260000.0,False
+Andhra Pradesh,Gen,False,0.25,530000.0,False
+Andhra Pradesh,Gen,False,0.5,670000.0,False
+Andhra Pradesh,Gen,False,0.75,1290000.0,False
+Andhra Pradesh,Gen,False,1.0,530000.0,False
+Andhra Pradesh,OBC,True,0.0,170000.0,False
+Andhra Pradesh,OBC,True,0.25,270000.0,False
+Andhra Pradesh,OBC,True,0.5,450000.0,False
+Andhra Pradesh,OBC,True,0.75,690000.0,False
+Andhra Pradesh,OBC,True,1.0,200000.0,False
+Andhra Pradesh,OBC,False,0.0,520000.0,False
+Andhra Pradesh,OBC,False,0.25,990000.0,False
+Andhra Pradesh,OBC,False,0.5,1510000.0,False
+Andhra Pradesh,OBC,False,0.75,2780000.0,False
+Andhra Pradesh,OBC,False,1.0,1170000.0,False
+Andhra Pradesh,SC,True,0.0,30000.0,False
+Andhra Pradesh,SC,True,0.25,40000.0,False
+Andhra Pradesh,SC,True,0.5,100000.0,False
+Andhra Pradesh,SC,True,0.75,210000.0,False
+Andhra Pradesh,SC,True,1.0,130000.0,False
+Andhra Pradesh,SC,False,0.0,160000.0,False
+Andhra Pradesh,SC,False,0.25,370000.0,False
+Andhra Pradesh,SC,False,0.5,780000.0,False
+Andhra Pradesh,SC,False,0.75,1280000.0,False
+Andhra Pradesh,SC,False,1.0,510000.0,False
+Andhra Pradesh,ST,True,0.25,10000.0,False
+Andhra Pradesh,ST,True,0.5,60000.0,False
+Andhra Pradesh,ST,True,0.75,60000.0,False
+Andhra Pradesh,ST,True,1.0,20000.0,False
+Andhra Pradesh,ST,False,0.0,80000.0,False
+Andhra Pradesh,ST,False,0.25,60000.0,False
+Andhra Pradesh,ST,False,0.5,150000.0,False
+Andhra Pradesh,ST,False,0.75,210000.0,False
+Andhra Pradesh,ST,False,1.0,120000.0,False
+Arunachal Pradesh,OBC,False,1.0,10000.0,True
+Arunachal Pradesh,ST,False,0.5,20000.0,True
+Arunachal Pradesh,ST,False,0.75,20000.0,True
+Arunachal Pradesh,ST,False,1.0,10000.0,True
+Arunachal Pradesh,Gen,False,0.0,10000.0,False
+Arunachal Pradesh,Gen,False,0.75,10000.0,False
+Assam,Gen,True,1.0,40000.0,True
+Assam,Gen,False,0.0,30000.0,True
+Assam,Gen,False,0.25,20000.0,True
+Assam,Gen,False,0.5,50000.0,True
+Assam,Gen,False,0.75,180000.0,True
+Assam,Gen,False,1.0,90000.0,True
+Assam,OBC,True,0.75,20000.0,True
+Assam,OBC,False,0.0,40000.0,True
+Assam,OBC,False,0.25,50000.0,True
+Assam,OBC,False,0.5,80000.0,True
+Assam,OBC,False,0.75,60000.0,True
+Assam,OBC,False,1.0,100000.0,True
+Assam,SC,False,0.5,20000.0,True
+Assam,SC,False,1.0,60000.0,True
+Assam,ST,False,0.25,20000.0,True
+Assam,ST,False,0.5,20000.0,True
+Assam,ST,False,1.0,70000.0,True
+Assam,Gen,True,0.5,10000.0,False
+Assam,Gen,False,0.0,20000.0,False
+Assam,Gen,False,0.25,60000.0,False
+Assam,Gen,False,0.5,70000.0,False
+Assam,Gen,False,0.75,100000.0,False
+Assam,Gen,False,1.0,40000.0,False
+Assam,OBC,True,0.75,10000.0,False
+Assam,OBC,True,1.0,10000.0,False
+Assam,OBC,False,0.0,10000.0,False
+Assam,OBC,False,0.5,50000.0,False
+Assam,OBC,False,0.75,120000.0,False
+Assam,OBC,False,1.0,100000.0,False
+Assam,SC,True,0.75,10000.0,False
+Assam,SC,False,0.5,30000.0,False
+Assam,SC,False,0.75,40000.0,False
+Assam,SC,False,1.0,30000.0,False
+Assam,ST,True,1.0,10000.0,False
+Assam,ST,False,0.5,20000.0,False
+Assam,ST,False,0.75,20000.0,False
+Assam,ST,False,1.0,20000.0,False
+Bihar,Gen,True,0.0,120000.0,True
+Bihar,Gen,True,0.25,180000.0,True
+Bihar,Gen,True,0.5,370000.0,True
+Bihar,Gen,True,0.75,310000.0,True
+Bihar,Gen,True,1.0,240000.0,True
+Bihar,Gen,False,0.0,160000.0,True
+Bihar,Gen,False,0.25,360000.0,True
+Bihar,Gen,False,0.5,750000.0,True
+Bihar,Gen,False,0.75,620000.0,True
+Bihar,Gen,False,1.0,560000.0,True
+Bihar,OBC,True,0.0,420000.0,True
+Bihar,OBC,True,0.25,1030000.0,True
+Bihar,OBC,True,0.5,1800000.0,True
+Bihar,OBC,True,0.75,960000.0,True
+Bihar,OBC,True,1.0,640000.0,True
+Bihar,OBC,False,0.0,430000.0,True
+Bihar,OBC,False,0.25,1210000.0,True
+Bihar,OBC,False,0.5,2580000.0,True
+Bihar,OBC,False,0.75,1440000.0,True
+Bihar,OBC,False,1.0,1060000.0,True
+Bihar,SC,True,0.0,120000.0,True
+Bihar,SC,True,0.25,170000.0,True
+Bihar,SC,True,0.5,340000.0,True
+Bihar,SC,True,0.75,170000.0,True
+Bihar,SC,True,1.0,50000.0,True
+Bihar,SC,False,0.0,120000.0,True
+Bihar,SC,False,0.25,190000.0,True
+Bihar,SC,False,0.5,510000.0,True
+Bihar,SC,False,0.75,90000.0,True
+Bihar,SC,False,1.0,120000.0,True
+Bihar,ST,True,0.25,10000.0,True
+Bihar,ST,True,0.5,20000.0,True
+Bihar,ST,True,0.75,30000.0,True
+Bihar,ST,False,0.0,20000.0,True
+Bihar,ST,False,0.5,40000.0,True
+Bihar,ST,False,0.75,10000.0,True
+Bihar,ST,False,1.0,20000.0,True
+Bihar,Gen,True,0.0,70000.0,False
+Bihar,Gen,True,0.25,360000.0,False
+Bihar,Gen,True,0.5,460000.0,False
+Bihar,Gen,True,0.75,330000.0,False
+Bihar,Gen,True,1.0,150000.0,False
+Bihar,Gen,False,0.0,120000.0,False
+Bihar,Gen,False,0.25,290000.0,False
+Bihar,Gen,False,0.5,820000.0,False
+Bihar,Gen,False,0.75,560000.0,False
+Bihar,Gen,False,1.0,310000.0,False
+Bihar,OBC,True,0.0,340000.0,False
+Bihar,OBC,True,0.25,990000.0,False
+Bihar,OBC,True,0.5,1960000.0,False
+Bihar,OBC,True,0.75,820000.0,False
+Bihar,OBC,True,1.0,430000.0,False
+Bihar,OBC,False,0.0,460000.0,False
+Bihar,OBC,False,0.25,1120000.0,False
+Bihar,OBC,False,0.5,3300000.0,False
+Bihar,OBC,False,0.75,1440000.0,False
+Bihar,OBC,False,1.0,930000.0,False
+Bihar,SC,True,0.0,80000.0,False
+Bihar,SC,True,0.25,70000.0,False
+Bihar,SC,True,0.5,290000.0,False
+Bihar,SC,True,0.75,120000.0,False
+Bihar,SC,True,1.0,70000.0,False
+Bihar,SC,False,0.0,70000.0,False
+Bihar,SC,False,0.25,150000.0,False
+Bihar,SC,False,0.5,440000.0,False
+Bihar,SC,False,0.75,120000.0,False
+Bihar,SC,False,1.0,170000.0,False
+Bihar,ST,True,0.25,10000.0,False
+Bihar,ST,True,0.5,40000.0,False
+Bihar,ST,False,0.25,20000.0,False
+Bihar,ST,False,0.5,20000.0,False
+Bihar,ST,False,0.75,30000.0,False
+Bihar,ST,False,1.0,20000.0,False
+Chandigarh,Gen,False,0.0,60000.0,True
+Chandigarh,Gen,False,0.25,100000.0,True
+Chandigarh,Gen,False,0.5,130000.0,True
+Chandigarh,Gen,False,0.75,180000.0,True
+Chandigarh,Gen,False,1.0,90000.0,True
+Chandigarh,OBC,False,0.5,20000.0,True
+Chandigarh,OBC,False,0.75,20000.0,True
+Chandigarh,OBC,False,1.0,40000.0,True
+Chandigarh,SC,False,0.5,30000.0,True
+Chandigarh,SC,False,0.75,40000.0,True
+Chandigarh,SC,False,1.0,40000.0,True
+Chandigarh,Gen,False,0.25,100000.0,False
+Chandigarh,Gen,False,0.5,80000.0,False
+Chandigarh,Gen,False,0.75,90000.0,False
+Chandigarh,Gen,False,1.0,80000.0,False
+Chandigarh,OBC,False,0.0,10000.0,False
+Chandigarh,OBC,False,0.5,10000.0,False
+Chandigarh,OBC,False,1.0,30000.0,False
+Chandigarh,SC,False,0.0,10000.0,False
+Chandigarh,SC,False,0.5,10000.0,False
+Chandigarh,SC,False,0.75,20000.0,False
+Chandigarh,SC,False,1.0,10000.0,False
+Chandigarh,ST,False,0.25,10000.0,False
+Chandigarh,ST,False,1.0,10000.0,False
+Chhattisgarh,Gen,True,0.0,10000.0,True
+Chhattisgarh,Gen,True,0.25,40000.0,True
+Chhattisgarh,Gen,True,0.5,110000.0,True
+Chhattisgarh,Gen,True,0.75,70000.0,True
+Chhattisgarh,Gen,True,1.0,60000.0,True
+Chhattisgarh,Gen,False,0.0,120000.0,True
+Chhattisgarh,Gen,False,0.25,180000.0,True
+Chhattisgarh,Gen,False,0.5,230000.0,True
+Chhattisgarh,Gen,False,0.75,230000.0,True
+Chhattisgarh,Gen,False,1.0,330000.0,True
+Chhattisgarh,OBC,True,0.0,130000.0,True
+Chhattisgarh,OBC,True,0.25,360000.0,True
+Chhattisgarh,OBC,True,0.5,580000.0,True
+Chhattisgarh,OBC,True,0.75,450000.0,True
+Chhattisgarh,OBC,True,1.0,610000.0,True
+Chhattisgarh,OBC,False,0.0,330000.0,True
+Chhattisgarh,OBC,False,0.25,1190000.0,True
+Chhattisgarh,OBC,False,0.5,1770000.0,True
+Chhattisgarh,OBC,False,0.75,1050000.0,True
+Chhattisgarh,OBC,False,1.0,1760000.0,True
+Chhattisgarh,SC,True,0.0,30000.0,True
+Chhattisgarh,SC,True,0.25,50000.0,True
+Chhattisgarh,SC,True,0.5,50000.0,True
+Chhattisgarh,SC,True,0.75,80000.0,True
+Chhattisgarh,SC,True,1.0,70000.0,True
+Chhattisgarh,SC,False,0.0,70000.0,True
+Chhattisgarh,SC,False,0.25,250000.0,True
+Chhattisgarh,SC,False,0.5,440000.0,True
+Chhattisgarh,SC,False,0.75,300000.0,True
+Chhattisgarh,SC,False,1.0,360000.0,True
+Chhattisgarh,ST,True,0.0,370000.0,True
+Chhattisgarh,ST,True,0.25,470000.0,True
+Chhattisgarh,ST,True,0.5,860000.0,True
+Chhattisgarh,ST,True,0.75,470000.0,True
+Chhattisgarh,ST,True,1.0,500000.0,True
+Chhattisgarh,ST,False,0.0,140000.0,True
+Chhattisgarh,ST,False,0.25,290000.0,True
+Chhattisgarh,ST,False,0.5,610000.0,True
+Chhattisgarh,ST,False,0.75,250000.0,True
+Chhattisgarh,ST,False,1.0,310000.0,True
+Chhattisgarh,Gen,True,0.0,20000.0,False
+Chhattisgarh,Gen,True,0.25,80000.0,False
+Chhattisgarh,Gen,True,0.5,60000.0,False
+Chhattisgarh,Gen,True,0.75,110000.0,False
+Chhattisgarh,Gen,True,1.0,80000.0,False
+Chhattisgarh,Gen,False,0.0,50000.0,False
+Chhattisgarh,Gen,False,0.25,160000.0,False
+Chhattisgarh,Gen,False,0.5,210000.0,False
+Chhattisgarh,Gen,False,0.75,230000.0,False
+Chhattisgarh,Gen,False,1.0,320000.0,False
+Chhattisgarh,OBC,True,0.0,170000.0,False
+Chhattisgarh,OBC,True,0.25,350000.0,False
+Chhattisgarh,OBC,True,0.5,780000.0,False
+Chhattisgarh,OBC,True,0.75,500000.0,False
+Chhattisgarh,OBC,True,1.0,580000.0,False
+Chhattisgarh,OBC,False,0.0,570000.0,False
+Chhattisgarh,OBC,False,0.25,1230000.0,False
+Chhattisgarh,OBC,False,0.5,2380000.0,False
+Chhattisgarh,OBC,False,0.75,1610000.0,False
+Chhattisgarh,OBC,False,1.0,2150000.0,False
+Chhattisgarh,SC,True,0.0,40000.0,False
+Chhattisgarh,SC,True,0.25,150000.0,False
+Chhattisgarh,SC,True,0.5,150000.0,False
+Chhattisgarh,SC,True,0.75,70000.0,False
+Chhattisgarh,SC,True,1.0,130000.0,False
+Chhattisgarh,SC,False,0.0,200000.0,False
+Chhattisgarh,SC,False,0.25,410000.0,False
+Chhattisgarh,SC,False,0.5,750000.0,False
+Chhattisgarh,SC,False,0.75,310000.0,False
+Chhattisgarh,SC,False,1.0,520000.0,False
+Chhattisgarh,ST,True,0.0,350000.0,False
+Chhattisgarh,ST,True,0.25,610000.0,False
+Chhattisgarh,ST,True,0.5,980000.0,False
+Chhattisgarh,ST,True,0.75,420000.0,False
+Chhattisgarh,ST,True,1.0,680000.0,False
+Chhattisgarh,ST,False,0.0,240000.0,False
+Chhattisgarh,ST,False,0.25,590000.0,False
+Chhattisgarh,ST,False,0.5,1000000.0,False
+Chhattisgarh,ST,False,0.75,350000.0,False
+Chhattisgarh,ST,False,1.0,570000.0,False
+Dadra and Nagar Haveli & Daman and Diu,Gen,False,0.5,10000.0,True
+Dadra and Nagar Haveli & Daman and Diu,Gen,False,0.75,20000.0,True
+Dadra and Nagar Haveli & Daman and Diu,Gen,False,1.0,10000.0,True
+Dadra and Nagar Haveli & Daman and Diu,Gen,False,0.75,10000.0,False
+Dadra and Nagar Haveli & Daman and Diu,Gen,False,1.0,10000.0,False
+Delhi,Gen,False,0.0,80000.0,True
+Delhi,Gen,False,0.25,80000.0,True
+Delhi,Gen,False,0.5,140000.0,True
+Delhi,Gen,False,0.75,390000.0,True
+Delhi,Gen,False,1.0,300000.0,True
+Delhi,OBC,False,0.0,10000.0,True
+Delhi,OBC,False,0.5,30000.0,True
+Delhi,OBC,False,0.75,30000.0,True
+Delhi,OBC,False,1.0,50000.0,True
+Delhi,SC,False,0.5,30000.0,True
+Delhi,SC,False,0.75,10000.0,True
+Delhi,SC,False,1.0,40000.0,True
+Delhi,Gen,False,0.0,50000.0,False
+Delhi,Gen,False,0.25,80000.0,False
+Delhi,Gen,False,0.5,130000.0,False
+Delhi,Gen,False,0.75,210000.0,False
+Delhi,Gen,False,1.0,270000.0,False
+Delhi,OBC,False,0.5,30000.0,False
+Delhi,OBC,False,0.75,10000.0,False
+Delhi,OBC,False,1.0,10000.0,False
+Delhi,SC,False,0.0,20000.0,False
+Delhi,SC,False,0.5,10000.0,False
+Delhi,SC,False,0.75,10000.0,False
+Delhi,SC,False,1.0,10000.0,False
+Goa,Gen,False,0.25,10000.0,True
+Goa,Gen,False,0.5,30000.0,True
+Goa,Gen,False,0.75,10000.0,True
+Goa,Gen,False,1.0,10000.0,True
+Goa,OBC,False,0.0,10000.0,True
+Goa,OBC,False,0.75,10000.0,True
+Goa,ST,False,0.25,10000.0,True
+Goa,ST,False,0.5,10000.0,True
+Goa,Gen,False,0.5,10000.0,False
+Goa,OBC,False,0.0,10000.0,False
+Goa,OBC,False,0.75,20000.0,False
+Goa,ST,False,0.75,10000.0,False
+Gujarat,Gen,True,0.5,20000.0,True
+Gujarat,Gen,False,0.0,310000.0,True
+Gujarat,Gen,False,0.25,350000.0,True
+Gujarat,Gen,False,0.5,460000.0,True
+Gujarat,Gen,False,0.75,220000.0,True
+Gujarat,Gen,False,1.0,140000.0,True
+Gujarat,OBC,True,0.25,30000.0,True
+Gujarat,OBC,True,0.5,50000.0,True
+Gujarat,OBC,False,0.0,480000.0,True
+Gujarat,OBC,False,0.25,820000.0,True
+Gujarat,OBC,False,0.5,1160000.0,True
+Gujarat,OBC,False,0.75,270000.0,True
+Gujarat,OBC,False,1.0,110000.0,True
+Gujarat,SC,False,0.0,30000.0,True
+Gujarat,SC,False,0.25,150000.0,True
+Gujarat,SC,False,0.5,150000.0,True
+Gujarat,SC,False,0.75,60000.0,True
+Gujarat,ST,True,0.25,70000.0,True
+Gujarat,ST,True,0.5,80000.0,True
+Gujarat,ST,False,0.0,250000.0,True
+Gujarat,ST,False,0.25,330000.0,True
+Gujarat,ST,False,0.5,380000.0,True
+Gujarat,ST,False,0.75,100000.0,True
+Gujarat,ST,False,1.0,60000.0,True
+Gujarat,Gen,True,0.0,30000.0,False
+Gujarat,Gen,True,0.25,10000.0,False
+Gujarat,Gen,False,0.0,200000.0,False
+Gujarat,Gen,False,0.25,490000.0,False
+Gujarat,Gen,False,0.5,400000.0,False
+Gujarat,Gen,False,0.75,190000.0,False
+Gujarat,Gen,False,1.0,290000.0,False
+Gujarat,OBC,True,0.0,10000.0,False
+Gujarat,OBC,True,0.25,10000.0,False
+Gujarat,OBC,True,0.5,40000.0,False
+Gujarat,OBC,False,0.0,310000.0,False
+Gujarat,OBC,False,0.25,810000.0,False
+Gujarat,OBC,False,0.5,930000.0,False
+Gujarat,OBC,False,0.75,160000.0,False
+Gujarat,OBC,False,1.0,140000.0,False
+Gujarat,SC,False,0.0,50000.0,False
+Gujarat,SC,False,0.25,80000.0,False
+Gujarat,SC,False,0.5,120000.0,False
+Gujarat,SC,False,0.75,40000.0,False
+Gujarat,SC,False,1.0,10000.0,False
+Gujarat,ST,True,0.0,60000.0,False
+Gujarat,ST,True,0.25,80000.0,False
+Gujarat,ST,True,0.5,50000.0,False
+Gujarat,ST,False,0.0,120000.0,False
+Gujarat,ST,False,0.25,610000.0,False
+Gujarat,ST,False,0.5,580000.0,False
+Gujarat,ST,False,0.75,140000.0,False
+Gujarat,ST,False,1.0,120000.0,False
+Haryana,Gen,False,0.0,80000.0,True
+Haryana,Gen,False,0.25,60000.0,True
+Haryana,Gen,False,0.5,130000.0,True
+Haryana,Gen,False,0.75,210000.0,True
+Haryana,Gen,False,1.0,270000.0,True
+Haryana,OBC,False,0.0,10000.0,True
+Haryana,OBC,False,0.25,40000.0,True
+Haryana,OBC,False,0.5,90000.0,True
+Haryana,OBC,False,0.75,170000.0,True
+Haryana,OBC,False,1.0,170000.0,True
+Haryana,SC,False,0.0,40000.0,True
+Haryana,SC,False,0.25,40000.0,True
+Haryana,SC,False,0.5,50000.0,True
+Haryana,SC,False,0.75,170000.0,True
+Haryana,SC,False,1.0,80000.0,True
+Haryana,Gen,False,0.0,70000.0,False
+Haryana,Gen,False,0.25,140000.0,False
+Haryana,Gen,False,0.5,140000.0,False
+Haryana,Gen,False,0.75,180000.0,False
+Haryana,Gen,False,1.0,310000.0,False
+Haryana,OBC,False,0.0,10000.0,False
+Haryana,OBC,False,0.25,20000.0,False
+Haryana,OBC,False,0.5,130000.0,False
+Haryana,OBC,False,0.75,160000.0,False
+Haryana,OBC,False,1.0,180000.0,False
+Haryana,SC,False,0.25,60000.0,False
+Haryana,SC,False,0.5,40000.0,False
+Haryana,SC,False,0.75,140000.0,False
+Haryana,SC,False,1.0,140000.0,False
+Himachal Pradesh,Gen,True,0.0,10000.0,True
+Himachal Pradesh,Gen,True,0.25,30000.0,True
+Himachal Pradesh,Gen,True,0.75,30000.0,True
+Himachal Pradesh,Gen,True,1.0,20000.0,True
+Himachal Pradesh,Gen,False,0.0,130000.0,True
+Himachal Pradesh,Gen,False,0.25,220000.0,True
+Himachal Pradesh,Gen,False,0.5,360000.0,True
+Himachal Pradesh,Gen,False,0.75,500000.0,True
+Himachal Pradesh,Gen,False,1.0,450000.0,True
+Himachal Pradesh,OBC,False,0.0,10000.0,True
+Himachal Pradesh,OBC,False,0.25,30000.0,True
+Himachal Pradesh,OBC,False,0.5,50000.0,True
+Himachal Pradesh,OBC,False,0.75,90000.0,True
+Himachal Pradesh,OBC,False,1.0,90000.0,True
+Himachal Pradesh,SC,True,1.0,20000.0,True
+Himachal Pradesh,SC,False,0.0,60000.0,True
+Himachal Pradesh,SC,False,0.25,90000.0,True
+Himachal Pradesh,SC,False,0.5,170000.0,True
+Himachal Pradesh,SC,False,0.75,160000.0,True
+Himachal Pradesh,SC,False,1.0,120000.0,True
+Himachal Pradesh,ST,True,0.25,10000.0,True
+Himachal Pradesh,ST,True,0.75,20000.0,True
+Himachal Pradesh,ST,False,0.5,20000.0,True
+Himachal Pradesh,ST,False,0.75,40000.0,True
+Himachal Pradesh,ST,False,1.0,20000.0,True
+Himachal Pradesh,Gen,True,0.25,10000.0,False
+Himachal Pradesh,Gen,True,0.5,20000.0,False
+Himachal Pradesh,Gen,True,0.75,60000.0,False
+Himachal Pradesh,Gen,True,1.0,30000.0,False
+Himachal Pradesh,Gen,False,0.0,190000.0,False
+Himachal Pradesh,Gen,False,0.25,220000.0,False
+Himachal Pradesh,Gen,False,0.5,460000.0,False
+Himachal Pradesh,Gen,False,0.75,620000.0,False
+Himachal Pradesh,Gen,False,1.0,390000.0,False
+Himachal Pradesh,OBC,False,0.0,20000.0,False
+Himachal Pradesh,OBC,False,0.25,30000.0,False
+Himachal Pradesh,OBC,False,0.5,130000.0,False
+Himachal Pradesh,OBC,False,0.75,90000.0,False
+Himachal Pradesh,OBC,False,1.0,110000.0,False
+Himachal Pradesh,SC,True,0.5,10000.0,False
+Himachal Pradesh,SC,True,1.0,20000.0,False
+Himachal Pradesh,SC,False,0.0,60000.0,False
+Himachal Pradesh,SC,False,0.25,120000.0,False
+Himachal Pradesh,SC,False,0.5,310000.0,False
+Himachal Pradesh,SC,False,0.75,250000.0,False
+Himachal Pradesh,SC,False,1.0,210000.0,False
+Himachal Pradesh,ST,True,0.5,10000.0,False
+Himachal Pradesh,ST,True,0.75,10000.0,False
+Himachal Pradesh,ST,True,1.0,10000.0,False
+Himachal Pradesh,ST,False,0.25,10000.0,False
+Himachal Pradesh,ST,False,0.5,20000.0,False
+Himachal Pradesh,ST,False,0.75,10000.0,False
+Himachal Pradesh,ST,False,1.0,40000.0,False
+Jammu & Kashmir,Gen,True,0.0,130000.0,True
+Jammu & Kashmir,Gen,True,0.25,180000.0,True
+Jammu & Kashmir,Gen,True,0.5,230000.0,True
+Jammu & Kashmir,Gen,True,0.75,170000.0,True
+Jammu & Kashmir,Gen,True,1.0,70000.0,True
+Jammu & Kashmir,Gen,False,0.0,400000.0,True
+Jammu & Kashmir,Gen,False,0.25,480000.0,True
+Jammu & Kashmir,Gen,False,0.5,590000.0,True
+Jammu & Kashmir,Gen,False,0.75,580000.0,True
+Jammu & Kashmir,Gen,False,1.0,480000.0,True
+Jammu & Kashmir,OBC,True,0.0,10000.0,True
+Jammu & Kashmir,OBC,True,0.25,20000.0,True
+Jammu & Kashmir,OBC,True,0.5,40000.0,True
+Jammu & Kashmir,OBC,True,0.75,20000.0,True
+Jammu & Kashmir,OBC,True,1.0,20000.0,True
+Jammu & Kashmir,OBC,False,0.0,20000.0,True
+Jammu & Kashmir,OBC,False,0.25,70000.0,True
+Jammu & Kashmir,OBC,False,0.5,100000.0,True
+Jammu & Kashmir,OBC,False,0.75,20000.0,True
+Jammu & Kashmir,OBC,False,1.0,50000.0,True
+Jammu & Kashmir,SC,True,0.75,10000.0,True
+Jammu & Kashmir,SC,False,0.0,10000.0,True
+Jammu & Kashmir,SC,False,0.25,50000.0,True
+Jammu & Kashmir,SC,False,0.5,90000.0,True
+Jammu & Kashmir,SC,False,1.0,60000.0,True
+Jammu & Kashmir,ST,True,0.0,20000.0,True
+Jammu & Kashmir,ST,True,0.25,10000.0,True
+Jammu & Kashmir,ST,True,0.5,30000.0,True
+Jammu & Kashmir,ST,True,0.75,10000.0,True
+Jammu & Kashmir,ST,False,0.0,70000.0,True
+Jammu & Kashmir,ST,False,0.25,60000.0,True
+Jammu & Kashmir,ST,False,0.5,40000.0,True
+Jammu & Kashmir,ST,False,0.75,50000.0,True
+Jammu & Kashmir,ST,False,1.0,60000.0,True
+Jammu & Kashmir,Gen,True,0.0,180000.0,False
+Jammu & Kashmir,Gen,True,0.25,80000.0,False
+Jammu & Kashmir,Gen,True,0.5,170000.0,False
+Jammu & Kashmir,Gen,True,0.75,160000.0,False
+Jammu & Kashmir,Gen,True,1.0,50000.0,False
+Jammu & Kashmir,Gen,False,0.0,310000.0,False
+Jammu & Kashmir,Gen,False,0.25,440000.0,False
+Jammu & Kashmir,Gen,False,0.5,590000.0,False
+Jammu & Kashmir,Gen,False,0.75,530000.0,False
+Jammu & Kashmir,Gen,False,1.0,470000.0,False
+Jammu & Kashmir,OBC,True,0.0,30000.0,False
+Jammu & Kashmir,OBC,True,0.75,20000.0,False
+Jammu & Kashmir,OBC,True,1.0,10000.0,False
+Jammu & Kashmir,OBC,False,0.0,10000.0,False
+Jammu & Kashmir,OBC,False,0.25,40000.0,False
+Jammu & Kashmir,OBC,False,0.5,90000.0,False
+Jammu & Kashmir,OBC,False,0.75,30000.0,False
+Jammu & Kashmir,OBC,False,1.0,20000.0,False
+Jammu & Kashmir,SC,False,0.0,30000.0,False
+Jammu & Kashmir,SC,False,0.25,20000.0,False
+Jammu & Kashmir,SC,False,0.5,70000.0,False
+Jammu & Kashmir,SC,False,0.75,20000.0,False
+Jammu & Kashmir,SC,False,1.0,40000.0,False
+Jammu & Kashmir,ST,True,0.75,10000.0,False
+Jammu & Kashmir,ST,False,0.0,20000.0,False
+Jammu & Kashmir,ST,False,0.25,50000.0,False
+Jammu & Kashmir,ST,False,0.5,60000.0,False
+Jammu & Kashmir,ST,False,0.75,30000.0,False
+Jammu & Kashmir,ST,False,1.0,20000.0,False
+Jharkhand,Gen,True,0.0,160000.0,True
+Jharkhand,Gen,True,0.25,210000.0,True
+Jharkhand,Gen,True,0.5,180000.0,True
+Jharkhand,Gen,True,0.75,320000.0,True
+Jharkhand,Gen,True,1.0,290000.0,True
+Jharkhand,Gen,False,0.0,10000.0,True
+Jharkhand,Gen,False,0.25,20000.0,True
+Jharkhand,Gen,False,0.5,90000.0,True
+Jharkhand,Gen,False,0.75,50000.0,True
+Jharkhand,Gen,False,1.0,170000.0,True
+Jharkhand,OBC,True,0.0,300000.0,True
+Jharkhand,OBC,True,0.25,570000.0,True
+Jharkhand,OBC,True,0.5,1120000.0,True
+Jharkhand,OBC,True,0.75,660000.0,True
+Jharkhand,OBC,True,1.0,1040000.0,True
+Jharkhand,OBC,False,0.0,70000.0,True
+Jharkhand,OBC,False,0.25,170000.0,True
+Jharkhand,OBC,False,0.5,360000.0,True
+Jharkhand,OBC,False,0.75,200000.0,True
+Jharkhand,OBC,False,1.0,250000.0,True
+Jharkhand,SC,True,0.0,100000.0,True
+Jharkhand,SC,True,0.25,160000.0,True
+Jharkhand,SC,True,0.5,300000.0,True
+Jharkhand,SC,True,0.75,80000.0,True
+Jharkhand,SC,True,1.0,150000.0,True
+Jharkhand,SC,False,0.25,20000.0,True
+Jharkhand,SC,False,0.5,30000.0,True
+Jharkhand,SC,False,0.75,10000.0,True
+Jharkhand,SC,False,1.0,20000.0,True
+Jharkhand,ST,True,0.0,100000.0,True
+Jharkhand,ST,True,0.25,230000.0,True
+Jharkhand,ST,True,0.5,590000.0,True
+Jharkhand,ST,True,0.75,150000.0,True
+Jharkhand,ST,True,1.0,240000.0,True
+Jharkhand,ST,False,0.0,10000.0,True
+Jharkhand,ST,False,0.25,60000.0,True
+Jharkhand,ST,False,0.5,80000.0,True
+Jharkhand,ST,False,0.75,10000.0,True
+Jharkhand,ST,False,1.0,30000.0,True
+Jharkhand,Gen,True,0.0,90000.0,False
+Jharkhand,Gen,True,0.25,140000.0,False
+Jharkhand,Gen,True,0.5,280000.0,False
+Jharkhand,Gen,True,0.75,190000.0,False
+Jharkhand,Gen,True,1.0,280000.0,False
+Jharkhand,Gen,False,0.0,30000.0,False
+Jharkhand,Gen,False,0.25,60000.0,False
+Jharkhand,Gen,False,0.5,50000.0,False
+Jharkhand,Gen,False,0.75,50000.0,False
+Jharkhand,Gen,False,1.0,120000.0,False
+Jharkhand,OBC,True,0.0,380000.0,False
+Jharkhand,OBC,True,0.25,430000.0,False
+Jharkhand,OBC,True,0.5,1240000.0,False
+Jharkhand,OBC,True,0.75,630000.0,False
+Jharkhand,OBC,True,1.0,930000.0,False
+Jharkhand,OBC,False,0.0,170000.0,False
+Jharkhand,OBC,False,0.25,130000.0,False
+Jharkhand,OBC,False,0.5,320000.0,False
+Jharkhand,OBC,False,0.75,80000.0,False
+Jharkhand,OBC,False,1.0,250000.0,False
+Jharkhand,SC,True,0.0,50000.0,False
+Jharkhand,SC,True,0.25,140000.0,False
+Jharkhand,SC,True,0.5,200000.0,False
+Jharkhand,SC,True,0.75,40000.0,False
+Jharkhand,SC,True,1.0,50000.0,False
+Jharkhand,SC,False,0.0,10000.0,False
+Jharkhand,SC,False,0.25,10000.0,False
+Jharkhand,SC,False,0.5,70000.0,False
+Jharkhand,SC,False,1.0,30000.0,False
+Jharkhand,ST,True,0.0,140000.0,False
+Jharkhand,ST,True,0.25,350000.0,False
+Jharkhand,ST,True,0.5,610000.0,False
+Jharkhand,ST,True,0.75,200000.0,False
+Jharkhand,ST,True,1.0,360000.0,False
+Jharkhand,ST,False,0.0,20000.0,False
+Jharkhand,ST,False,0.25,20000.0,False
+Jharkhand,ST,False,0.5,50000.0,False
+Jharkhand,ST,False,1.0,50000.0,False
+Karnataka,Gen,True,0.75,30000.0,True
+Karnataka,Gen,False,0.0,460000.0,True
+Karnataka,Gen,False,0.25,710000.0,True
+Karnataka,Gen,False,0.5,830000.0,True
+Karnataka,Gen,False,0.75,920000.0,True
+Karnataka,Gen,False,1.0,770000.0,True
+Karnataka,OBC,True,0.0,40000.0,True
+Karnataka,OBC,True,0.25,170000.0,True
+Karnataka,OBC,True,0.5,120000.0,True
+Karnataka,OBC,True,0.75,100000.0,True
+Karnataka,OBC,True,1.0,120000.0,True
+Karnataka,OBC,False,0.0,4620000.0,True
+Karnataka,OBC,False,0.25,6530000.0,True
+Karnataka,OBC,False,0.5,4350000.0,True
+Karnataka,OBC,False,0.75,5560000.0,True
+Karnataka,OBC,False,1.0,3240000.0,True
+Karnataka,SC,True,0.0,60000.0,True
+Karnataka,SC,True,0.25,40000.0,True
+Karnataka,SC,True,0.5,60000.0,True
+Karnataka,SC,True,0.75,20000.0,True
+Karnataka,SC,False,0.0,910000.0,True
+Karnataka,SC,False,0.25,1320000.0,True
+Karnataka,SC,False,0.5,920000.0,True
+Karnataka,SC,False,0.75,990000.0,True
+Karnataka,SC,False,1.0,780000.0,True
+Karnataka,ST,True,0.0,30000.0,True
+Karnataka,ST,True,0.25,40000.0,True
+Karnataka,ST,True,0.5,40000.0,True
+Karnataka,ST,True,0.75,40000.0,True
+Karnataka,ST,True,1.0,30000.0,True
+Karnataka,ST,False,0.0,350000.0,True
+Karnataka,ST,False,0.25,430000.0,True
+Karnataka,ST,False,0.5,410000.0,True
+Karnataka,ST,False,0.75,320000.0,True
+Karnataka,ST,False,1.0,230000.0,True
+Karnataka,Gen,False,0.0,370000.0,False
+Karnataka,Gen,False,0.25,560000.0,False
+Karnataka,Gen,False,0.5,570000.0,False
+Karnataka,Gen,False,0.75,770000.0,False
+Karnataka,Gen,False,1.0,490000.0,False
+Karnataka,OBC,True,0.0,160000.0,False
+Karnataka,OBC,True,0.25,210000.0,False
+Karnataka,OBC,True,0.5,100000.0,False
+Karnataka,OBC,True,0.75,240000.0,False
+Karnataka,OBC,True,1.0,70000.0,False
+Karnataka,OBC,False,0.0,5520000.0,False
+Karnataka,OBC,False,0.25,8870000.0,False
+Karnataka,OBC,False,0.5,5090000.0,False
+Karnataka,OBC,False,0.75,6590000.0,False
+Karnataka,OBC,False,1.0,3070000.0,False
+Karnataka,SC,True,0.0,20000.0,False
+Karnataka,SC,True,0.25,10000.0,False
+Karnataka,SC,True,0.5,20000.0,False
+Karnataka,SC,True,0.75,30000.0,False
+Karnataka,SC,True,1.0,20000.0,False
+Karnataka,SC,False,0.0,740000.0,False
+Karnataka,SC,False,0.25,1500000.0,False
+Karnataka,SC,False,0.5,670000.0,False
+Karnataka,SC,False,0.75,880000.0,False
+Karnataka,SC,False,1.0,600000.0,False
+Karnataka,ST,True,0.0,30000.0,False
+Karnataka,ST,True,0.25,30000.0,False
+Karnataka,ST,True,0.75,20000.0,False
+Karnataka,ST,True,1.0,20000.0,False
+Karnataka,ST,False,0.0,400000.0,False
+Karnataka,ST,False,0.25,590000.0,False
+Karnataka,ST,False,0.5,380000.0,False
+Karnataka,ST,False,0.75,310000.0,False
+Karnataka,ST,False,1.0,160000.0,False
+Kerala,Gen,True,0.5,10000.0,True
+Kerala,Gen,True,0.75,10000.0,True
+Kerala,Gen,False,0.0,190000.0,True
+Kerala,Gen,False,0.25,270000.0,True
+Kerala,Gen,False,0.5,220000.0,True
+Kerala,Gen,False,0.75,340000.0,True
+Kerala,Gen,False,1.0,160000.0,True
+Kerala,OBC,True,0.25,10000.0,True
+Kerala,OBC,True,0.5,10000.0,True
+Kerala,OBC,False,0.0,200000.0,True
+Kerala,OBC,False,0.25,520000.0,True
+Kerala,OBC,False,0.5,260000.0,True
+Kerala,OBC,False,0.75,390000.0,True
+Kerala,OBC,False,1.0,270000.0,True
+Kerala,SC,True,0.25,10000.0,True
+Kerala,SC,False,0.0,10000.0,True
+Kerala,SC,False,0.25,50000.0,True
+Kerala,SC,False,0.5,20000.0,True
+Kerala,SC,False,0.75,60000.0,True
+Kerala,ST,True,0.75,10000.0,True
+Kerala,Gen,True,0.5,10000.0,False
+Kerala,Gen,False,0.0,100000.0,False
+Kerala,Gen,False,0.25,180000.0,False
+Kerala,Gen,False,0.5,100000.0,False
+Kerala,Gen,False,0.75,130000.0,False
+Kerala,Gen,False,1.0,80000.0,False
+Kerala,OBC,False,0.0,140000.0,False
+Kerala,OBC,False,0.25,370000.0,False
+Kerala,OBC,False,0.5,130000.0,False
+Kerala,OBC,False,0.75,240000.0,False
+Kerala,OBC,False,1.0,160000.0,False
+Kerala,SC,False,0.25,30000.0,False
+Kerala,SC,False,0.5,20000.0,False
+Kerala,SC,False,0.75,30000.0,False
+Kerala,SC,False,1.0,40000.0,False
+Kerala,ST,False,0.25,10000.0,False
+Kerala,ST,False,0.5,10000.0,False
+Kerala,ST,False,1.0,10000.0,False
+LAKSHADWEEP,ST,False,0.25,10000.0,True
+LAKSHADWEEP,ST,False,1.0,10000.0,False
+Ladakh,Gen,False,0.75,10000.0,True
+Ladakh,ST,False,0.5,10000.0,True
+Ladakh,ST,False,0.75,20000.0,False
+Madhya Pradesh,Gen,True,0.25,30000.0,True
+Madhya Pradesh,Gen,True,0.5,30000.0,True
+Madhya Pradesh,Gen,True,0.75,50000.0,True
+Madhya Pradesh,Gen,True,1.0,120000.0,True
+Madhya Pradesh,Gen,False,0.0,80000.0,True
+Madhya Pradesh,Gen,False,0.25,250000.0,True
+Madhya Pradesh,Gen,False,0.5,360000.0,True
+Madhya Pradesh,Gen,False,0.75,600000.0,True
+Madhya Pradesh,Gen,False,1.0,650000.0,True
+Madhya Pradesh,OBC,True,0.0,20000.0,True
+Madhya Pradesh,OBC,True,0.25,40000.0,True
+Madhya Pradesh,OBC,True,0.5,130000.0,True
+Madhya Pradesh,OBC,True,0.75,80000.0,True
+Madhya Pradesh,OBC,True,1.0,160000.0,True
+Madhya Pradesh,OBC,False,0.0,170000.0,True
+Madhya Pradesh,OBC,False,0.25,430000.0,True
+Madhya Pradesh,OBC,False,0.5,1410000.0,True
+Madhya Pradesh,OBC,False,0.75,1110000.0,True
+Madhya Pradesh,OBC,False,1.0,1590000.0,True
+Madhya Pradesh,SC,True,0.0,10000.0,True
+Madhya Pradesh,SC,True,0.25,10000.0,True
+Madhya Pradesh,SC,True,0.5,50000.0,True
+Madhya Pradesh,SC,True,0.75,60000.0,True
+Madhya Pradesh,SC,True,1.0,40000.0,True
+Madhya Pradesh,SC,False,0.0,120000.0,True
+Madhya Pradesh,SC,False,0.25,260000.0,True
+Madhya Pradesh,SC,False,0.5,450000.0,True
+Madhya Pradesh,SC,False,0.75,370000.0,True
+Madhya Pradesh,SC,False,1.0,490000.0,True
+Madhya Pradesh,ST,True,0.5,10000.0,True
+Madhya Pradesh,ST,True,0.75,10000.0,True
+Madhya Pradesh,ST,True,1.0,30000.0,True
+Madhya Pradesh,ST,False,0.0,50000.0,True
+Madhya Pradesh,ST,False,0.25,110000.0,True
+Madhya Pradesh,ST,False,0.5,260000.0,True
+Madhya Pradesh,ST,False,0.75,90000.0,True
+Madhya Pradesh,ST,False,1.0,200000.0,True
+Madhya Pradesh,Gen,True,0.0,20000.0,False
+Madhya Pradesh,Gen,True,0.25,30000.0,False
+Madhya Pradesh,Gen,True,0.5,60000.0,False
+Madhya Pradesh,Gen,True,0.75,20000.0,False
+Madhya Pradesh,Gen,True,1.0,60000.0,False
+Madhya Pradesh,Gen,False,0.0,130000.0,False
+Madhya Pradesh,Gen,False,0.25,230000.0,False
+Madhya Pradesh,Gen,False,0.5,440000.0,False
+Madhya Pradesh,Gen,False,0.75,560000.0,False
+Madhya Pradesh,Gen,False,1.0,630000.0,False
+Madhya Pradesh,OBC,True,0.25,30000.0,False
+Madhya Pradesh,OBC,True,0.5,160000.0,False
+Madhya Pradesh,OBC,True,0.75,120000.0,False
+Madhya Pradesh,OBC,True,1.0,160000.0,False
+Madhya Pradesh,OBC,False,0.0,260000.0,False
+Madhya Pradesh,OBC,False,0.25,500000.0,False
+Madhya Pradesh,OBC,False,0.5,1060000.0,False
+Madhya Pradesh,OBC,False,0.75,850000.0,False
+Madhya Pradesh,OBC,False,1.0,1690000.0,False
+Madhya Pradesh,SC,True,0.0,10000.0,False
+Madhya Pradesh,SC,True,0.5,50000.0,False
+Madhya Pradesh,SC,True,0.75,10000.0,False
+Madhya Pradesh,SC,True,1.0,10000.0,False
+Madhya Pradesh,SC,False,0.0,70000.0,False
+Madhya Pradesh,SC,False,0.25,230000.0,False
+Madhya Pradesh,SC,False,0.5,390000.0,False
+Madhya Pradesh,SC,False,0.75,280000.0,False
+Madhya Pradesh,SC,False,1.0,440000.0,False
+Madhya Pradesh,ST,True,0.25,10000.0,False
+Madhya Pradesh,ST,True,0.5,20000.0,False
+Madhya Pradesh,ST,True,0.75,10000.0,False
+Madhya Pradesh,ST,True,1.0,10000.0,False
+Madhya Pradesh,ST,False,0.0,50000.0,False
+Madhya Pradesh,ST,False,0.25,130000.0,False
+Madhya Pradesh,ST,False,0.5,340000.0,False
+Madhya Pradesh,ST,False,0.75,170000.0,False
+Madhya Pradesh,ST,False,1.0,170000.0,False
+Maharashtra,Gen,True,0.5,10000.0,True
+Maharashtra,Gen,True,0.75,30000.0,True
+Maharashtra,Gen,False,0.0,440000.0,True
+Maharashtra,Gen,False,0.25,770000.0,True
+Maharashtra,Gen,False,0.5,1040000.0,True
+Maharashtra,Gen,False,0.75,1290000.0,True
+Maharashtra,Gen,False,1.0,900000.0,True
+Maharashtra,OBC,True,0.0,40000.0,True
+Maharashtra,OBC,True,0.25,10000.0,True
+Maharashtra,OBC,True,0.5,40000.0,True
+Maharashtra,OBC,True,0.75,30000.0,True
+Maharashtra,OBC,True,1.0,20000.0,True
+Maharashtra,OBC,False,0.0,430000.0,True
+Maharashtra,OBC,False,0.25,700000.0,True
+Maharashtra,OBC,False,0.5,760000.0,True
+Maharashtra,OBC,False,0.75,830000.0,True
+Maharashtra,OBC,False,1.0,750000.0,True
+Maharashtra,SC,True,0.5,40000.0,True
+Maharashtra,SC,True,0.75,10000.0,True
+Maharashtra,SC,True,1.0,10000.0,True
+Maharashtra,SC,False,0.0,120000.0,True
+Maharashtra,SC,False,0.25,190000.0,True
+Maharashtra,SC,False,0.5,160000.0,True
+Maharashtra,SC,False,0.75,270000.0,True
+Maharashtra,SC,False,1.0,300000.0,True
+Maharashtra,ST,True,0.0,10000.0,True
+Maharashtra,ST,True,0.5,10000.0,True
+Maharashtra,ST,True,0.75,40000.0,True
+Maharashtra,ST,True,1.0,30000.0,True
+Maharashtra,ST,False,0.0,90000.0,True
+Maharashtra,ST,False,0.25,90000.0,True
+Maharashtra,ST,False,0.5,140000.0,True
+Maharashtra,ST,False,0.75,110000.0,True
+Maharashtra,ST,False,1.0,80000.0,True
+Maharashtra,Gen,True,0.0,10000.0,False
+Maharashtra,Gen,True,0.25,10000.0,False
+Maharashtra,Gen,True,0.5,40000.0,False
+Maharashtra,Gen,True,0.75,20000.0,False
+Maharashtra,Gen,True,1.0,10000.0,False
+Maharashtra,Gen,False,0.0,340000.0,False
+Maharashtra,Gen,False,0.25,570000.0,False
+Maharashtra,Gen,False,0.5,670000.0,False
+Maharashtra,Gen,False,0.75,770000.0,False
+Maharashtra,Gen,False,1.0,460000.0,False
+Maharashtra,OBC,True,0.0,20000.0,False
+Maharashtra,OBC,True,0.25,60000.0,False
+Maharashtra,OBC,True,0.5,70000.0,False
+Maharashtra,OBC,True,0.75,30000.0,False
+Maharashtra,OBC,True,1.0,30000.0,False
+Maharashtra,OBC,False,0.0,370000.0,False
+Maharashtra,OBC,False,0.25,430000.0,False
+Maharashtra,OBC,False,0.5,510000.0,False
+Maharashtra,OBC,False,0.75,630000.0,False
+Maharashtra,OBC,False,1.0,460000.0,False
+Maharashtra,SC,True,0.0,10000.0,False
+Maharashtra,SC,True,0.5,10000.0,False
+Maharashtra,SC,True,0.75,30000.0,False
+Maharashtra,SC,True,1.0,10000.0,False
+Maharashtra,SC,False,0.0,90000.0,False
+Maharashtra,SC,False,0.25,230000.0,False
+Maharashtra,SC,False,0.5,160000.0,False
+Maharashtra,SC,False,0.75,260000.0,False
+Maharashtra,SC,False,1.0,160000.0,False
+Maharashtra,ST,True,0.0,10000.0,False
+Maharashtra,ST,True,0.5,10000.0,False
+Maharashtra,ST,True,0.75,30000.0,False
+Maharashtra,ST,True,1.0,20000.0,False
+Maharashtra,ST,False,0.0,40000.0,False
+Maharashtra,ST,False,0.25,80000.0,False
+Maharashtra,ST,False,0.5,140000.0,False
+Maharashtra,ST,False,0.75,140000.0,False
+Maharashtra,ST,False,1.0,130000.0,False
+Manipur,Gen,False,0.75,10000.0,True
+Manipur,Gen,False,1.0,10000.0,True
+Manipur,OBC,False,0.5,10000.0,True
+Manipur,OBC,False,1.0,20000.0,True
+Manipur,ST,False,0.5,20000.0,True
+Manipur,ST,False,1.0,20000.0,True
+Manipur,Gen,False,0.5,20000.0,False
+Manipur,Gen,False,0.75,10000.0,False
+Manipur,Gen,False,1.0,10000.0,False
+Manipur,ST,False,0.75,20000.0,False
+Manipur,ST,False,1.0,30000.0,False
+Meghalaya,Gen,False,0.5,20000.0,True
+Meghalaya,Gen,False,0.75,30000.0,True
+Meghalaya,Gen,False,1.0,30000.0,True
+Meghalaya,OBC,False,0.5,20000.0,True
+Meghalaya,OBC,False,0.75,30000.0,True
+Meghalaya,OBC,False,1.0,20000.0,True
+Meghalaya,SC,False,1.0,10000.0,True
+Meghalaya,ST,False,0.5,20000.0,True
+Meghalaya,ST,False,0.75,10000.0,True
+Meghalaya,ST,False,1.0,10000.0,True
+Meghalaya,Gen,False,0.5,10000.0,False
+Meghalaya,Gen,False,0.75,20000.0,False
+Meghalaya,Gen,False,1.0,10000.0,False
+Meghalaya,OBC,False,0.0,10000.0,False
+Meghalaya,OBC,False,0.5,20000.0,False
+Meghalaya,SC,False,0.5,10000.0,False
+Meghalaya,SC,False,0.75,20000.0,False
+Meghalaya,ST,False,0.5,30000.0,False
+Meghalaya,ST,False,0.75,60000.0,False
+Meghalaya,ST,False,1.0,60000.0,False
+Mizoram,Gen,False,0.5,10000.0,True
+Mizoram,ST,False,0.75,10000.0,True
+Mizoram,ST,False,1.0,20000.0,True
+Mizoram,OBC,False,0.0,10000.0,False
+Mizoram,OBC,False,1.0,10000.0,False
+Mizoram,ST,False,0.5,50000.0,False
+Mizoram,ST,False,0.75,10000.0,False
+Mizoram,ST,False,1.0,10000.0,False
+Nagaland,Gen,True,0.5,10000.0,True
+Nagaland,OBC,False,1.0,10000.0,True
+Nagaland,ST,False,0.5,10000.0,True
+Nagaland,ST,False,0.75,10000.0,True
+Nagaland,ST,False,1.0,10000.0,True
+Nagaland,ST,False,1.0,10000.0,False
+Odisha,Gen,True,0.0,50000.0,True
+Odisha,Gen,True,0.25,110000.0,True
+Odisha,Gen,True,0.5,80000.0,True
+Odisha,Gen,True,0.75,320000.0,True
+Odisha,Gen,True,1.0,130000.0,True
+Odisha,Gen,False,0.0,250000.0,True
+Odisha,Gen,False,0.25,470000.0,True
+Odisha,Gen,False,0.5,790000.0,True
+Odisha,Gen,False,0.75,1240000.0,True
+Odisha,Gen,False,1.0,580000.0,True
+Odisha,OBC,True,0.0,180000.0,True
+Odisha,OBC,True,0.25,520000.0,True
+Odisha,OBC,True,0.5,440000.0,True
+Odisha,OBC,True,0.75,780000.0,True
+Odisha,OBC,True,1.0,460000.0,True
+Odisha,OBC,False,0.0,420000.0,True
+Odisha,OBC,False,0.25,1050000.0,True
+Odisha,OBC,False,0.5,890000.0,True
+Odisha,OBC,False,0.75,1910000.0,True
+Odisha,OBC,False,1.0,820000.0,True
+Odisha,SC,True,0.0,100000.0,True
+Odisha,SC,True,0.25,60000.0,True
+Odisha,SC,True,0.5,180000.0,True
+Odisha,SC,True,0.75,300000.0,True
+Odisha,SC,True,1.0,170000.0,True
+Odisha,SC,False,0.0,80000.0,True
+Odisha,SC,False,0.25,340000.0,True
+Odisha,SC,False,0.5,410000.0,True
+Odisha,SC,False,0.75,290000.0,True
+Odisha,SC,False,1.0,210000.0,True
+Odisha,ST,True,0.0,60000.0,True
+Odisha,ST,True,0.25,340000.0,True
+Odisha,ST,True,0.5,290000.0,True
+Odisha,ST,True,0.75,460000.0,True
+Odisha,ST,True,1.0,160000.0,True
+Odisha,ST,False,0.0,70000.0,True
+Odisha,ST,False,0.25,100000.0,True
+Odisha,ST,False,0.5,160000.0,True
+Odisha,ST,False,0.75,350000.0,True
+Odisha,ST,False,1.0,130000.0,True
+Odisha,Gen,True,0.0,50000.0,False
+Odisha,Gen,True,0.25,120000.0,False
+Odisha,Gen,True,0.5,260000.0,False
+Odisha,Gen,True,0.75,200000.0,False
+Odisha,Gen,True,1.0,70000.0,False
+Odisha,Gen,False,0.0,150000.0,False
+Odisha,Gen,False,0.25,590000.0,False
+Odisha,Gen,False,0.5,890000.0,False
+Odisha,Gen,False,0.75,1200000.0,False
+Odisha,Gen,False,1.0,570000.0,False
+Odisha,OBC,True,0.0,200000.0,False
+Odisha,OBC,True,0.25,460000.0,False
+Odisha,OBC,True,0.5,520000.0,False
+Odisha,OBC,True,0.75,490000.0,False
+Odisha,OBC,True,1.0,250000.0,False
+Odisha,OBC,False,0.0,340000.0,False
+Odisha,OBC,False,0.25,1020000.0,False
+Odisha,OBC,False,0.5,1310000.0,False
+Odisha,OBC,False,0.75,1960000.0,False
+Odisha,OBC,False,1.0,810000.0,False
+Odisha,SC,True,0.0,60000.0,False
+Odisha,SC,True,0.25,130000.0,False
+Odisha,SC,True,0.5,220000.0,False
+Odisha,SC,True,0.75,250000.0,False
+Odisha,SC,True,1.0,70000.0,False
+Odisha,SC,False,0.0,130000.0,False
+Odisha,SC,False,0.25,350000.0,False
+Odisha,SC,False,0.5,280000.0,False
+Odisha,SC,False,0.75,470000.0,False
+Odisha,SC,False,1.0,190000.0,False
+Odisha,ST,True,0.0,70000.0,False
+Odisha,ST,True,0.25,200000.0,False
+Odisha,ST,True,0.5,330000.0,False
+Odisha,ST,True,0.75,410000.0,False
+Odisha,ST,True,1.0,110000.0,False
+Odisha,ST,False,0.0,50000.0,False
+Odisha,ST,False,0.25,130000.0,False
+Odisha,ST,False,0.5,100000.0,False
+Odisha,ST,False,0.75,280000.0,False
+Odisha,ST,False,1.0,120000.0,False
+Puducherry,Gen,False,0.75,10000.0,True
+Puducherry,OBC,False,0.0,10000.0,True
+Puducherry,OBC,False,0.25,10000.0,True
+Puducherry,OBC,False,0.5,10000.0,True
+Puducherry,OBC,False,0.75,30000.0,True
+Puducherry,SC,False,0.5,10000.0,True
+Puducherry,OBC,False,0.25,40000.0,False
+Puducherry,OBC,False,0.5,40000.0,False
+Puducherry,OBC,False,0.75,20000.0,False
+Puducherry,OBC,False,1.0,10000.0,False
+Puducherry,SC,False,0.0,10000.0,False
+Puducherry,SC,False,0.75,10000.0,False
+Punjab,Gen,True,0.0,10000.0,True
+Punjab,Gen,True,0.5,10000.0,True
+Punjab,Gen,True,0.75,10000.0,True
+Punjab,Gen,True,1.0,10000.0,True
+Punjab,Gen,False,0.0,60000.0,True
+Punjab,Gen,False,0.25,90000.0,True
+Punjab,Gen,False,0.5,140000.0,True
+Punjab,Gen,False,0.75,210000.0,True
+Punjab,Gen,False,1.0,220000.0,True
+Punjab,OBC,True,0.5,20000.0,True
+Punjab,OBC,False,0.0,30000.0,True
+Punjab,OBC,False,0.25,120000.0,True
+Punjab,OBC,False,0.5,60000.0,True
+Punjab,OBC,False,0.75,90000.0,True
+Punjab,OBC,False,1.0,90000.0,True
+Punjab,SC,True,0.0,20000.0,True
+Punjab,SC,True,0.5,10000.0,True
+Punjab,SC,True,0.75,20000.0,True
+Punjab,SC,False,0.0,50000.0,True
+Punjab,SC,False,0.25,80000.0,True
+Punjab,SC,False,0.5,90000.0,True
+Punjab,SC,False,0.75,190000.0,True
+Punjab,SC,False,1.0,90000.0,True
+Punjab,ST,False,0.75,10000.0,True
+Punjab,Gen,True,0.0,10000.0,False
+Punjab,Gen,True,0.5,10000.0,False
+Punjab,Gen,True,0.75,10000.0,False
+Punjab,Gen,False,0.0,60000.0,False
+Punjab,Gen,False,0.25,110000.0,False
+Punjab,Gen,False,0.5,170000.0,False
+Punjab,Gen,False,0.75,210000.0,False
+Punjab,Gen,False,1.0,250000.0,False
+Punjab,OBC,True,0.75,20000.0,False
+Punjab,OBC,True,1.0,10000.0,False
+Punjab,OBC,False,0.0,70000.0,False
+Punjab,OBC,False,0.25,40000.0,False
+Punjab,OBC,False,0.5,70000.0,False
+Punjab,OBC,False,0.75,90000.0,False
+Punjab,OBC,False,1.0,100000.0,False
+Punjab,SC,True,0.0,20000.0,False
+Punjab,SC,True,0.25,20000.0,False
+Punjab,SC,True,0.5,50000.0,False
+Punjab,SC,True,0.75,30000.0,False
+Punjab,SC,True,1.0,10000.0,False
+Punjab,SC,False,0.0,50000.0,False
+Punjab,SC,False,0.25,130000.0,False
+Punjab,SC,False,0.5,140000.0,False
+Punjab,SC,False,0.75,110000.0,False
+Punjab,SC,False,1.0,140000.0,False
+Rajasthan,Gen,True,0.0,30000.0,True
+Rajasthan,Gen,True,0.25,30000.0,True
+Rajasthan,Gen,True,0.5,60000.0,True
+Rajasthan,Gen,True,0.75,60000.0,True
+Rajasthan,Gen,True,1.0,50000.0,True
+Rajasthan,Gen,False,0.0,310000.0,True
+Rajasthan,Gen,False,0.25,620000.0,True
+Rajasthan,Gen,False,0.5,1060000.0,True
+Rajasthan,Gen,False,0.75,1050000.0,True
+Rajasthan,Gen,False,1.0,1390000.0,True
+Rajasthan,OBC,True,0.0,60000.0,True
+Rajasthan,OBC,True,0.25,90000.0,True
+Rajasthan,OBC,True,0.5,210000.0,True
+Rajasthan,OBC,True,0.75,120000.0,True
+Rajasthan,OBC,True,1.0,270000.0,True
+Rajasthan,OBC,False,0.0,1190000.0,True
+Rajasthan,OBC,False,0.25,2300000.0,True
+Rajasthan,OBC,False,0.5,4030000.0,True
+Rajasthan,OBC,False,0.75,2450000.0,True
+Rajasthan,OBC,False,1.0,3090000.0,True
+Rajasthan,SC,True,0.0,40000.0,True
+Rajasthan,SC,True,0.25,50000.0,True
+Rajasthan,SC,True,0.5,90000.0,True
+Rajasthan,SC,True,0.75,100000.0,True
+Rajasthan,SC,True,1.0,100000.0,True
+Rajasthan,SC,False,0.0,400000.0,True
+Rajasthan,SC,False,0.25,960000.0,True
+Rajasthan,SC,False,0.5,1570000.0,True
+Rajasthan,SC,False,0.75,1210000.0,True
+Rajasthan,SC,False,1.0,1200000.0,True
+Rajasthan,ST,True,0.0,10000.0,True
+Rajasthan,ST,True,0.25,20000.0,True
+Rajasthan,ST,True,0.5,130000.0,True
+Rajasthan,ST,True,0.75,30000.0,True
+Rajasthan,ST,True,1.0,50000.0,True
+Rajasthan,ST,False,0.0,160000.0,True
+Rajasthan,ST,False,0.25,500000.0,True
+Rajasthan,ST,False,0.5,990000.0,True
+Rajasthan,ST,False,0.75,510000.0,True
+Rajasthan,ST,False,1.0,600000.0,True
+Rajasthan,Gen,True,0.0,20000.0,False
+Rajasthan,Gen,True,0.25,60000.0,False
+Rajasthan,Gen,True,0.5,30000.0,False
+Rajasthan,Gen,True,0.75,90000.0,False
+Rajasthan,Gen,True,1.0,70000.0,False
+Rajasthan,Gen,False,0.0,420000.0,False
+Rajasthan,Gen,False,0.25,630000.0,False
+Rajasthan,Gen,False,0.5,1310000.0,False
+Rajasthan,Gen,False,0.75,1390000.0,False
+Rajasthan,Gen,False,1.0,1560000.0,False
+Rajasthan,OBC,True,0.0,40000.0,False
+Rajasthan,OBC,True,0.25,90000.0,False
+Rajasthan,OBC,True,0.5,200000.0,False
+Rajasthan,OBC,True,0.75,130000.0,False
+Rajasthan,OBC,True,1.0,210000.0,False
+Rajasthan,OBC,False,0.0,1030000.0,False
+Rajasthan,OBC,False,0.25,2470000.0,False
+Rajasthan,OBC,False,0.5,4810000.0,False
+Rajasthan,OBC,False,0.75,3510000.0,False
+Rajasthan,OBC,False,1.0,4660000.0,False
+Rajasthan,SC,True,0.0,10000.0,False
+Rajasthan,SC,True,0.25,90000.0,False
+Rajasthan,SC,True,0.5,100000.0,False
+Rajasthan,SC,True,0.75,60000.0,False
+Rajasthan,SC,True,1.0,140000.0,False
+Rajasthan,SC,False,0.0,380000.0,False
+Rajasthan,SC,False,0.25,1010000.0,False
+Rajasthan,SC,False,0.5,1940000.0,False
+Rajasthan,SC,False,0.75,1380000.0,False
+Rajasthan,SC,False,1.0,1440000.0,False
+Rajasthan,ST,True,0.0,40000.0,False
+Rajasthan,ST,True,0.25,50000.0,False
+Rajasthan,ST,True,0.5,70000.0,False
+Rajasthan,ST,True,0.75,50000.0,False
+Rajasthan,ST,True,1.0,80000.0,False
+Rajasthan,ST,False,0.0,160000.0,False
+Rajasthan,ST,False,0.25,590000.0,False
+Rajasthan,ST,False,0.5,1280000.0,False
+Rajasthan,ST,False,0.75,590000.0,False
+Rajasthan,ST,False,1.0,830000.0,False
+Sikkim,Gen,False,0.25,10000.0,True
+Sikkim,Gen,False,0.75,10000.0,True
+Sikkim,Gen,False,1.0,20000.0,True
+Sikkim,OBC,False,0.25,10000.0,True
+Sikkim,OBC,False,0.75,20000.0,True
+Sikkim,OBC,False,1.0,30000.0,True
+Sikkim,ST,False,0.5,10000.0,True
+Sikkim,ST,False,0.75,10000.0,True
+Sikkim,ST,False,1.0,20000.0,True
+Sikkim,Gen,False,0.75,10000.0,False
+Sikkim,Gen,False,1.0,60000.0,False
+Sikkim,OBC,False,0.5,20000.0,False
+Sikkim,OBC,False,0.75,20000.0,False
+Sikkim,OBC,False,1.0,40000.0,False
+Sikkim,SC,False,0.25,10000.0,False
+Sikkim,SC,False,1.0,10000.0,False
+Sikkim,ST,False,0.5,20000.0,False
+Sikkim,ST,False,0.75,10000.0,False
+Sikkim,ST,False,1.0,40000.0,False
+Tamil Nadu,Gen,True,0.0,10000.0,True
+Tamil Nadu,Gen,True,0.5,20000.0,True
+Tamil Nadu,Gen,True,0.75,20000.0,True
+Tamil Nadu,Gen,True,1.0,20000.0,True
+Tamil Nadu,Gen,False,0.0,10000.0,True
+Tamil Nadu,Gen,False,0.25,110000.0,True
+Tamil Nadu,Gen,False,0.5,130000.0,True
+Tamil Nadu,Gen,False,0.75,160000.0,True
+Tamil Nadu,Gen,False,1.0,140000.0,True
+Tamil Nadu,OBC,True,0.0,10000.0,True
+Tamil Nadu,OBC,True,0.25,20000.0,True
+Tamil Nadu,OBC,True,0.5,10000.0,True
+Tamil Nadu,OBC,True,0.75,40000.0,True
+Tamil Nadu,OBC,True,1.0,10000.0,True
+Tamil Nadu,OBC,False,0.0,280000.0,True
+Tamil Nadu,OBC,False,0.25,470000.0,True
+Tamil Nadu,OBC,False,0.5,580000.0,True
+Tamil Nadu,OBC,False,0.75,570000.0,True
+Tamil Nadu,OBC,False,1.0,420000.0,True
+Tamil Nadu,SC,True,0.0,10000.0,True
+Tamil Nadu,SC,True,0.25,10000.0,True
+Tamil Nadu,SC,True,0.75,10000.0,True
+Tamil Nadu,SC,False,0.0,70000.0,True
+Tamil Nadu,SC,False,0.25,100000.0,True
+Tamil Nadu,SC,False,0.5,100000.0,True
+Tamil Nadu,SC,False,0.75,90000.0,True
+Tamil Nadu,SC,False,1.0,50000.0,True
+Tamil Nadu,ST,False,0.5,20000.0,True
+Tamil Nadu,Gen,True,0.25,10000.0,False
+Tamil Nadu,Gen,True,0.5,10000.0,False
+Tamil Nadu,Gen,True,0.75,20000.0,False
+Tamil Nadu,Gen,True,1.0,30000.0,False
+Tamil Nadu,Gen,False,0.0,70000.0,False
+Tamil Nadu,Gen,False,0.25,50000.0,False
+Tamil Nadu,Gen,False,0.5,120000.0,False
+Tamil Nadu,Gen,False,0.75,140000.0,False
+Tamil Nadu,Gen,False,1.0,60000.0,False
+Tamil Nadu,OBC,True,0.5,60000.0,False
+Tamil Nadu,OBC,True,1.0,20000.0,False
+Tamil Nadu,OBC,False,0.0,360000.0,False
+Tamil Nadu,OBC,False,0.25,670000.0,False
+Tamil Nadu,OBC,False,0.5,700000.0,False
+Tamil Nadu,OBC,False,0.75,310000.0,False
+Tamil Nadu,OBC,False,1.0,320000.0,False
+Tamil Nadu,SC,True,0.0,10000.0,False
+Tamil Nadu,SC,True,0.25,30000.0,False
+Tamil Nadu,SC,True,0.5,10000.0,False
+Tamil Nadu,SC,True,0.75,10000.0,False
+Tamil Nadu,SC,False,0.0,330000.0,False
+Tamil Nadu,SC,False,0.25,440000.0,False
+Tamil Nadu,SC,False,0.5,290000.0,False
+Tamil Nadu,SC,False,0.75,140000.0,False
+Tamil Nadu,SC,False,1.0,50000.0,False
+Tamil Nadu,ST,False,0.0,30000.0,False
+Tamil Nadu,ST,False,0.25,30000.0,False
+Tamil Nadu,ST,False,0.5,30000.0,False
+Telangana,Gen,True,0.0,20000.0,True
+Telangana,Gen,True,0.75,10000.0,True
+Telangana,Gen,True,1.0,10000.0,True
+Telangana,Gen,False,0.0,170000.0,True
+Telangana,Gen,False,0.25,360000.0,True
+Telangana,Gen,False,0.5,560000.0,True
+Telangana,Gen,False,0.75,670000.0,True
+Telangana,Gen,False,1.0,380000.0,True
+Telangana,OBC,True,0.0,10000.0,True
+Telangana,OBC,True,0.25,30000.0,True
+Telangana,OBC,True,0.5,40000.0,True
+Telangana,OBC,True,0.75,20000.0,True
+Telangana,OBC,True,1.0,20000.0,True
+Telangana,OBC,False,0.0,540000.0,True
+Telangana,OBC,False,0.25,980000.0,True
+Telangana,OBC,False,0.5,1800000.0,True
+Telangana,OBC,False,0.75,2690000.0,True
+Telangana,OBC,False,1.0,1280000.0,True
+Telangana,SC,True,0.25,10000.0,True
+Telangana,SC,True,0.5,10000.0,True
+Telangana,SC,True,0.75,60000.0,True
+Telangana,SC,True,1.0,50000.0,True
+Telangana,SC,False,0.0,190000.0,True
+Telangana,SC,False,0.25,520000.0,True
+Telangana,SC,False,0.5,560000.0,True
+Telangana,SC,False,0.75,880000.0,True
+Telangana,SC,False,1.0,470000.0,True
+Telangana,ST,True,0.0,10000.0,True
+Telangana,ST,True,0.25,30000.0,True
+Telangana,ST,True,0.5,20000.0,True
+Telangana,ST,True,0.75,30000.0,True
+Telangana,ST,True,1.0,20000.0,True
+Telangana,ST,False,0.0,80000.0,True
+Telangana,ST,False,0.25,160000.0,True
+Telangana,ST,False,0.5,350000.0,True
+Telangana,ST,False,0.75,540000.0,True
+Telangana,ST,False,1.0,230000.0,True
+Telangana,Gen,True,0.5,20000.0,False
+Telangana,Gen,True,0.75,30000.0,False
+Telangana,Gen,False,0.0,130000.0,False
+Telangana,Gen,False,0.25,340000.0,False
+Telangana,Gen,False,0.5,560000.0,False
+Telangana,Gen,False,0.75,820000.0,False
+Telangana,Gen,False,1.0,320000.0,False
+Telangana,OBC,True,0.25,10000.0,False
+Telangana,OBC,True,0.5,30000.0,False
+Telangana,OBC,True,0.75,40000.0,False
+Telangana,OBC,True,1.0,60000.0,False
+Telangana,OBC,False,0.0,570000.0,False
+Telangana,OBC,False,0.25,1090000.0,False
+Telangana,OBC,False,0.5,2110000.0,False
+Telangana,OBC,False,0.75,3700000.0,False
+Telangana,OBC,False,1.0,1780000.0,False
+Telangana,SC,True,0.25,10000.0,False
+Telangana,SC,True,0.5,20000.0,False
+Telangana,SC,True,0.75,30000.0,False
+Telangana,SC,True,1.0,10000.0,False
+Telangana,SC,False,0.0,200000.0,False
+Telangana,SC,False,0.25,510000.0,False
+Telangana,SC,False,0.5,650000.0,False
+Telangana,SC,False,0.75,910000.0,False
+Telangana,SC,False,1.0,570000.0,False
+Telangana,ST,True,0.0,20000.0,False
+Telangana,ST,True,0.5,40000.0,False
+Telangana,ST,True,0.75,60000.0,False
+Telangana,ST,True,1.0,30000.0,False
+Telangana,ST,False,0.0,60000.0,False
+Telangana,ST,False,0.25,240000.0,False
+Telangana,ST,False,0.5,230000.0,False
+Telangana,ST,False,0.75,410000.0,False
+Telangana,ST,False,1.0,190000.0,False
+Tripura,Gen,False,0.5,20000.0,True
+Tripura,Gen,False,1.0,20000.0,True
+Tripura,OBC,False,0.75,40000.0,True
+Tripura,SC,False,0.25,10000.0,True
+Tripura,SC,False,0.5,10000.0,True
+Tripura,SC,False,0.75,10000.0,True
+Tripura,Gen,False,0.5,30000.0,False
+Tripura,OBC,False,0.25,20000.0,False
+Tripura,OBC,False,0.5,10000.0,False
+Tripura,ST,False,0.75,10000.0,False
+Uttar Pradesh,Gen,True,0.0,10000.0,True
+Uttar Pradesh,Gen,True,0.5,10000.0,True
+Uttar Pradesh,Gen,True,0.75,40000.0,True
+Uttar Pradesh,Gen,True,1.0,30000.0,True
+Uttar Pradesh,Gen,False,0.0,60000.0,True
+Uttar Pradesh,Gen,False,0.25,220000.0,True
+Uttar Pradesh,Gen,False,0.5,390000.0,True
+Uttar Pradesh,Gen,False,0.75,610000.0,True
+Uttar Pradesh,Gen,False,1.0,930000.0,True
+Uttar Pradesh,OBC,True,0.0,10000.0,True
+Uttar Pradesh,OBC,True,0.25,30000.0,True
+Uttar Pradesh,OBC,True,0.5,10000.0,True
+Uttar Pradesh,OBC,True,0.75,20000.0,True
+Uttar Pradesh,OBC,True,1.0,40000.0,True
+Uttar Pradesh,OBC,False,0.0,100000.0,True
+Uttar Pradesh,OBC,False,0.25,320000.0,True
+Uttar Pradesh,OBC,False,0.5,320000.0,True
+Uttar Pradesh,OBC,False,0.75,650000.0,True
+Uttar Pradesh,OBC,False,1.0,800000.0,True
+Uttar Pradesh,SC,True,0.0,20000.0,True
+Uttar Pradesh,SC,True,0.5,10000.0,True
+Uttar Pradesh,SC,False,0.0,60000.0,True
+Uttar Pradesh,SC,False,0.25,120000.0,True
+Uttar Pradesh,SC,False,0.5,90000.0,True
+Uttar Pradesh,SC,False,0.75,170000.0,True
+Uttar Pradesh,SC,False,1.0,220000.0,True
+Uttar Pradesh,ST,False,1.0,10000.0,True
+Uttar Pradesh,Gen,True,0.5,10000.0,False
+Uttar Pradesh,Gen,True,0.75,10000.0,False
+Uttar Pradesh,Gen,True,1.0,20000.0,False
+Uttar Pradesh,Gen,False,0.0,140000.0,False
+Uttar Pradesh,Gen,False,0.25,220000.0,False
+Uttar Pradesh,Gen,False,0.5,360000.0,False
+Uttar Pradesh,Gen,False,0.75,440000.0,False
+Uttar Pradesh,Gen,False,1.0,580000.0,False
+Uttar Pradesh,OBC,True,0.0,10000.0,False
+Uttar Pradesh,OBC,True,0.75,30000.0,False
+Uttar Pradesh,OBC,True,1.0,20000.0,False
+Uttar Pradesh,OBC,False,0.0,80000.0,False
+Uttar Pradesh,OBC,False,0.25,170000.0,False
+Uttar Pradesh,OBC,False,0.5,300000.0,False
+Uttar Pradesh,OBC,False,0.75,580000.0,False
+Uttar Pradesh,OBC,False,1.0,690000.0,False
+Uttar Pradesh,SC,False,0.0,50000.0,False
+Uttar Pradesh,SC,False,0.25,90000.0,False
+Uttar Pradesh,SC,False,0.5,100000.0,False
+Uttar Pradesh,SC,False,0.75,240000.0,False
+Uttar Pradesh,SC,False,1.0,300000.0,False
+Uttar Pradesh,ST,False,0.75,10000.0,False
+Uttarakhand,Gen,True,0.0,20000.0,True
+Uttarakhand,Gen,True,0.25,90000.0,True
+Uttarakhand,Gen,True,0.5,150000.0,True
+Uttarakhand,Gen,True,0.75,170000.0,True
+Uttarakhand,Gen,True,1.0,290000.0,True
+Uttarakhand,Gen,False,0.0,420000.0,True
+Uttarakhand,Gen,False,0.25,810000.0,True
+Uttarakhand,Gen,False,0.5,1190000.0,True
+Uttarakhand,Gen,False,0.75,1030000.0,True
+Uttarakhand,Gen,False,1.0,1220000.0,True
+Uttarakhand,OBC,True,0.0,50000.0,True
+Uttarakhand,OBC,True,0.25,140000.0,True
+Uttarakhand,OBC,True,0.5,140000.0,True
+Uttarakhand,OBC,True,0.75,90000.0,True
+Uttarakhand,OBC,True,1.0,60000.0,True
+Uttarakhand,OBC,False,0.0,60000.0,True
+Uttarakhand,OBC,False,0.25,160000.0,True
+Uttarakhand,OBC,False,0.5,270000.0,True
+Uttarakhand,OBC,False,0.75,200000.0,True
+Uttarakhand,OBC,False,1.0,180000.0,True
+Uttarakhand,SC,True,0.0,40000.0,True
+Uttarakhand,SC,True,0.25,30000.0,True
+Uttarakhand,SC,True,0.5,50000.0,True
+Uttarakhand,SC,True,0.75,50000.0,True
+Uttarakhand,SC,True,1.0,70000.0,True
+Uttarakhand,SC,False,0.0,200000.0,True
+Uttarakhand,SC,False,0.25,270000.0,True
+Uttarakhand,SC,False,0.5,470000.0,True
+Uttarakhand,SC,False,0.75,310000.0,True
+Uttarakhand,SC,False,1.0,350000.0,True
+Uttarakhand,ST,True,0.0,10000.0,True
+Uttarakhand,ST,True,0.5,20000.0,True
+Uttarakhand,ST,True,0.75,10000.0,True
+Uttarakhand,ST,True,1.0,20000.0,True
+Uttarakhand,ST,False,0.25,10000.0,True
+Uttarakhand,ST,False,0.5,50000.0,True
+Uttarakhand,ST,False,0.75,10000.0,True
+Uttarakhand,ST,False,1.0,30000.0,True
+Uttarakhand,Gen,True,0.0,50000.0,False
+Uttarakhand,Gen,True,0.25,160000.0,False
+Uttarakhand,Gen,True,0.5,90000.0,False
+Uttarakhand,Gen,True,0.75,150000.0,False
+Uttarakhand,Gen,True,1.0,140000.0,False
+Uttarakhand,Gen,False,0.0,440000.0,False
+Uttarakhand,Gen,False,0.25,800000.0,False
+Uttarakhand,Gen,False,0.5,1000000.0,False
+Uttarakhand,Gen,False,0.75,1160000.0,False
+Uttarakhand,Gen,False,1.0,1260000.0,False
+Uttarakhand,OBC,True,0.0,110000.0,False
+Uttarakhand,OBC,True,0.25,110000.0,False
+Uttarakhand,OBC,True,0.5,190000.0,False
+Uttarakhand,OBC,True,0.75,150000.0,False
+Uttarakhand,OBC,True,1.0,130000.0,False
+Uttarakhand,OBC,False,0.0,40000.0,False
+Uttarakhand,OBC,False,0.25,100000.0,False
+Uttarakhand,OBC,False,0.5,230000.0,False
+Uttarakhand,OBC,False,0.75,190000.0,False
+Uttarakhand,OBC,False,1.0,300000.0,False
+Uttarakhand,SC,True,0.0,40000.0,False
+Uttarakhand,SC,True,0.25,60000.0,False
+Uttarakhand,SC,True,0.5,170000.0,False
+Uttarakhand,SC,True,0.75,40000.0,False
+Uttarakhand,SC,True,1.0,50000.0,False
+Uttarakhand,SC,False,0.0,160000.0,False
+Uttarakhand,SC,False,0.25,200000.0,False
+Uttarakhand,SC,False,0.5,320000.0,False
+Uttarakhand,SC,False,0.75,220000.0,False
+Uttarakhand,SC,False,1.0,200000.0,False
+Uttarakhand,ST,True,0.5,10000.0,False
+Uttarakhand,ST,True,0.75,20000.0,False
+Uttarakhand,ST,False,0.0,10000.0,False
+Uttarakhand,ST,False,0.25,10000.0,False
+Uttarakhand,ST,False,0.75,50000.0,False
+Uttarakhand,ST,False,1.0,50000.0,False
+West Bengal,Gen,False,0.0,30000.0,True
+West Bengal,Gen,False,0.25,30000.0,True
+West Bengal,Gen,False,0.5,70000.0,True
+West Bengal,Gen,False,0.75,90000.0,True
+West Bengal,Gen,False,1.0,90000.0,True
+West Bengal,OBC,False,0.25,20000.0,True
+West Bengal,OBC,False,0.75,20000.0,True
+West Bengal,OBC,False,1.0,10000.0,True
+West Bengal,SC,False,0.5,10000.0,True
+West Bengal,SC,False,0.75,30000.0,True
+West Bengal,SC,False,1.0,60000.0,True
+West Bengal,ST,False,0.75,30000.0,True
+West Bengal,Gen,False,0.5,10000.0,False
+West Bengal,Gen,False,0.75,100000.0,False
+West Bengal,Gen,False,1.0,70000.0,False
+West Bengal,OBC,False,0.75,20000.0,False
+West Bengal,SC,False,0.0,10000.0,False
+West Bengal,SC,False,0.5,30000.0,False
+West Bengal,SC,False,1.0,10000.0,False
+West Bengal,ST,False,0.5,10000.0,False
+West Bengal,ST,False,0.75,10000.0,False
