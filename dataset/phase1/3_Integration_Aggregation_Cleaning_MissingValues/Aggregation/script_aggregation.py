@@ -8,7 +8,7 @@ output_path = os.path.join(base_dir, "dataset_aggregated.csv")
 
 # Load dataset
 df = pd.read_csv(input_path)
-print("✅ Loaded cleaned dataset:", df.shape)
+print("Loaded cleaned dataset:", df.shape)
 
 agg = (
     df.groupby(["state_name", "gender", "category_name", "aspirational_final", "class"])
@@ -17,9 +17,9 @@ agg = (
       .reset_index()
 )
 
-print("\n📊 Aggregation summary (first 10 rows):")
+print("\n Aggregation summary (first 10 rows):")
 print(agg.head(10))
 
 # Save result
 agg.to_csv(output_path, index=False)
-print(f"💾 Saved aggregated dataset to {output_path}")
+print(f" Saved aggregated dataset to {output_path}")
