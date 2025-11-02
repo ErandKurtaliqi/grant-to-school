@@ -140,7 +140,7 @@ Final step that prepares data for modeling or analysis.
 | 1 | `1_Preprocessing_for_Analysis` | Cleaning, formatting | `dataset_preprocessed.csv` |
 | 2 | `2_Data_Collection_Type_Definition` | Type validation | `dataset_typed_quality_checked.csv` |
 | 3 | `3_Integration_Aggregation_Cleaning` | Integration, cleaning, aggregation | `dataset_integrated.csv`, `dataset_cleaned.csv`, `dataset_aggregated.csv` |
-| 4 | `4_Binarization_Normalization` | Normalization and encoding | `final_binarization_file.csv` |
+| 4 | `4_Binarization_Normalization` | Normalization and Binarization | `final_binarization_file.csv` |
 
 ---
 
