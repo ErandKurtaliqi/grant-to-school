@@ -14,7 +14,7 @@ if os.path.exists(region_file):
     df = pd.merge(df, regions, on="state_name", how="left")
     print("Integrated with region mapping.")
 else:
-    print("ℹ️ No region file found. Proceeding without merging.")
+    print("No region file found. Proceeding without merging.")
 
 df.to_csv(output_path, index=False)
-print(f"💾 Saved integrated dataset to {output_path}")
+print(f" Saved integrated dataset to {output_path}")
