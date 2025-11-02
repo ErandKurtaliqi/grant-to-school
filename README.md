@@ -98,20 +98,20 @@ This step defines and validates the **data schema and types**.
 ### **3. Integration, Aggregation & Cleaning**
 This is a **multi-part phase** responsible for unifying, cleaning, and summarizing the dataset.
 
-#### *Integration/*
+#### *Integration*
 Merges multiple sources or datasets into a single consistent dataset.  
 - Aligns schemas;  
 - Removes redundancy;  
 - Produces `dataset_integrated.csv`.
 
-#### *Cleaning_MissingValues/*
+#### *Cleaning_MissingValues*
 Handles missing and incomplete data using:
 - Mean/median imputation;  
 - Mode replacement for categories;  
 - Removal of records with excessive missing values.  
 Produces `dataset_cleaned.csv`.
 
-#### 📊 *Aggregation/*
+#### *Aggregation*
 Performs grouped aggregations by year, class, or gender.  
 Summarizes total and average grant distributions.  
 Produces `dataset_aggregated.csv`.
