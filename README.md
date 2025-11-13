@@ -149,3 +149,7 @@ Final step that prepares data for modeling or analysis.
 - Clean and modular Python scripts for each transformation step;  
 - Progressive improvement in **data quality and usability**;  
 - Ready-to-analyze dataset suitable for statistical or ML-based exploration.
+
+
+##TO DO :
+ADD VISUALIZATION OF DATASET PROCESSING ON THE README FILE
