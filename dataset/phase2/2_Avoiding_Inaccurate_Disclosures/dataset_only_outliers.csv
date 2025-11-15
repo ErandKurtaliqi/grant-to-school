@@ -1,0 +1,146 @@
+state_name,category_name,aspirational_final,class,amount_of_scholarship,gender_male,is_outlier
+Andhra Pradesh,Gen,False,0.5,890000.0,True,True
+Andhra Pradesh,Gen,False,0.75,1140000.0,True,True
+Andhra Pradesh,OBC,False,0.25,1140000.0,True,True
+Andhra Pradesh,OBC,False,0.5,2080000.0,True,True
+Andhra Pradesh,OBC,False,0.75,2570000.0,True,True
+Andhra Pradesh,OBC,False,1.0,1450000.0,True,True
+Andhra Pradesh,SC,False,0.5,830000.0,True,True
+Andhra Pradesh,SC,False,0.75,1160000.0,True,True
+Andhra Pradesh,Gen,False,0.75,1290000.0,False,True
+Andhra Pradesh,OBC,False,0.25,990000.0,False,True
+Andhra Pradesh,OBC,False,0.5,1510000.0,False,True
+Andhra Pradesh,OBC,False,0.75,2780000.0,False,True
+Andhra Pradesh,OBC,False,1.0,1170000.0,False,True
+Andhra Pradesh,SC,False,0.5,780000.0,False,True
+Andhra Pradesh,SC,False,0.75,1280000.0,False,True
+Bihar,OBC,True,0.25,1030000.0,True,True
+Bihar,OBC,True,0.5,1800000.0,True,True
+Bihar,OBC,True,0.75,960000.0,True,True
+Bihar,OBC,False,0.25,1210000.0,True,True
+Bihar,OBC,False,0.5,2580000.0,True,True
+Bihar,OBC,False,0.75,1440000.0,True,True
+Bihar,OBC,False,1.0,1060000.0,True,True
+Bihar,Gen,False,0.5,820000.0,False,True
+Bihar,OBC,True,0.25,990000.0,False,True
+Bihar,OBC,True,0.5,1960000.0,False,True
+Bihar,OBC,True,0.75,820000.0,False,True
+Bihar,OBC,False,0.25,1120000.0,False,True
+Bihar,OBC,False,0.5,3300000.0,False,True
+Bihar,OBC,False,0.75,1440000.0,False,True
+Bihar,OBC,False,1.0,930000.0,False,True
+Chhattisgarh,OBC,False,0.25,1190000.0,True,True
+Chhattisgarh,OBC,False,0.5,1770000.0,True,True
+Chhattisgarh,OBC,False,0.75,1050000.0,True,True
+Chhattisgarh,OBC,False,1.0,1760000.0,True,True
+Chhattisgarh,ST,True,0.5,860000.0,True,True
+Chhattisgarh,OBC,True,0.5,780000.0,False,True
+Chhattisgarh,OBC,False,0.25,1230000.0,False,True
+Chhattisgarh,OBC,False,0.5,2380000.0,False,True
+Chhattisgarh,OBC,False,0.75,1610000.0,False,True
+Chhattisgarh,OBC,False,1.0,2150000.0,False,True
+Chhattisgarh,ST,True,0.5,980000.0,False,True
+Chhattisgarh,ST,False,0.5,1000000.0,False,True
+Gujarat,OBC,False,0.25,820000.0,True,True
+Gujarat,OBC,False,0.5,1160000.0,True,True
+Gujarat,OBC,False,0.25,810000.0,False,True
+Gujarat,OBC,False,0.5,930000.0,False,True
+Jharkhand,OBC,True,0.5,1120000.0,True,True
+Jharkhand,OBC,True,1.0,1040000.0,True,True
+Jharkhand,OBC,True,0.5,1240000.0,False,True
+Jharkhand,OBC,True,1.0,930000.0,False,True
+Karnataka,Gen,False,0.5,830000.0,True,True
+Karnataka,Gen,False,0.75,920000.0,True,True
+Karnataka,Gen,False,1.0,770000.0,True,True
+Karnataka,OBC,False,0.0,4620000.0,True,True
+Karnataka,OBC,False,0.25,6530000.0,True,True
+Karnataka,OBC,False,0.5,4350000.0,True,True
+Karnataka,OBC,False,0.75,5560000.0,True,True
+Karnataka,OBC,False,1.0,3240000.0,True,True
+Karnataka,SC,False,0.0,910000.0,True,True
+Karnataka,SC,False,0.25,1320000.0,True,True
+Karnataka,SC,False,0.5,920000.0,True,True
+Karnataka,SC,False,0.75,990000.0,True,True
+Karnataka,SC,False,1.0,780000.0,True,True
+Karnataka,Gen,False,0.75,770000.0,False,True
+Karnataka,OBC,False,0.0,5520000.0,False,True
+Karnataka,OBC,False,0.25,8870000.0,False,True
+Karnataka,OBC,False,0.5,5090000.0,False,True
+Karnataka,OBC,False,0.75,6590000.0,False,True
+Karnataka,OBC,False,1.0,3070000.0,False,True
+Karnataka,SC,False,0.25,1500000.0,False,True
+Karnataka,SC,False,0.75,880000.0,False,True
+Madhya Pradesh,OBC,False,0.5,1410000.0,True,True
+Madhya Pradesh,OBC,False,0.75,1110000.0,True,True
+Madhya Pradesh,OBC,False,1.0,1590000.0,True,True
+Madhya Pradesh,OBC,False,0.5,1060000.0,False,True
+Madhya Pradesh,OBC,False,0.75,850000.0,False,True
+Madhya Pradesh,OBC,False,1.0,1690000.0,False,True
+Maharashtra,Gen,False,0.25,770000.0,True,True
+Maharashtra,Gen,False,0.5,1040000.0,True,True
+Maharashtra,Gen,False,0.75,1290000.0,True,True
+Maharashtra,Gen,False,1.0,900000.0,True,True
+Maharashtra,OBC,False,0.5,760000.0,True,True
+Maharashtra,OBC,False,0.75,830000.0,True,True
+Maharashtra,Gen,False,0.75,770000.0,False,True
+Odisha,Gen,False,0.5,790000.0,True,True
+Odisha,Gen,False,0.75,1240000.0,True,True
+Odisha,OBC,True,0.75,780000.0,True,True
+Odisha,OBC,False,0.25,1050000.0,True,True
+Odisha,OBC,False,0.5,890000.0,True,True
+Odisha,OBC,False,0.75,1910000.0,True,True
+Odisha,OBC,False,1.0,820000.0,True,True
+Odisha,Gen,False,0.5,890000.0,False,True
+Odisha,Gen,False,0.75,1200000.0,False,True
+Odisha,OBC,False,0.25,1020000.0,False,True
+Odisha,OBC,False,0.5,1310000.0,False,True
+Odisha,OBC,False,0.75,1960000.0,False,True
+Odisha,OBC,False,1.0,810000.0,False,True
+Rajasthan,Gen,False,0.5,1060000.0,True,True
+Rajasthan,Gen,False,0.75,1050000.0,True,True
+Rajasthan,Gen,False,1.0,1390000.0,True,True
+Rajasthan,OBC,False,0.0,1190000.0,True,True
+Rajasthan,OBC,False,0.25,2300000.0,True,True
+Rajasthan,OBC,False,0.5,4030000.0,True,True
+Rajasthan,OBC,False,0.75,2450000.0,True,True
+Rajasthan,OBC,False,1.0,3090000.0,True,True
+Rajasthan,SC,False,0.25,960000.0,True,True
+Rajasthan,SC,False,0.5,1570000.0,True,True
+Rajasthan,SC,False,0.75,1210000.0,True,True
+Rajasthan,SC,False,1.0,1200000.0,True,True
+Rajasthan,ST,False,0.5,990000.0,True,True
+Rajasthan,Gen,False,0.5,1310000.0,False,True
+Rajasthan,Gen,False,0.75,1390000.0,False,True
+Rajasthan,Gen,False,1.0,1560000.0,False,True
+Rajasthan,OBC,False,0.0,1030000.0,False,True
+Rajasthan,OBC,False,0.25,2470000.0,False,True
+Rajasthan,OBC,False,0.5,4810000.0,False,True
+Rajasthan,OBC,False,0.75,3510000.0,False,True
+Rajasthan,OBC,False,1.0,4660000.0,False,True
+Rajasthan,SC,False,0.25,1010000.0,False,True
+Rajasthan,SC,False,0.5,1940000.0,False,True
+Rajasthan,SC,False,0.75,1380000.0,False,True
+Rajasthan,SC,False,1.0,1440000.0,False,True
+Rajasthan,ST,False,0.5,1280000.0,False,True
+Rajasthan,ST,False,1.0,830000.0,False,True
+Telangana,OBC,False,0.25,980000.0,True,True
+Telangana,OBC,False,0.5,1800000.0,True,True
+Telangana,OBC,False,0.75,2690000.0,True,True
+Telangana,OBC,False,1.0,1280000.0,True,True
+Telangana,SC,False,0.75,880000.0,True,True
+Telangana,Gen,False,0.75,820000.0,False,True
+Telangana,OBC,False,0.25,1090000.0,False,True
+Telangana,OBC,False,0.5,2110000.0,False,True
+Telangana,OBC,False,0.75,3700000.0,False,True
+Telangana,OBC,False,1.0,1780000.0,False,True
+Telangana,SC,False,0.75,910000.0,False,True
+Uttar Pradesh,Gen,False,1.0,930000.0,True,True
+Uttar Pradesh,OBC,False,1.0,800000.0,True,True
+Uttarakhand,Gen,False,0.25,810000.0,True,True
+Uttarakhand,Gen,False,0.5,1190000.0,True,True
+Uttarakhand,Gen,False,0.75,1030000.0,True,True
+Uttarakhand,Gen,False,1.0,1220000.0,True,True
+Uttarakhand,Gen,False,0.25,800000.0,False,True
+Uttarakhand,Gen,False,0.5,1000000.0,False,True
+Uttarakhand,Gen,False,0.75,1160000.0,False,True
+Uttarakhand,Gen,False,1.0,1260000.0,False,True
