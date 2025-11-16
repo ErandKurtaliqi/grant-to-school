@@ -2,7 +2,7 @@
 
 Ky skript Python kryen detektimin e përjashtuesve (outliers) në një dataset duke përdorur metodën **IQR (Interquartile Range)** dhe ruan rezultatin në një CSV të ri duke shtuar kolonën `is_outlier` për secilën rresht.
 
-## 📑 Përmbajtja
+## Përmbajtja
 
 - Varësitë (Dependencies)
 - Struktura e skedarëve dhe rrugët (Paths)
