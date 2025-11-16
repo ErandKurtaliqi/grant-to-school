@@ -1,24 +1,44 @@
-README FINAL (Copy–Paste i gatshëm për GitHub / Markdown)
-# README – Skripti për Detektimin e Përjashtuesve (Outliers) me IQR
+README – Skripti për Detektimin e Përjashtuesve (Outliers) me IQR
 
-Ky skript Python kryen **detektimin e përjashtuesve (outliers)** në një dataset duke përdorur metodën **IQR (Interquartile Range)** dhe ruan rezultatin në një file të ri CSV, duke shtuar një kolonë të re `is_outlier` për secilën rresht.
+Ky skript Python kryen detektimin e përjashtuesve (outliers) në një dataset duke përdorur metodën IQR (Interquartile Range) dhe ruan rezultatin në një CSV të ri, duke shtuar kolonën is_outlier për secilën rresht.
 
----
+📑 Përmbajtja
 
-## 1. Varësitë (Dependencies)
+Varësitë (Dependencies)
 
-Për ekzekutimin e këtij skripti nevojiten paketat e mëposhtme:
+Struktura e skedarëve dhe rrugët (Paths)
 
-- Python 3.x  
-- pandas  
-- numpy  
-- pathlib (vjen si pjesë e standard library të Python-it)
+Përshkrimi i plotë i skriptit
 
-### Instalimi i paketave të nevojshme
+Leximi i dataset-it
 
-Nëse nuk i ke të instaluara `pandas` dhe `numpy`, mund t’i instalosh me:
+Përzgjedhja e kolonave numerike
 
-```bash
+Funksioni detect_outliers_iqr
+
+Shtimi i kolonës is_outlier
+
+Krijimi i folderit të output-it
+
+Ruajtja e dataset-it të përditësuar
+
+Mesazhet në konsol
+
+Si ta ekzekutoni skriptin
+
+1. Varësitë (Dependencies)
+
+Për ekzekutimin e këtij skripti nevojiten paketat:
+
+Python 3.x
+
+pandas
+
+numpy
+
+pathlib (standard library e Python-it)
+
+Instalimi i paketave
 pip install pandas numpy
 
 2. Struktura e skedarëve dhe rrugët (Paths)
@@ -31,19 +51,25 @@ INPUT_PATH = Path("dataset/phase1/4_Binarization_Normalization/final_binarizatio
 OUTPUT_PATH = Path("dataset/phase2/1_Excluder_Detection/dataset_with_exclude_detection.csv")
 
 Çfarë nënkuptojnë këto rrugë?
-
 INPUT_PATH
+
 dataset/phase1/4_Binarization_Normalization/final_binarization_file.csv
-Ky është file-i hyrës nga i cili lexohet dataset-i. Pritet të jetë CSV i krijuar nga faza e mëparshme: Binarization & Normalization.
+
+File-i hyrës i dataset-it.
+
+Pritet të jetë CSV i krijuar nga faza e mëparshme: Binarization & Normalization.
 
 OUTPUT_PATH
+
 dataset/phase2/1_Excluder_Detection/dataset_with_exclude_detection.csv
-Ky është file-i i daljes ku ruhet dataset-i me kolonën is_outlier.
+
+File-i i daljes me kolonën is_outlier.
+
 Folder-i krijohet automatikisht nëse nuk ekziston.
 
 3. Përshkrimi i plotë i skriptit
 
-Kodi i plotë i skriptit:
+Kodi i plotë i skriptit (i pandryshuar):
 
 import pandas as pd
 import numpy as np
@@ -79,24 +105,21 @@ df.to_csv(OUTPUT_PATH, index=False)
 print("Detektimi i përjashtuesve u krye me sukses!")
 print(f"Rezultati u ruajt në:\n{OUTPUT_PATH}")
 
-
-Më poshtë janë shpjegimet e detajuara për çdo hap.
-
 4. Leximi i dataset-it
 df = pd.read_csv(INPUT_PATH)
 
 
-Lexohet file-i CSV dhe ngarkohet në një DataFrame.
+Dataset-i lexohet nga CSV dhe ngarkohet në DataFrame.
 
 5. Përzgjedhja e kolonave numerike
 numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
 
 
-Përzgjidhen vetëm kolonat me tipe numerike (int, float).
+Përzgjidhen kolonat me tip numerik (int, float) për të aplikuar metodën IQR.
 
 6. Funksioni detect_outliers_iqr
 
-Ky funksion detekton outliers për të gjitha kolonat numerike duke përdorur metodën IQR.
+Ky funksion detekton outliers për të gjitha kolonat numerike.
 
 Llogaritja e kuartileve dhe IQR
 Q1 = dataframe[col].quantile(0.25)
@@ -107,36 +130,31 @@ Kufijtë e outliers
 lower = Q1 - 1.5 * IQR
 upper = Q3 + 1.5 * IQR
 
-Detektimi për kolonë
+Detektimi i outliers për kolonë
 col_outliers = (dataframe[col] < lower) | (dataframe[col] > upper)
 
 Kombinimi për të gjitha kolonat
 outlier_mask |= col_outliers
 
-
-Nëse një rresht është outlier në çfarëdo kolone → shënohet si outlier.
-
 7. Shtimi i kolonës is_outlier
 df["is_outlier"] = detect_outliers_iqr(df, numeric_cols)
 
 
-Kolona e re përmban:
-
 True → rreshti është outlier
 
-False → rreshti është normal
+False → rreshti nuk është outlier
 
 8. Krijimi i folderit të output-it
 OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 
-Krijon automatikisht folderin nëse nuk ekziston.
+Krijon automatikisht të gjithë folderët që mungojnë.
 
 9. Ruajtja e dataset-it të përditësuar
 df.to_csv(OUTPUT_PATH, index=False)
 
 
-Dataset-i ruhet në CSV pa kolonën e indeksit.
+CSV i ri ruhet pa kolonën e indeksit.
 
 10. Mesazhet në konsol
 Detektimi i përjashtuesve u krye me sukses!
@@ -145,28 +163,26 @@ dataset/phase2/1_Excluder_Detection/dataset_with_exclude_detection.csv
 
 11. Si ta ekzekutoni skriptin
 
-Sigurohu që ke instaluar python, pandas dhe numpy.
+Sigurohu që ke të instaluar Python, pandas dhe numpy.
 
 Sigurohu që ekziston file-i:
 
 dataset/phase1/4_Binarization_Normalization/final_binarization_file.csv
 
 
-Ruaje skriptin si p.sh.:
+Ruaje skriptin si:
 
 detect_outliers_iqr.py
 
 
-Ekzekuto në terminal:
+Ekzekuto:
 
 python detect_outliers_iqr.py
 
 
-Pas ekzekutimit krijohet file-i final:
+Pas ekzekutimit krijohet file-i:
 
 dataset/phase2/1_Excluder_Detection/dataset_with_exclude_detection.csv
 
 
-Ky file do të përmbajë dataset-in origjinal + kolonën is_outlier.
-
----
+Ky file përmban dataset-in origjinal + kolonën is_outlier.
