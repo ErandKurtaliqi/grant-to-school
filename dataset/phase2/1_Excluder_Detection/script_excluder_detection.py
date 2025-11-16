@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-INPUT_PATH = Path("C:/Users/Erand Kurtaliqi/OneDrive/Desktop/Master/Pergatitja dhe Vizualizimi i te dhenave/Information_Security/grant-to-school/dataset/phase1/4_Binarization_Normalization/final_binarization_file.csv")
+INPUT_PATH = Path("dataset/phase1/4_Binarization_Normalization/final_binarization_file.csv")
 
-OUTPUT_PATH = Path("C:/Users/Erand Kurtaliqi/OneDrive/Desktop/Master/Pergatitja dhe Vizualizimi i te dhenave/Information_Security/grant-to-school/dataset/phase2/1_Excluder_Detection/dataset_with_exclude_detection.csv")
+OUTPUT_PATH = Path("dataset/phase2/1_Excluder_Detection/dataset_with_exclude_detection.csv")
 
 df = pd.read_csv(INPUT_PATH)
 numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
