@@ -11,6 +11,16 @@ The dataset provides insights into year-wise grants distributed to school studen
 
 In this phase, we have performed **comprehensive data preprocessing** to ensure data quality, integrity, and readiness for analytical modeling.
 
+#### **🔎 Output After Data Cleaning (First 5 Rows)**
+
+| Year | Student ID | State | District | Aspirational | Category | Class | Gender | Scholarship |
+|------|------------|--------|-----------|--------------|----------|--------|---------|-------------|
+| 2023 | 198164 | Punjab | Moga | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198165 | Rajasthan | Karauli | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198166 | Rajasthan | Sirohi | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198167 | Rajasthan | Sirohi | Aspirational | Gen | 7 | Boys | 10000 |
+| 2023 | 198168 | Punjab | Firozpur | Aspirational | Gen | 8 | Boys | 10000 |
+
 ---
 
 ## Major Tasks in Data Preprocessing
@@ -22,6 +32,15 @@ We focused on improving data quality and consistency through:
 - Identifying and removing **outliers** that distort the dataset;  
 - Resolving **inconsistencies** in naming, formatting, and categorical labels.
 
+| Year | Student ID | State | District | Aspirational | Category | Class | Gender | Scholarship |
+|------|------------|--------|-----------|--------------|----------|--------|---------|-------------|
+| 2023 | 198164 | Punjab | Moga | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198165 | Rajasthan | Karauli | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198166 | Rajasthan | Sirohi | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198167 | Rajasthan | Sirohi | Aspirational | Gen | 7 | Boys | 10000 |
+| 2023 | 198168 | Punjab | Firozpur | Aspirational | Gen | 8 | Boys | 10000 |
+
+
 ---
 
 ### 2. Data Reduction
@@ -30,19 +49,70 @@ To optimize performance and storage, we applied several data reduction technique
 - **Numerosity Reduction:** Aggregated and summarized data to reduce record count while maintaining essential information;  
 - **Data Compression:** Utilized encoding and compact formats to minimize data size.
 
+| Year | Student ID | State | District | Aspirational | Category | Class | Gender | Scholarship |
+|------|------------|--------|-----------|--------------|----------|--------|---------|-------------|
+| 2023 | 198164 | Punjab | Moga | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198165 | Rajasthan | Karauli | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198166 | Rajasthan | Sirohi | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198167 | Rajasthan | Sirohi | Aspirational | Gen | 7 | Boys | 10000 |
+| 2023 | 198168 | Punjab | Firozpur | Aspirational | Gen | 8 | Boys | 10000 |
+
+
 ---
 
-### 3. Data Transformation & Discretization
+### 3. Data Integration
 We transformed and standardized data to make it more suitable for analysis:
-- **Normalization:** Scaled numeric features to a common range for better comparison;  
-- **Concept Hierarchy Generation:** Grouped attributes into meaningful hierarchies (e.g., year ranges, class categories);  
-- **Data Discretization:** Converted continuous data into categorical bins to simplify analysis.
+- **Loaded the typed dataset from Phase 1 - Part 2
+- **Optionally checked for a regional lookup file `State_Regions.csv` and merged it.
+- **Verified the resulting schema and record count.
+
+## Output
+
+| Year | Student ID | State | District | Aspirational | Category | Class | Gender | Scholarship |
+|------|------------|--------|-----------|--------------|----------|--------|---------|-------------|
+| 2023 | 198164 | Punjab | Moga | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198165 | Rajasthan | Karauli | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198166 | Rajasthan | Sirohi | Aspirational | Gen | 6 | Boys | 10000 |
+| 2023 | 198167 | Rajasthan | Sirohi | Aspirational | Gen | 7 | Boys | 10000 |
+| 2023 | 198168 | Punjab | Firozpur | Aspirational | Gen | 8 | Boys | 10000 |
+
+
 
 ---
 
 ### 4. Data Aggregation
 After preprocessing, **data aggregation** was performed to derive summarized views —  
 combining records by year, class, and gender to identify overall trends and funding patterns.
+
+## Output
+
+| State Name | Gender | Category | Aspirational Final | Class | Total Scholarship |
+|-------------|--------|----------|----------------------|--------|---------------------|
+| Andaman and Nicobar Islands | Boys | Gen | Non-Aspirational | 6 | 10000.0 |
+| Andaman and Nicobar Islands | Boys | Gen | Non-Aspirational | 7 | 10000.0 |
+| Andaman and Nicobar Islands | Boys | Gen | Non-Aspirational | 8 | 10000.0 |
+| Andaman and Nicobar Islands | Boys | Gen | Non-Aspirational | 9 | 10000.0 |
+| Andaman and Nicobar Islands | Boys | Gen | Non-Aspirational | 10 | 10000.0 |
+
+
+### 5. Binarization & Normalization
+Final step that prepares data for modeling or analysis.
+
+**Techniques applied:**
+- Min–Max normalization;  
+- Binary encoding (True/False → 1/0);  
+- Feature scaling.
+
+#### **🔎 Output After Binarization & Normalization (First 5 Rows)**
+
+| State Name | Category | Aspirational Binary | Class Normalized | Scholarship | Gender Binary |
+|-------------|----------|----------------------|-------------------|-------------|----------------|
+| Andaman and Nicobar Islands | Gen | False | 0.00 | 10000.0 | True |
+| Andaman and Nicobar Islands | Gen | False | 0.25 | 10000.0 | True |
+| Andaman and Nicobar Islands | Gen | False | 0.50 | 10000.0 | True |
+| Andaman and Nicobar Islands | Gen | False | 0.75 | 10000.0 | True |
+| Andaman and Nicobar Islands | Gen | False | 1.00 | 10000.0 | True |
+
 
 ---
 
@@ -149,7 +219,3 @@ Final step that prepares data for modeling or analysis.
 - Clean and modular Python scripts for each transformation step;  
 - Progressive improvement in **data quality and usability**;  
 - Ready-to-analyze dataset suitable for statistical or ML-based exploration.
-
-
-##TO DO :
-ADD VISUALIZATION OF DATASET PROCESSING ON THE README FILE
