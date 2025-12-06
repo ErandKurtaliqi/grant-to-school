@@ -129,6 +129,7 @@ This repository is organized into multiple folders, each representing a **specif
 Every phase contains a `README.md` for documentation, a `.csv` dataset output, and a `.py` script used for that stage.
 
 <img width="243" height="686" alt="image" src="https://github.com/user-attachments/assets/b050a7c5-745b-4b77-a70e-46fad55a8ef1" />
+<img width="517" height="763" alt="image" src="https://github.com/user-attachments/assets/ea1bc8b4-a533-4fde-8a62-d44cf8add79e" />
 
 ---
 
