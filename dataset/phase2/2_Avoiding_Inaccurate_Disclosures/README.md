@@ -1,6 +1,8 @@
 # README – Eliminimi i Outliers për të Shmangur Zbulimet e Pasakta
 
-Ky skript përpunon dataset-in e fazës 2 duke ndarë rreshtat **pa outliers** dhe **vetëm outliers**, bazuar në kolonën `is_outlier` të krijuar më parë nga skripti i detektimit të përjashtuesve.
+## 1. Qëllimi i Skriptit
+Përmes këtij skripti sigurohemi që analizat statistikore të mos deformohen nga vlerat ekstreme (outliers). Kjo arrihet duke ndarë dataset-in në dy pjesë të qarta: një për analiza të sigurta dhe një për hulumtim të vlerave të skajshme.
+Pra ky skript përpunon dataset-in e fazës 2 duke ndarë rreshtat **pa outliers** dhe **vetëm outliers**, bazuar në kolonën `is_outlier` të krijuar më parë nga skripti i detektimit të përjashtuesve.
 
 ## Përmbajtja
 
@@ -17,7 +19,7 @@ Ky skript përpunon dataset-in e fazës 2 duke ndarë rreshtat **pa outliers** d
 
 ---
 
-## 1. Varësitë (Dependencies)
+## 2. Varësitë (Dependencies)
 
 Ky skript kërkon:
 
@@ -33,7 +35,7 @@ pip install pandas
 
 ---
 
-## 2. Rrugët e përdorura (Paths)
+## 3. Rrugët e përdorura (Paths)
 
 Këtu përcaktohen tre rrugë:
 
@@ -49,7 +51,7 @@ OUTPUT_OUTLIERS_PATH = Path("dataset/phase2/2_Avoiding_Inaccurate_Disclosures/da
 
 ---
 
-## 3. Përshkrimi i kodit
+## 4. Përshkrimi i kodit
 
 Skripti lexon dataset-in, kontrollon ekzistencën e kolonës `is_outlier`, pastaj ndan rreshtat në:
 
@@ -60,7 +62,7 @@ Në fund, i ruan të dy rezultatet në CSV të veçantë.
 
 ---
 
-## 4. Leximi i dataset-it
+## 5. Leximi i dataset-it
 
 ```python
 df = pd.read_csv(INPUT_PATH)
@@ -68,7 +70,7 @@ df = pd.read_csv(INPUT_PATH)
 
 ---
 
-## 5. Verifikimi i kolonës `is_outlier`
+## 6. Verifikimi i kolonës `is_outlier`
 
 Nëse kolona mungon, skripti ndalet.
 
@@ -79,7 +81,7 @@ if "is_outlier" not in df.columns:
 
 ---
 
-## 6. Gjenerimi i filtrit për outliers
+## 7. Gjenerimi i filtrit për outliers
 
 Kolona pranohet në formatet: `1`, `true`, `yes` (case-insensitive).
 
@@ -91,7 +93,7 @@ Mundëson fleksibilitet ndaj formateve të ndryshme.
 
 ---
 
-## 7. Ndarja e dataset-it
+## 8. Ndarja e dataset-it
 
 ```python
 df_no_outliers = df[~outlier_mask].copy()
@@ -100,7 +102,7 @@ df_only_outliers = df[outlier_mask].copy()
 
 ---
 
-## 8. Ruajtja e rezultateve
+## 9. Ruajtja e rezultateve
 
 Folderi krijohet automatikisht nëse mungon.
 
@@ -113,7 +115,7 @@ df_only_outliers.to_csv(OUTPUT_OUTLIERS_PATH, index=False)
 
 ---
 
-## 9. Mesazhet në konzol
+## 10. Mesazhet në konzol
 
 Skripti printon:
 
@@ -123,7 +125,7 @@ Skripti printon:
 
 ---
 
-## 10. Si të ekzekutohet skripti
+## 11. Si të ekzekutohet skripti
 
 1. Sigurohu që skripti i detektimit të outliers ka gjeneruar:
 
@@ -149,3 +151,4 @@ python avoid_inaccurate_disclosures.py
 dataset/phase2/2_Avoiding_Inaccurate_Disclosures/dataset_no_outliers.csv
 dataset/phase2/2_Avoiding_Inaccurate_Disclosures/dataset_only_outliers.csv
 ```
+
