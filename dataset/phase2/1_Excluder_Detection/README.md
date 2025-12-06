@@ -1,6 +1,7 @@
 # README – Skripti për Detektimin e Përjashtuesve (Outliers) me IQR
 
-Ky skript Python kryen detektimin e përjashtuesve (outliers) në një dataset duke përdorur metodën **IQR (Interquartile Range)** dhe ruan rezultatin në një CSV të ri duke shtuar kolonën `is_outlier` për secilën rresht.
+# 1. Qëllimi
+Ky skript ka për qëllim identifikimin e rreshtave që përmbajnë vlera statistikisht të jashtëzakonshme, të cilat duhet të përjashtohen për të garantuar saktësi të mëtejshme në analizë. Detektimi i përjashtuesve (outliers) bëhet duke përdorur metodën **IQR (Interquartile Range)** dhe ruan rezultatin në një CSV të ri duke shtuar kolonën `is_outlier` për secilën rresht.
 
 ## Përmbajtja
 - Varësitë (Dependencies)
@@ -17,7 +18,7 @@ Ky skript Python kryen detektimin e përjashtuesve (outliers) në një dataset d
 
 ---
 
-# 1. Varësitë (Dependencies)
+# 2. Varësitë (Dependencies)
 
 Për ekzekutimin e këtij skripti nevojiten paketat:
 
@@ -38,7 +39,7 @@ pip install pandas numpy
 
 ---
 
-# 2. Struktura e skedarëve dhe rrugët (Paths)
+# 3. Struktura e skedarëve dhe rrugët (Paths)
 
 ```python
 from pathlib import Path
@@ -52,7 +53,7 @@ Përdorimi i pathlib lejon krijimin e rrugëve të sigurta që funksionojnë në
 
 ---
 
-# 3. Përshkrimi i plotë i skriptit
+# 4. Përshkrimi i plotë i skriptit
 
 Kodi i plotë i skriptit:
 
@@ -89,15 +90,14 @@ OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 df.to_csv(OUTPUT_PATH, index=False)
 
 print("Detektimi i përjashtuesve u krye me sukses!")
-print(f"Rezultati u ruajt në:
-{OUTPUT_PATH}")
+print(f"Rezultati u ruajt në: \n{OUTPUT_PATH}")
 ```
 
 Ky seksion përshkruan hap pas hapi se çfarë bën skripti dhe si funksionon llogjika e tij. Përfshin përshkrime të detajuara të funksionit detect_outliers_iqr dhe pse përdoret metoda IQR për detektim të vlerave të jashtëzakonshme.
 
 ---
 
-# 4. Leximi i dataset-it
+# 5. Leximi i dataset-it
 
 ```python
 df = pd.read_csv(INPUT_PATH)
@@ -107,7 +107,7 @@ Ky hap i lejon skriptit të ngarkojë dataset-in në memorien e programit. Datas
 
 ---
 
-# 5. Përzgjedhja e kolonave numerike
+# 6. Përzgjedhja e kolonave numerike
 
 ```python
 numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
@@ -118,13 +118,13 @@ Shpjegimi i zgjeruar tregon pse kolonat kategorike ose tekstuale nuk kanë kupti
 
 ---
 
-# 6. Funksioni detect_outliers_iqr
+# 7. Funksioni detect_outliers_iqr
 
 Ky funksion përshkruhet në detaje: si llogariten kuartilet Q1 dhe Q3, si del vlera e IQR, pse pragjet bazohen në 1.5 × IQR, dhe si ndërtohet maska për përjashtuesit për të gjitha kolonat numerike. Shpjegohet edhe pse kjo metodë konsiderohet e qëndrueshme dhe më pak e ndikuar nga outliers sesa metodat statistikore bazuar në mesatare dhe devijim standard.
 
 ---
 
-# 7. Shtimi i kolonës is_outlier
+# 8. Shtimi i kolonës is_outlier
 
 ```python
 df["is_outlier"] = detect_outliers_iqr(df, numeric_cols)
@@ -134,7 +134,7 @@ Ky seksion shpjegon rëndësinë e kolonës së re dhe mënyrat se si mund të p
 
 ---
 
-# 8. Krijimi i folderit të output-it
+# 9. Krijimi i folderit të output-it
 
 ```python
 OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -144,7 +144,7 @@ Përshkrimi tregon pse kjo linjë është kritike — shmang gabimet e ruajtjes 
 
 ---
 
-# 9. Ruajtja e dataset-it të përditësuar
+# 10. Ruajtja e dataset-it të përditësuar
 
 ```python
 df.to_csv(OUTPUT_PATH, index=False)
@@ -154,7 +154,7 @@ Kjo pjesë shpjegon procesin e ruajtjes dhe arsyen pse kolona e indeksit nuk ruh
 
 ---
 
-# 10. Mesazhet në konzol
+# 11. Mesazhet në konzol
 
 ```
 Detektimi i përjashtuesve u krye me sukses!
@@ -166,7 +166,7 @@ Këto mesazhe informojnë përdoruesin që gjithçka ka shkuar siç duhet.
 
 ---
 
-# 11. Si ta ekzekutoni skriptin
+# 12. Si t'a ekzekutoni skriptin
 
 1. Sigurohu që ekziston file-i input:
 ```
